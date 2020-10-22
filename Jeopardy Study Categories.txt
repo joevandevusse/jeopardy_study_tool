@@ -1,0 +1,93 @@
+Jeopardy Study Categories
+
+Geography
+  United States/World
+    Capitals,  most populous cities
+    Water - rivers, lakes, seas, oceans
+    Nature - mountains, deserts, peninsulas, capes
+    Currencies
+
+Government
+  People
+    Presidents/VP's
+    Prominent figures
+      Historical governmental figures
+      Current/recent world leaders/figures
+    Royalty, lines of succession
+  Amendments, laws, court cases
+
+Wars
+  Most common - US Revolutionary & Civil, WWII & WWII
+  Battles
+  Generals, leaders, commanding officers
+  Pacts, alliances, treatises
+  Technology - tanks, jets, ships
+  Exploration
+
+Science
+  Famous scientists
+  Periodic tables
+  Laws/theories
+  Elements
+  Technological inventions
+  Animals
+
+Antiquity
+  Mythology
+  Civilizations
+  Ancient wonders of the world
+  Philosophers
+
+Literature/Art
+  Authors, novels, poems
+    Mostly classical - Shakespeare, US/Britain, some modern
+  Artists, works of art, art periods/movements
+
+Music
+  Classical/operas/composers
+  Ballets
+  Famous bands
+  Instruments
+  Top songs by year - Billboard
+
+Cinema/TV
+  Actors
+  Writers
+  Directors
+  Award winners by years - Oscar's, Emmy's
+
+Bible
+  Books
+  Characters
+
+Business
+  Industries
+  Companies
+  Mergers/acquisitions
+  CEO's, titans of industry
+
+Wordplay
+  Before and after
+  Crossword clues
+  Word origins
+
+Sports
+  Olympics
+    Locations
+    Champions
+  Famous players, individual titles
+  Significant games
+  Champions
+  Stadiums/venues
+
+V US Presidents
+V Capitals
+	US
+	Europe
+	Asia 
+	Africa
+	N. America
+	S. America
+	Oceania
+V Olympics
+V Works of Lit - Top 100
