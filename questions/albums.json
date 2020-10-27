@@ -1,0 +1,258 @@
+[
+  {
+    "question": "Year: 2019\nNationality: United States\nAlbum: Hollywood's Bleeding",
+    "answer": "Post Malone"
+  },
+  {
+    "question": "Year: 2018\nNationality: Canada\nAlbum: Scorpion",
+    "answer": "Drake"
+  },
+  {
+    "question": "Year: 2017\nNationality: United Kingdon\nAlbum: %",
+    "answer": "Ed Sheeran"
+  },
+  {
+    "question": "Year: 2016\nNationality: Canada\nAlbum: Views",
+    "answer": "Drake"
+  },
+  {
+    "question": "Year: 2015\nNationality: United Kingdon\nAlbum: 25",
+    "answer": "Adele"
+  },
+  {
+    "question": "Year: 2014\nNationality: United States\nAlbum: 1989",
+    "answer": "Taylor Swift"
+  },
+  {
+    "question": "Year: 2013\nNationality: United States\nAlbum: The 20/20 Experience",
+    "answer": "Justin Timberlake"
+  },
+  {
+    "question": "Year: 2012\nNationality: United Kingdon\nAlbum: 21",
+    "answer": "Adele"
+  },
+  {
+    "question": "Year: 2011\nNationality: United Kingdon\nAlbum: 21",
+    "answer": "Adele"
+  },
+  {
+    "question": "Year: 2010\nNationality: United States\nAlbum: Recovery",
+    "answer": "Eminem"
+  },
+  {
+    "question": "Year: 2009\nNationality: United States\nAlbum: Fearless",
+    "answer": "Taylor Swift"
+  },
+  {
+    "question": "Year: 2008\nNationality: United States\nAlbum: Tha Carter III",
+    "answer": "Lil Wayne"
+  },
+  {
+    "question": "Year: 2007\nNationality: United States\nAlbum: Noël",
+    "answer": "Josh Groban"
+  },
+  {
+    "question": "Year: 2006\nNationality: N/A\nAlbum: High School Musical",
+    "answer": "Soundtrack"
+  },
+  {
+    "question": "Year: 2005\nNationality: United States\nAlbum: The Emancipation of Mimi",
+    "answer": "Mariah Carey"
+  },
+  {
+    "question": "Year: 2004\nNationality: United States\nAlbum: Confessions",
+    "answer": "Usher"
+  },
+  {
+    "question": "Year: 2003\nNationality: United States\nAlbum: Get Rich or Die Tryin'",
+    "answer": "50 Cent"
+  },
+  {
+    "question": "Year: 2002\nNationality: United States\nAlbum: The <Titular> Show",
+    "answer": "Eminem"
+  },
+  {
+    "question": "Year: 2001\nNationality: United States\nAlbum: Hybrid Theory",
+    "answer": "Linkin Park"
+  },
+  {
+    "question": "Year: 2000\nNationality: United States\nAlbum: No Strings Attached",
+    "answer": "NSYNC"
+  },
+  {
+    "question": "Year: 1999\nNationality: United States\nAlbum: Millennium",
+    "answer": "Backstreet Boys"
+  },
+  {
+    "question": "Year: 1998\nNationality: N/A\nAlbum: Titanic",
+    "answer": "James Horner"
+  },
+  {
+    "question": "Year: 1997\nNationality: United Kingdon\nAlbum: Spice",
+    "answer": "Spice Girls"
+  },
+  {
+    "question": "Year: 1996\nNationality: Canada\nAlbum: Jagged Little Pill",
+    "answer": "Alanis Morissette"
+  },
+  {
+    "question": "Year: 1995\nNationality: United States\nAlbum: Cracked Rear View",
+    "answer": "Hootie and the Blowfish"
+  },
+  {
+    "question": "Year: 1994\nNationality: N/A\nAlbum: The Lion King",
+    "answer": "Elton John"
+  },
+  {
+    "question": "Year: 1993\nNationality: N/A\nAlbum: The Bodyguard",
+    "answer": "Whitney Houston"
+  },
+  {
+    "question": "Year: 1992\nNationality: United States\nAlbum: Some Gave All",
+    "answer": "Billy Ray Cyrus"
+  },
+  {
+    "question": "Year: 1991\nNationality: United States\nAlbum: <Titular>",
+    "answer": "Mariah Carey"
+  },
+  {
+    "question": "Year: 1990\nNationality: United States\nAlbum: <Titular>'s Rhythm Nation 1814",
+    "answer": "Janet Jackson"
+  },
+  {
+    "question": "Year: 1989\nNationality: United States\nAlbum: Don't Be Cruel",
+    "answer": "Bobby Brown"
+  },
+  {
+    "question": "Year: 1988\nNationality: United Kingdom\nAlbum: Faith",
+    "answer": "George Michael"
+  },
+  {
+    "question": "Year: 1987\nNationality: United States\nAlbum: Slippery When Wet",
+    "answer": "Bon Jovi"
+  },
+  {
+    "question": "Year: 1986\nNationality: United States\nAlbum: <Titular>",
+    "answer": "Whitney Houston"
+  },
+  {
+    "question": "Year: 1985\nNationality: United States\nAlbum: Born in the USA",
+    "answer": "Bruce Springsteen"
+  },
+  {
+    "question": "Year: 1984\nNationality: United States\nAlbum: Thriller",
+    "answer": "Michael Jackson"
+  },
+  {
+    "question": "Year: 1983\nNationality: United States\nAlbum: Thriller",
+    "answer": "Michael Jackson"
+  },
+  {
+    "question": "Year: 1982\nNationality: United Kingdom\nAlbum: <Titular>",
+    "answer": "Asia"
+  },
+  {
+    "question": "Year: 1981\nNationality: United States\nAlbum: Hi Infidelity",
+    "answer": "REO Speedwagon"
+  },
+  {
+    "question": "Year: 1980\nNationality: United Kingdom\nAlbum: The Wall",
+    "answer": "Pink Floyd"
+  },
+  {
+    "question": "Year: 1979\nNationality: United States\nAlbum: 52nd Street",
+    "answer": "Billy Joel"
+  },
+  {
+    "question": "Year: 1978\nNationality: N/A\nAlbum: Saturday Night Fever",
+    "answer": "Bee Gees"
+  },
+  {
+    "question": "Year: 1977\nNationality: UK/USA\nAlbum: Rumors",
+    "answer": "Fleetwood Mac"
+  },
+  {
+    "question": "Year: 1976\nNationality: UK/USA\nAlbum: <Titular> Comes Alive",
+    "answer": "Peter Frampton"
+  },
+  {
+    "question": "Year: 1975\nNationality: United Kingdom\nAlbum: <Titular>'s Greatest Hits'",
+    "answer": "Elton John"
+  },
+  {
+    "question": "Year: 1974\nNationality: United Kingdom\nAlbum: Goodbye Yellow Brick Road",
+    "answer": "Elton John"
+  },
+  {
+    "question": "Year: 1973\nNationality: United States\nAlbum: The World is a Ghetto",
+    "answer": "War"
+  },
+  {
+    "question": "Year: 1972\nNationality: Canada\nAlbum: Harvest",
+    "answer": "Neil Young"
+  },
+  {
+    "question": "Year: 1971\nNationality: N/A\nAlbum: Jesus Christ Superstar",
+    "answer": "Various Artists"
+  },
+  {
+    "question": "Year: 1970\nNationality: United States\nAlbum: Bridge over Troubled Water",
+    "answer": "Simon and Garfunkel"
+  },
+  {
+    "question": "Year: 1969\nNationality: United States\nAlbum: In-A-Gadda-Da-Vida",
+    "answer": "Iron Butterfly"
+  },
+  {
+    "question": "Year: 1968\nNationality: United States\nAlbum: Are You Experienced?",
+    "answer": "The Jimi Hendrix Experience"
+  },
+  {
+    "question": "Year: 1967\nNationality: United States\nAlbum: More of The <Titular>",
+    "answer": "The Monkees"
+  },
+  {
+    "question": "Year: 1966\nNationality: United States\nAlbum: Whipped Cream & Other Delights",
+    "answer": "Herb Alpert & The Tijuana Brass"
+  },
+  {
+    "question": "Year: 1965\nNationality: N/A\nAlbum: Mary Poppins",
+    "answer": "Soundtrack"
+  },
+  {
+    "question": "Year: 1964\nNationality: N/A\nAlbum: Hello, Dolly!",
+    "answer": "Original Broadway Cast"
+  },
+  {
+    "question": "Year: 1963\nNationality: N/A\nAlbum: West Side Story",
+    "answer": "Soundtrack"
+  },
+  {
+    "question": "Year: 1962\nNationality: N/A\nAlbum: West Side Story",
+    "answer": "Soundtrack"
+  },
+  {
+    "question": "Year: 1961\nNationality: N/A\nAlbum: Camelot",
+    "answer": "Original Broadway Cast"
+  },
+  {
+    "question": "Year: 1960\nNationality: N/A\nAlbum: The Sound of Music",
+    "answer": "Original Broadway Cast"
+  },
+  {
+    "question": "Year: 1959\nNationality: United States\nAlbum: Music from Peter Gunn",
+    "answer": "Henry Mancini"
+  },
+  {
+    "question": "Year: 1958\nNationality: N/A\nAlbum: My Fair Lady",
+    "answer": "Original Broadway Cast"
+  },
+  {
+    "question": "Year: 1957\nNationality: N/A\nAlbum: My Fair Lady",
+    "answer": "Original Broadway Cast"
+  },
+  {
+    "question": "Year: 1956\nNationality: United States\nAlbum: Calypso",
+    "answer": "Henry Belafonte"
+  }
+]

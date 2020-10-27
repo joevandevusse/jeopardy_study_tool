@@ -1,0 +1,182 @@
+[
+    {
+        "question": "Number: 1\nPresidential Term: 1789 - 1797\nParty: None\nVice President: John Adams",
+        "answer": "George Washington"
+    },
+    {
+        "question": "Number: 2\nPresidential Term: 1797 - 1801\nParty: Federalist\nVice President: Thomas Jefferson",
+        "answer": "John Adams"
+    },
+    {
+        "question": "Number: 3\nPresidential Term: 1801 - 1809\nParty: Democrat-Republican\nVice President: Aaron Burr, George Clinton",
+        "answer": "Thomas Jefferson"
+    },
+    {
+        "question": "Number: 4\nPresidential Term: 1809 - 1817\nParty: Democrat-Republican\nVice President: George Clinton, Elbridge Gerry",
+        "answer": "James Madison"
+    },
+    {
+        "question": "Number: 5\nPresidential Term: 1817 - 1825\nParty: Democrat-Republican\nVice President: Daniel D. Tompkins",
+        "answer": "James Monroe"
+    },
+    {
+        "question": "Number: 6\nPresidential Term: 1825 - 1829\nParty: Democrat-Republican, National Republican\nVice President: John C. Calhoun",
+        "answer": "John Quincy Adams"
+    },
+    {
+        "question": "Number: 7\nPresidential Term: 1829 - 1837\nParty: Democratic\nVice President: John C. Calhoun, Martin Van Buren",
+        "answer": "Andrew Jackson"
+    },
+    {
+        "question": "Number: 8\nPresidential Term: 1837 - 1841\nParty: Democratic\nVice President: Richard Mentor Jefferson",
+        "answer": "Martin Van Buren"
+    },
+    {
+        "question": "Number: 9\nPresidential Term: 1841 - 1841\nParty: Democratic\nVice President: John Tyler",
+        "answer": "William Henry Harrison"
+    },
+    {
+        "question": "Number: 10\nPresidential Term: 1841 - 1845\nParty: Whig\nVice President: None",
+        "answer": "John Tyler"
+    },
+    {
+        "question": "Number: 11\nPresidential Term: 1845 - 1849\nParty: Democratic\nVice President: George M. Dallas",
+        "answer": "James K. Polk"
+    },
+    {
+        "question": "Number: 12\nPresidential Term: 1849 - 1850\nParty: Whig\nVice President: Millard Fillmore",
+        "answer": "Zachary Taylor"
+    },
+    {
+        "question": "Number: 13\nPresidential Term: 1850 - 1853\nParty: Whig\nVice President: None",
+        "answer": "Millard Fillmore"
+    },
+    {
+        "question": "Number: 14\nPresidential Term: 1853 - 1857\nParty: Democratic\nVice President: William R. King",
+        "answer": "Franklin Pierce"
+    },
+    {
+        "question": "Number: 15\nPresidential Term: 1857 - 1861\nParty: Democratic\nVice President: John C. Breckenridge",
+        "answer": "James Buchanan"
+    },
+    {
+        "question": "Number: 16\nPresidential Term: 1861 - 1865\nParty: Republican, National Union\nVice President: Hannibal Hamlin, Andrew Johnson",
+        "answer": "Abraham Lincoln"
+    },
+    {
+        "question": "Number: 17\nPresidential Term: 1865 - 1869\nParty: National Union, Democratic\nVice President: None",
+        "answer": "Andrew Johnson"
+    },
+    {
+        "question": "Number: 18\nPresidential Term: 1869 - 1877\nParty: Republican\nVice President: Schuyler Cox, Henry Wilson",
+        "answer": "Ulysses S. Grant"
+    },
+    {
+        "question": "Number: 19\nPresidential Term: 1877 - 1881\nParty: Republican\nVice President: William A. Wheeler",
+        "answer": "Rutherford B. Hayes"
+    },
+    {
+        "question": "Number: 20\nPresidential Term: 1881 - 1881\nParty: Republican\nVice President: Chester A. Arthur",
+        "answer": "James A. Garfield"
+    },
+    {
+        "question": "Number: 21\nPresidential Term: 1881 - 1885\nParty: Republican\nVice President: None",
+        "answer": "Chester A. Arthur"
+    },
+    {
+        "question": "Number: 22\nPresidential Term: 1885 - 1889\nParty: Democratic\nVice President: Thomas A. Hendricks",
+        "answer": "Grover Cleveland"
+    },
+    {
+        "question": "Number: 23\nPresidential Term: 1889 - 1893\nParty: Republican\nVice President: Levi P. Morton",
+        "answer": "Benjamin Harrison"
+    },
+    {
+        "question": "Number: 24\nPresidential Term: 1893 - 1897\nParty: Democratic\nVice President: Adlai Stevenson I",
+        "answer": "Grover Cleveland"
+    },
+    {
+        "question": "Number: 25\nPresidential Term: 1897 - 1901\nParty: Republican\nVice President: Garret Hobart, Theodore Roosevelt",
+        "answer": "William McKinley"
+    },
+    {
+        "question": "Number: 26\nPresidential Term: 1901 - 1909\nParty: Republican\nVice President: Charles W. Fairbanks",
+        "answer": "Theodore Roosevelt"
+    },
+    {
+        "question": "Number: 27\nPresidential Term: 1909 - 1913\nParty: Republican\nVice President: James S. Sherman",
+        "answer": "William Howard Taft"
+    },
+    {
+        "question": "Number: 28\nPresidential Term: 1913 - 1921\nParty: Democratic\nVice President: Thomas R. Marshall",
+        "answer": "Woodrow Wilson"
+    },
+    {
+        "question": "Number: 29\nPresidential Term: 1921 - 1923\nParty: Republican\nVice President: Calvin Coolidge",
+        "answer": "Warren G. Harding"
+    },
+    {
+        "question": "Number: 30\nPresidential Term: 1923 - 1929\nParty: Republican\nVice President: Charles G. Dawes",
+        "answer": "Calvin Coolidge"
+    },
+    {
+        "question": "Number: 31\nPresidential Term: 1929 - 1933\nParty: Republican\nVice President: Charles Curtis",
+        "answer": "Herbert Hoover"
+    },
+    {
+        "question": "Number: 32\nPresidential Term: 1933 - 1945\nParty: Democratic\nVice President: John Nance Garner, Henry A. Wallace, Harry S. Truman",
+        "answer": "Franklin D. Roosevelt"
+    },
+    {
+        "question": "Number: 33\nPresidential Term: 1945 - 1953\nParty: Democratic\nVice President: Alben W. Barkley",
+        "answer": "Harry S. Truman"
+    },
+    {
+        "question": "Number: 34\nPresidential Term: 1953 - 1961\nParty: Republican\nVice President: Richard Nixon",
+        "answer": "Dwight D. Eisenhower"
+    },
+    {
+        "question": "Number: 35\nPresidential Term: 1961 - 1963\nParty: Democratic\nVice President:Lyndon B. Johnson",
+        "answer": "John F. Kennedy"
+    },
+    {
+        "question": "Number: 36\nPresidential Term: 1963 - 1969\nParty: Democratic\nVice President: Hubert Humphrey",
+        "answer": "Lyndon B. Johnson"
+    },
+    {
+        "question": "Number: 37\nPresidential Term: 1969 - 1974\nParty: Republican\nVice President: Spiro Agnew, Gerald Ford",
+        "answer": "Richard Nixon"
+    },
+    {
+        "question": "Number: 38\nPresidential Term: 1974 - 1977\nParty: Republican\nVice President: Nelson Rockefeller",
+        "answer": "Gerald Ford"
+    },
+    {
+        "question": "Number: 39\nPresidential Term: 1977 - 1981\nParty: Democratic\nVice President: Walter Mondale",
+        "answer": "Jimmy Carter"
+    },
+    {
+        "question": "Number: 40\nPresidential Term: 1981 - 1989\nParty: Republican\nVice President: George H. W. Bush",
+        "answer": "Ronald Reagan"
+    },
+    {
+        "question": "Number: 41\nPresidential Term: 1989 - 1993\nParty: Republican\nVice President: Dan Quayle",
+        "answer": "George H. W. Bush"
+    },
+    {
+        "question": "Number: 42\nPresidential Term: 1993 - 2001\nParty: Democratic\nVice President: Al Gore",
+        "answer": "Bill Clinton"
+    },
+    {
+        "question": "Number: 43\nPresidential Term: 2001 - 2009\nParty: Republican\nVice President: Dick Cheney",
+        "answer": "George W. Bush"
+    },
+    {
+        "question": "Number: 44\nPresidential Term: 2009 - 2017\nParty: Democratic\nVice President: Joe Biden",
+        "answer": "Barack Obama"
+    },
+    {
+        "question": "Number: 45\nPresidential Term: 2017 - Present\nParty: Republican\nVice President: Mike Pence",
+        "answer": "Donald Trump"
+    }
+]

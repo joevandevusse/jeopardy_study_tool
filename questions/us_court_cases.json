@@ -1,0 +1,117 @@
+[
+    {
+        "question": "(1803) Judicial Review, Supreme Court can strike down laws as nconstitutional",
+        "answer": "Marbury v. Madison"
+    },
+    {
+        "question": "(1819) Congress has 'Implied Powers' to establish a National Bank under 'Necessary and Proper' Clause, 'Federal Supremacy' says US laws trump state laws - state cannot tax National Bank",
+        "answer": "McCulloch v. Maryland"
+    },
+    {
+        "question": "(1824) Federal government can regulate interstate commerce, this ended up including things like water navigation as well",
+        "answer": "Gibbons v. Ogden"
+    },
+    {
+        "question": "(1857) Congress could not prohibit slavery in territories, African Americans could not sue in federal court, slaves were 'property' - could not be taken from owners without due process",
+        "answer": "Dred Scott v. Sandford"
+    },
+    {
+        "question": "(1919) Speech can be restricted if it poses a 'clear and present danger'",
+        "answer": "Schenck v. United States"
+    },
+    {
+        "question": "(1969) Expended upon Schenck v. United States, speech can also be restricted if it would provoke an 'imminent lawless action'",
+        "answer": "Brandenberg v. Ohio"
+    },
+    {
+        "question": "(1954) Overturned Plessy v. Ferguson, racial segregation violates Equal Protection Clause of 14th Amendment, 'separate educational facilites are inherently unequal'",
+        "answer": "Brown v. Board of Education"
+    },
+    {
+        "question": "(1896) Upheld racial segregation for public facilities so long as it was 'separate but equal'",
+        "answer": "Plessy v. Ferguson"
+    },
+    {
+        "question": "(1963) The 6th Amendment right to assistance of counsel applies to criminal state trials, 'lawyers in criminal court are necessities, not luxuries'",
+        "answer": "Gideon v. Wainwright"
+    },
+    {
+        "question": "(1966) The 5th and 6th Amendments require police to inform individuals of the right to remain silent and the right to counsel, otherwise - statements may not be admitted as evidence",
+        "answer": "Miranda v. Arizona"
+    },
+    {
+        "question": "(1969) Students' speech can only be restricted if it disrupts the educational process, students to not 'shed their constitutional rights of freedom of speech... at the schoolhouse gate'",
+        "answer": "Tinker v. Des Moines"
+    },
+    {
+        "question": "(1973) The 14th Amendment Due Process Clause and right to privacy protect the right to an abortion, may only be restricted toward the end of pregnancy to protect the life of the fetus/mother",
+        "answer": "Roe v. Wade"
+    },
+    {
+        "question": "(1978) Supported affirmative action, race can be used as part of college admissions as long as there are no 'fixed quotas'",
+        "answer": "Regents of the University of California v. Bakke"
+    },
+    {
+        "question": "(2000) 2000 presidential election ballot recount in Florida violated 14th Amendment Equal Protection Clause because different standards of counting were used in different counties",
+        "answer": "Bush v. Gore"
+    },
+    {
+        "question": "(1974) The doctrine of executive privilege is legitimate; however, the President cannot invoke it in criminal cases to withhold evidence",
+        "answer": "United States v. Nixon"
+    },
+    {
+        "question": "(2000) Private organizations can expel individuals based on sexual orientation even if legislation exists to protect them in public accomodations",
+        "answer": "Boy Scouts of America v. Dale"
+    },
+    {
+        "question": "(2010) Corporation and labor unions can spend unlimited sums politically as long as spending is independent of candidates, limits were deemed to violate 1st Amendment free speech",
+        "answer": "Citizens United v. Federal Election Commission"
+    },
+    {
+        "question": "(1989) Flag desecration cannot be restricted as it is protected by the 1st Amendment's protection of symbolic speech",
+        "answer": "Texas v. Johnson"
+    },
+    {
+        "question": "(1976) Spending money to influence elections is constitutionally protected free speech, it is may only be limited in a few circumstances",
+        "answer": "Buckley v. Valeo"
+    },
+    {
+        "question": "(1973) To be obscene, a work must fail the Miller Test, which determines if it has any 'serious literary, artistic, political, or scientific value'",
+        "answer": "Miller v. California"
+    },
+    {
+        "question": "(1832) Tribal sovereignty because the relationship of Indian Nations and the US is that of nations",
+        "answer": "Worcester v. Georgia"
+    },
+    {
+        "question": "(1810) State legislatures can repeal corruptly made laws, but Contract Clause of Constitution prohibits voiding of contracts made under such law - first example of SCOTUS declaring a state law unconstitutional",
+        "answer": "Fletcher v. Peck"
+    },
+    {
+        "question": "(1972) Arbitrary/inconsistent imposition of death penalty violates 8th/14th Amendments - cruel and unusual punishment, nationwide de facto moratorium on executions",
+        "answer": "Furman v. Georgia"
+    },
+    {
+        "question": "(1976) Essentially reversed Furman v. Georgia, adequately narrows class of defendants eligible for the death penalty, ended de facto moratorium on executions",
+        "answer": "Gregg v. Georgia"
+    },
+    {
+        "question": "(1961) Evidence obtained in violation of 4th Amendment in inadmissible in state court, expanded 'exclusionary rule'",
+        "answer": "Mapp v. Ohio"
+    },
+    {
+        "question": "(1992) Strict trimester framwork from Roe v. Wade is discarded - replaced by 'undue burden' test, some restrictions are now permitted in first trimester",
+        "answer": "Planned Parenthood v. Casey"
+    },
+    {
+        "question": "(1965) State law criminalizing use of contraception by married couples is unconstitutional due to the right to privacy",
+        "answer": "Griswold v. Connecticut"
+    },    {
+        "question": "(2015) The 14th Amendment requires states to license marriage between those of the same sex with all accompanying rights, must be recognized from other states",
+        "answer": "Oberfell v. Hodges"
+    },
+    {
+        "question": "(1944) FDR Executive Order 9066 is constitutional, Japanese Americans can be interned and deprived of constitutional rights",
+        "answer": "Korematsu v. United States"
+    }
+]

@@ -1,0 +1,410 @@
+[
+    {
+        "question": "Hamlet - Drama (1601)",
+        "answer": "William Shakespeare"
+    },
+    {
+        "question": "The Tempest - Drama (1611)",
+        "answer": "William Shakespeare"
+    },
+    {
+        "question": "Iliad - Poem (8th Century BCE)",
+        "answer": "Homer"
+    },
+    {
+        "question": "Moby-Dick - Novel (1851)",
+        "answer": "Herman Melville"
+    },
+    {
+        "question": "Macbeth - Drama (1606)",
+        "answer": "William Shakespeare"
+    },
+    {
+        "question": "Candide - Novel (1759)",
+        "answer": "Voltaire"
+    },
+    {
+        "question": "Faust - Poem (1808)",
+        "answer": "Johann Wolfgang von Goethe"
+    },
+    {
+        "question": "Othello - Drama (1622)",
+        "answer": "William Shakespeare"
+    },
+    {
+        "question": "A Midsummer Night's Dream - Drama (1595)",
+        "answer": "William Shakespeare"
+    },
+    {
+        "question": "Pride and Prejudice - Novel (1813)",
+        "answer": "Jane Austen"
+    },
+    {
+        "question": "The Merchant of Venice - Drama (1596)",
+        "answer": "William Shakespeare"
+    },
+    {
+        "question": "The Great Gatsby - Novel (1925)",
+        "answer": "F. Scott Fitzgerald"
+    },
+    {
+        "question": "The Scarlet Letter - Novel (1850)",
+        "answer": "Nathaniel Hawthorne"
+    },
+    {
+        "question": "The Canterbury Tales - Poem (1387)",
+        "answer": "Geoffrey Chaucer"
+    },
+    {
+        "question": "Pilgrim's Progess - Religious (1678)",
+        "answer": "John Bunyan"
+    },
+    {
+        "question": "King Lear - Drama (1605)",
+        "answer": "William Shakespeare"
+    },
+    {
+        "question": "Odyssey - Poem (8th Century BCE)",
+        "answer": "Homer"
+    },
+    {
+        "question": "The Divine Comedy - Poem (1314)",
+        "answer": "Dante Alighieri"
+    },
+    {
+        "question": "Romeo and Juliet - Drama (1594)",
+        "answer": "William Shakespeare"
+    },
+    {
+        "question": "Billy Budd: Foretopman - Novel (1891)",
+        "answer": "Herman Melville"
+    },
+    {
+        "question": "Vanity Fair - Novel (1848)",
+        "answer": "William Makepeace Thackeray"
+    },
+    {
+        "question": "Paradise Lost - Poem (1667)",
+        "answer": "John Milton"
+    },
+    {
+        "question": "Julius Caesar - Drama (1599)",
+        "answer": "William Shakespeare"
+    },
+    {
+        "question": "Little Women - Novel (1868)",
+        "answer": "Louisa May Alcott"
+    },
+    {
+        "question": "Twelfth Night - Drama (1601)",
+        "answer": "William Shakespeare"
+    },
+    {
+        "question": "The Tempest - Drama (1611)",
+        "answer": "William Shakespeare"
+    },
+    {
+        "question": "A Doll's House - Drama (1879)",
+        "answer": "Henrik Ibsen"
+    },
+    {
+        "question": "Aeneid - Poem (19 BCE)",
+        "answer": "Virgil"
+    },
+    {
+        "question": "Our Town - Drama (1938)",
+        "answer": "Thornton Wilder"
+    },
+    {
+        "question": "Much Ado About Nothing - Drama (1598)",
+        "answer": "William Shakespeare"
+    },
+    {
+        "question": "War and Peace - Novel (1865)",
+        "answer": "Leo Tolstoy"
+    },
+    {
+        "question": "Long Day's Journey into Night - Drama (1956)",
+        "answer": "Eugene O'Neill"
+    },
+    {
+        "question": "For Whom the Bell Tolls - Nobel (1940)",
+        "answer": "Ernest Hemingway"
+    },
+    {
+        "question": "Jane Eyre - Novel (1847)",
+        "answer": "Charlotte Bronte"
+    },
+    {
+        "question": "Anna Karinena - Novel (1877)",
+        "answer": "Leo Tolstoy"
+    },
+    {
+        "question": "Heart of Darkness - Short Story (1902)",
+        "answer": "Joseph Conrad"
+    },
+    {
+        "question": "Les Miserables - Novel (1862)",
+        "answer": "Victor Hugo"
+    },
+    {
+        "question": "Who's Afaid of Virginia Woolf - Drama (1961)",
+        "answer": "Frank Albee"
+    },
+    {
+        "question": "The Jungle - Novel (1906)",
+        "answer": "Upton Sinclair"
+    },
+    {
+        "question": "1984 - Novel (1948)",
+        "answer": "George Orwell"
+    },
+    {
+        "question": "Crime and Punishment - Novel (1866)",
+        "answer": "Fyodor Dostoyevsky"
+    },
+    {
+        "question": "Medea - Drama (431 BCE)",
+        "answer": "Euripides"
+    },
+    {
+        "question": "A Tale of Two Cities - Novel (1859)",
+        "answer": "Charles Dickens"
+    },
+    {
+        "question": "Ulysses - Novel (1922)",
+        "answer": "James Joyce"
+    },
+    {
+        "question": "A Raisin in the Sun - Drama (1959)",
+        "answer": "Lorraine Hansberry"
+    },
+    {
+        "question": "To Kill a Mockingbird - Novel (1960)",
+        "answer": "Harper Lee"
+    },
+    {
+        "question": "Wuthering Heights - Novel (1847)",
+        "answer": "Emily Bronte"
+    },
+    {
+        "question": "A Farewell to Arms - Novel (1929)",
+        "answer": "Ernest Hemingway"
+    },
+    {
+        "question": "A Streetcar Named Desire - Drama (1947)",
+        "answer": "Tennessee Williams"
+    },
+    {
+        "question": "The Taming of the Shrew - Drama (1593)",
+        "answer": "William Shakespeare"
+    },
+    {
+        "question": "Chicago - Poem (1916)",
+        "answer": "Carl Sandburg"
+    },
+    {
+        "question": "The Rape of the Lock - Poem (1714)",
+        "answer": "Alexander Pope"
+    },
+    {
+        "question": "The Rime of the Ancient Mariner - Poem (1797)",
+        "answer": "Samuel Taylor Coleridge"
+    },
+    {
+        "question": "Catch-22 - Novel (1961)",
+        "answer": "Joseph Heller"
+    },
+    {
+        "question": "The Waste Land - Poem (1922)",
+        "answer": "T. S. Eliot"
+    },
+    {
+        "question": "Lolita - Novel (1955)",
+        "answer": "Vladimir Nabokov"
+    },
+    {
+        "question": "The Catcher in the Rye - Novel (1951)",
+        "answer": "J. D. Salinger"
+    },
+    {
+        "question": "On the Road - Novel (1957)",
+        "answer": "Jack Kerouac"
+    },
+    {
+        "question": "Beowulf - Poem (8th Century CE)",
+        "answer": "Anonymous"
+    },
+    {
+        "question": "The Merry Wives of Windsor - Drama (16)",
+        "answer": "William Shakespeare"
+    },
+    {
+        "question": "The Turn of the Screw - Novel (1898)",
+        "answer": "Henry James"
+    },
+    {
+        "question": "Of Mice and Men - Novel (1937)",
+        "answer": "John Steinbeck"
+    },
+    {
+        "question": "The Sun Also Rises - Novel (1926)",
+        "answer": "Ernest Hemingway"
+    },
+    {
+        "question": "Lyrical Ballads (1st Alphabetically) - Poem (1798)",
+        "answer": "Samuel Taylor Coleridge"
+    },
+    {
+        "question": "Lyrical Ballads (2nd Alphabetically) - Poem (1798)",
+        "answer": "William Wordsworth"
+    },
+    {
+        "question": "Ode on a Grecian Urn - Poem (1819)",
+        "answer": "John Keats"
+    },
+    {
+        "question": "Ivanhoe - Novel (1820)",
+        "answer": "Walter Scott"
+    },
+    {
+        "question": "David Copperfield - Novel (1850)",
+        "answer": "Charles Dickens"
+    },
+    {
+        "question": "Great Expectations - Novel (1861)",
+        "answer": "Charles Dickens"
+    },
+    {
+        "question": "One Hundred Years of Solitude - Novel (1967)",
+        "answer": "Gabriel Garcia Marquez"
+    },
+    {
+        "question": "Uncle Tom's Cabin - Novel (1852)",
+        "answer": "Harriet Beecher Stowe"
+    },
+    {
+        "question": "Kim - Novel (1901)",
+        "answer": "Rudyard Kipling"
+    },
+    {
+        "question": "A Clockwork Orange - Novel (1962)",
+        "answer": "Anthony Burgess"
+    },
+    {
+        "question": "The Crucible - Drama (1953)",
+        "answer": "Arthur Miller"
+    },
+    {
+        "question": "Measure for Measure - Drama (1604)",
+        "answer": "William Shakespeare"
+    },
+    {
+        "question": "Oliver Twist - Novel (1838)",
+        "answer": "Charles Dickens"
+    },
+    {
+        "question": "The Seagull - Drama (1896)",
+        "answer": "Anton Chekov"
+    },
+    {
+        "question": "Orestia - Series (458 BCE)",
+        "answer": "Aeschylus"
+    },
+    {
+        "question": "Bhagavadgita - Religious (200 BCE - 200 CE)",
+        "answer": "Unkonwn"
+    },
+    {
+        "question": "Howl - Poem (1956)",
+        "answer": "Allen Ginsburg"
+    },
+    {
+        "question": "Eugene Onegin - Poem (1833)",
+        "answer": "Aleksandr Pushkin"
+    },
+    {
+        "question": "Gulliver's Travels - Novel (1726)",
+        "answer": "Jonathan Swift"
+    },
+    {
+        "question": "Slaughterhouse Five - Novel (1969)",
+        "answer": "Kurt Vonnegut"
+    },
+    {
+        "question": "Brave New World - Novel (1932)",
+        "answer": "Aldous Huxley"
+    },
+    {
+        "question": "The Grapes of Wrath - Novel (1939)",
+        "answer": "John Steinbeck"
+    },
+    {
+        "question": "Treasure Island - Novel (1883)",
+        "answer": "Robert Louis Stevenson"
+    },
+    {
+        "question": "Fathers and Sons - Novel (1862)",
+        "answer": "Ivan Turgenev"
+    },
+    {
+        "question": "Pygmalion - Drama (1912)",
+        "answer": "George Bernard Shaw"
+    },
+    {
+        "question": "The Sorrows of Young Werther - Novel (1774)",
+        "answer": "Johann Wolfgang von Goethe"
+    },
+    {
+        "question": "Death of a Salesman - Drama (1949)",
+        "answer": "Arthur Miller"
+    },
+    {
+        "question": "The Count of Monte Cristo - Novel (1845)",
+        "answer": "Alexandre Dumas"
+    },
+    {
+        "question": "My Antonia - Novel (1918)",
+        "answer": "Willa Cather"
+    },
+    {
+        "question": "Finnegans Wake - Novel (1939)",
+        "answer": "James Joyce"
+    },
+    {
+        "question": "Remembrance of Things Past - Novel (1913)",
+        "answer": "Marcel Proust"
+    },
+    {
+        "question": "Peer Gynt - Drama (1867)",
+        "answer": "Henrik Ibsen"
+    },
+    {
+        "question": "As You Like It - Drama (1599)",
+        "answer": "William Shakespeare" 
+    },
+    {
+        "question": "An American Tragedy - Novel (1925)",
+        "answer": "Theodore Dreiser"
+    },
+    {
+        "question": "Sense and Sensibility - Novel (181)",
+        "answer": "Jame Austen"
+    },
+    {
+        "question": "Rebecca - Novel (1938)",
+        "answer": "Daphne du Maurier"
+    },
+    {
+        "question": "Mourning Becomes Electra - Drama (1931)",
+        "answer": "Eugene O'Neill"
+    },
+    {
+        "question": "All the King's Men - Novel (1946)",
+        "answer": "Robert Penn Warren"
+    },
+    {
+        "question": "The Cherry Orchard - Drama (1904)",
+        "answer": "Anton Chekov"
+    }
+]

@@ -1,0 +1,206 @@
+[
+    {
+        "question": "Aida - Opera (1871)",
+        "answer": "Giuseppe Verdi"
+    },
+    {
+        "question": "Carmen - Opera (1845)",
+        "answer": "Georges Bizet"
+    },
+    {
+        "question": "Messiah - Oratorio (1741)",
+        "answer": "George Frideric Handel"
+    },
+    {
+        "question": "Appalachian Spring - Ballet (1741)",
+        "answer": "Aaron Copland"
+    },
+    {
+        "question": "Symphony No. 6, 'Pastoral' - Symphony (1808)",
+        "answer": "Lugwig van Beethoven"
+    },
+    {
+        "question": "Rigoletto - Opera (1851)",
+        "answer": "Giuseppe Verdi"
+    },
+    {
+        "question": "The Marriage of Figaro - Opera (1784)",
+        "answer": "Wolfgang Amadeus Mozart"
+    },
+    {
+        "question": "The Ring of the Nibelung - Opera (1876)",
+        "answer": "Richard Wagner"
+    },
+    {
+        "question": "Symphonie Fantastique - Symphony (1830)",
+        "answer": "Hector Berlioz"
+    },
+    {
+        "question": "Don Giovanni - Opera (1787)",
+        "answer": "Wolfgang Amadeus Mozart"
+    },
+    {
+        "question": "The Rite of Spring - Ballet (1913)",
+        "answer": "Igor Stravinsky"
+    },
+    {
+        "question": "William Tell - Opera (1804)",
+        "answer": "Gioacchino Rossini"
+    },
+    {
+        "question": "Madama Butterfly - Opera (1904)",
+        "answer": "Giacomo Puccini"
+    },
+    {
+        "question": "The Magic Flute - Opera (1791)",
+        "answer": "Wolfgang Amadeus Mozart"
+    },
+    {
+        "question": "La Boheme - Opera (1896)",
+        "answer": "Giacomo Puccini"
+    },
+    {
+        "question": "The Nutracker - Ballet (1892)",
+        "answer": "Pyotr Ilyich Tchaikovsky"
+    },
+    {
+        "question": "The Four Seasons - Concerto (1725)",
+        "answer": "Antonio Vivaldi"
+    },
+    {
+        "question": "Fidelio - Opera (1804)",
+        "answer": "Ludwig van Beethoven"
+    },
+    {
+        "question": "Rhapsody in Blue - Composition (1924)",
+        "answer": "George Gershwin"
+    },
+    {
+        "question": "Symphony No. 3, 'Eroica' - Symphony (1804)",
+        "answer": "Ludwig van Beethoven"
+    },
+    {
+        "question": "The Song of the Earth - Symphony (1909)",
+        "answer": "Gustav Mahler"
+    },
+    {
+        "question": "West Side Story - Musical (1957)",
+        "answer": "Leonard Bernstein"
+    },
+    {
+        "question": "The Planets - Suite (1918)",
+        "answer": "Gustav Holst"
+    },
+    {
+        "question": "The Phantom of the Opera - Musical (1910)",
+        "answer": "Andrew Lloyd Webber"
+    },
+    {
+        "question": "Moonlight Sonata - Sonata (1801)",
+        "answer": "Ludwig van Beethoven"
+    },
+    {
+        "question": "Symphony No. 9, 'Great' - Symphony (1825)",
+        "answer": "Franz Schubert"
+    },
+    {
+        "question": "Bolero - Composition (1928)",
+        "answer": "Maurice Ravel"
+    },
+    {
+        "question": "Porgy and Bess - Opera (1935Oh d)",
+        "answer": "George Gershwin"
+    },
+    {
+        "question": "The Mikado (words) - Musical (1885)",
+        "answer": "William S. Gilbert"
+    },
+    {
+        "question": "The Mikado (music) - Musical (1885)",
+        "answer": "Arthur Sullivan"
+    },
+    {
+        "question": "The Flying Dutchman - Opera (1843)",
+        "answer": "Richard Wagner"
+    },
+    {
+        "question": "Amahl and the Night Visitors - Opera (1951)",
+        "answer": "Gian-Carlo Menotti"
+    },
+    {
+        "question": "Rhapsody on a Theme of Paganini - Composition (1934)",
+        "answer": "Sergey Rachmaninov"
+    },
+    {
+        "question": "Peter and the Wolf - Composition (1936)",
+        "answer": "Sergei Prokofiev"
+    },
+    {
+        "question": "A German Requiem - Sacred Choral Work (1868)",
+        "answer": "Johannes Brahms"
+    },
+    {
+        "question": "Symphony No. 6, 'Pathetique' - Symphony (1893)",
+        "answer": "Peter Ilyich Tchaikovsky"
+    },
+    {
+        "question": "Falstaff - Opera (1893)",
+        "answer": "Giuseppe Verdi"
+    },
+    {
+        "question": "Turandot - Opera (1762)",
+        "answer": "Giacomo Puccini"
+    },
+    {
+        "question": "Cats - Musical (1982)",
+        "answer": "Andrew Lloyd Webber"
+    },
+    {
+        "question": "Pictures at an Exhibition - Composition (1874)",
+        "answer": "Modest Mussorgsky"
+    },
+    {
+        "question": "Carmina Burana - Cantata (1936)",
+        "answer": "Carl Orff"
+    },
+    {
+        "question": "Boris Gudonov - Opera (1869)",
+        "answer": "Modest Mussorgsky"
+    },
+    {
+        "question": "Symphony No. 41, 'Jupiter' - Symphony (1788)",
+        "answer": "Wolfgang Amadeus Mozart"
+    },
+    {
+        "question": "Symphony of a Thousand - Symphony (1907)",
+        "answer": "Gustav Mahler"
+    },
+    {
+        "question": "Prelude to an Afternoon of a Faun - Opera (1894)",
+        "answer": "Claude Debussy"
+    },
+    {
+        "question": "Symphony No. 9, 'From the New World' - Symphony (1893)",
+        "answer": "Antonin Dvorak"
+    },
+    {
+        "question": "Symphony No. 9, 'Choral' - Symphony (1823)",
+        "answer": "Ludwig van Beethoven"
+    },
+    {
+        "question": "Salome - Opera (1905)",
+        "answer": "Richard Strauss"
+    },
+    {
+        "question": "La Traviata - Opera (1853)",
+        "answer": "Giuseppe Verdi"
+    },
+    {
+        "question": "Hungarian Rhapsodies - Composition (1846)",
+        "answer": "Frank Liszt"
+    },
+    {
+        "question": "The Threepenny Opera - Opera (1928)",
+        "answer": "Kurt Weill"
+    }
+]

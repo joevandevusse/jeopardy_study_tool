@@ -1,0 +1,342 @@
+[
+    {
+        "question": "Author: James Joyce\nYear: 1922\nCharacter(s): Leopold/Molly Bloom, Stephen Dedalus\nNotes: Stream-of-consciousness, Odyssey parallels, Dublin",
+        "answer": "Ulysses"
+    },
+    {
+        "question": "Author: F. Scott Fitzgerald\nYear: 1925\nCharacter(s): Jay Gatsby, Daisy Buchanan\nNotes: Roaring Twenties, East/West Egg",
+        "answer": "The Great Gatsby"
+    },
+    {
+        "question": "Author: James Joyce\nYear: 1916\nCharacter(s): Stephen Dedalus\nNotes: First novel, Dublin",
+        "answer": "A Portrait of the Artist as a Young Man"
+    },
+    {
+        "question": "Author: Vladimir Nabokov\nYear: 1955\nCharacter(s): Humbert Humbert, Dolores Haze\nNotes: Professor with young girl",
+        "answer": "Lolita"
+    },
+    {
+        "question": "Author: Aldous Huxley\nYear: 1932\nCharacter(s): Bernard Marx\nNotes: Dystopian, sleep-learning",
+        "answer": "Brave New World"
+    },
+    {
+        "question": "Author: William Faulkner\nYear: 1929\nCharacter(s): Compson Family\nNotes: Stream-of-consciousness, Jefferson, MS",
+        "answer": "The Sound and the Fury"
+    },
+    {
+        "question": "Author: Joseph Heller\nYear: 1961\nCharacter(s): Captain John Yossarian, Major Major\nNotes: Satire, War",
+        "answer": "Catch-22"
+    },
+    {
+        "question": "Author: D. H. Lawrence\nYear: 1913\nCharacter(s): Paul Morel\nNotes: Obscenity, family conflict",
+        "answer": "Sons and Lovers"
+    },
+    {
+        "question": "Author: John Steinbeck\nYear: 1939\nCharacter(s): Tom Joad\nNotes: Oklahoma Dust Bowl",
+        "answer": "The Grapes of Wrath"
+    },
+    {
+        "question": "Author: George Orwell\nYear: 1949\nCharacter(s): Winston Smith\nNotes: Big Brother, doublethink, thought police",
+        "answer": "1984"
+    },
+    {
+        "question": "Author: Robert Graves\nYear: 1934\nCharacter(s): Titular Emperor, Julius Caesar\nNotes: Roman Empire",
+        "answer": "I, Claudius"
+    },
+    {
+        "question": "Author: Virginia Woolf\nYear: 1927\nCharacter(s): Ramsay Family\nNotes: Isle of Skye, Scotland",
+        "answer": "To the Lighthouse"
+    },
+    {
+        "question": "Author: Theodore Dreiser\nYear: 1925\nCharacter(s): Clyde Griffiths\nNotes: Murder trial",
+        "answer": "An American Tragedy"
+    },
+    {
+        "question": "Author: Kurt Vonnegut\nYear: 1969\nCharacter(s): Billy Pilgrim\nNotes: Firebombing at Dresden, anti-war",
+        "answer": "Slaughterhouse-Five"
+    },
+    {
+        "question": "Author: Ralph Ellison\nYear: 1952\nCharacter(s): Ras the Exhorter, Brother Jack\nNotes: Black Nationalism, Marxism",
+        "answer": "Invisible Man"
+    },
+    {
+        "question": "Author: Richard Wright\nYear: 1940\nCharacter(s): Bigger Thomas, Boris Max\nNotes: Systematic black racism, South Side Chicago",
+        "answer": "Native Son"
+    },
+    {
+        "question": "Author: Saul Bellow\nYear: 1953\nCharacter(s): Titular\nNotes: Coming-of-age, Great Depression",
+        "answer": "The Adventures of Augie March"
+    },
+    {
+        "question": "Author: Robert Penn Warren\nYear: 1946\nCharacter(s): Willie Stark, Jack Burden\nNotes: Humpty Dumpty, American South, political governorship",
+        "answer": "All the King’s Men"
+    },
+    {
+        "question": "Author: George Orwell\nYear: 1946\nCharacter(s): Old Major, Napoleon, Snowball, Mr. Jones\nNotes: Allegory, Stalinist Russia",
+        "answer": "Animal Farm"
+    },
+    {
+        "question": "Author: Judy Blume\nYear: 1970\nCharacter(s): Margaret Simon\nNotes: Religion, sexuality, coming-of-age",
+        "answer": "Are You There God? It's Me, Margaret"
+    },
+    {
+        "question": "Author: E.M. Forster\nYear: 1924\nCharacter(s): Dr. Aziz, Mr. Cyril Fielding, Mrs. Moore, Miss Adela Quested\nNotes: British/Indian colonialism, sexual assault",
+        "answer": "A Passage to India"
+    },
+    {
+        "question": "Author: William Faulkner\nYear: 1930\nCharacter(s): Addie Bundren\nNotes: Jefferson, MS burial",
+        "answer": "As I Lay Dying"
+    },
+    {
+        "question": "Author: William Golding\nYear: 1954\nCharacter(s): Piggy, Simon\nNotes: British boys stranded",
+        "answer": "Lord of the Flies"
+    },
+    {
+        "question": "Author: Ernest Hemingway\nYear: 1926\nCharacter(s): Robert Cohn, Jack Barnes, Brett Ashley\nNotes: Pamplona, Spain bull fights",
+        "answer": "The Sun Also Rises"
+    },
+    {
+        "question": "Author: Jack Kerouac\nYear: 1957\nCharacter(s): Old Bull Lee, Calro Marx, Dean Moriarty \nNotes: Beat, counterculture",
+        "answer": "On the Road"
+    },
+    {
+        "question": "Author: Edith Wharton\nYear: 1920\nCharacter(s): Newland Archer, May Welland\nNotes: Marriange, envy, love",
+        "answer": "The Age of Innocence"
+    },
+    {
+        "question": "Author: Sinclair Lewis\nYear: 1920\nCharacter(s): Carol Milford Kennicot \nNotes: Satirized small town - Gopher Prarie, MN",
+        "answer": "Main Street"
+    },
+    {
+        "question": "Author: John Milton\nYear: 1667\nCharacter(s): Satan, Adam, Eve \nNotes: Epic poem, fall of man, Garden of Eden",
+        "answer": "Paradise Lost"
+    },
+    {
+        "question": "Author: J.D. Salinger\nYear: 1951\nCharacter(s): Holden Caufield \nNotes: Coming-of-age, teenage rebellion",
+        "answer": "Catcher in the Rye"
+    },
+    {
+        "question": "Author: Anthony Burgess\nYear: 1962\nCharacter(s): Alex \nNotes: Nadsat, satire, violent youth subculture",
+        "answer": "A Clockwork Orange"
+    },
+    {
+        "question": "Author: Joseph Conrad\nYear: 1899\nCharacter(s): Charles Marlow, Kurtz \nNotes: Congo River, River Thames, imperialism, racism",
+        "answer": "Heard of Darkness"
+    },
+    {
+        "question": "Author: Edith Wharton\nYear: 1905\nCharacter(s): Lily Bart \nNotes: Noble birth, social descent after not marrying",
+        "answer": "The House of Mirth"
+    },
+    {
+        "question": "Author: Ernest Hemingway\nYear: 1929\nCharacter(s): Frederic Henry, Catherine Barkley \nNotes: WWI, Italian Army Ambulance Corps",
+        "answer": " A Farewell to Arms"
+    },
+    {
+        "question": "Author: James Joyce\nYear: 1939\nCharacter(s): Earwicker Family - HCE, ALP, Shem, Shaun, Issy \nNotes: Idiosyncratic language, stream-of-consciousness",
+        "answer": "Finnegans Wake"
+    },
+    {
+        "question": "Author: Rudyard Kipling\nYear: 1901\nCharacter(s): Titular O'Hara, Teshoo Lama, Mahbub Ali \nNotes: The Great Game, Second/Third Afghan War",
+        "answer": "Kim"
+    },
+    {
+        "question": "Author: E.M. Forster\nYear: 1908\nCharacter(s): Lucy Honeychurh, Eleanor Lavish \nNotes: Edwardian England, Italy",
+        "answer": "A Room With a View"
+    },
+    {
+        "question": "Author: Evelyn Waugh\nYear: 1945\nCharacter(s): Charles Ryder, Flyte Family \nNotes: English Aristocracy, Catholicism, homosexuality",
+        "answer": "Brideshead Revisited"
+    },
+    {
+        "question": "Author: Joseph Conrad\nYear: 1900\nCharacter(s): Titular, Marlow, Jewel \nNotes: Crew abandons passenger ship in distress",
+        "answer": "Lord Jim"
+    },
+    {
+        "question": "Author: Salman Rushdie\nYear: 1981\nCharacter(s): Saleem Sinai \nNotes: Indian independence, Magical Realism",
+        "answer": "Midnight's Children"
+    },
+    {
+        "question": "Author: Marcel Proust\nYear: 1927\nCharacter(s): Oriane de Guermantes, Odette de Crecy \nNotes: Aristocratic early 20th century France",
+        "answer": "In Search of Lost Time"
+    },
+    {
+        "question": "Author: Miguel de Cervantes\nYear: 1615\nCharacter(s): Titular, Sancho Panza \nNotes: Spain, delusions of grandeur",
+        "answer": "Don Quixote"
+    },
+    {
+        "question": "Author: Gabriel Garcia Marquez\nYear: 1967\nCharacter(s): Jose Arcadio Buendia + Family \nNotes: Macondo, Columbia, Magical Realism",
+        "answer": "One Hundred Years of Solitude"
+    },
+    {
+        "question": "Author: Jane Austen\nYear: 1813\nCharacter(s): Elizabeth Bennet \nNotes: Regency era in GBR, marrying for money vs. love",
+        "answer": "Pride and Prejudice"
+    },
+    {
+        "question": "Author: Fyodor Dostoevsky\nYear: 1866\nCharacter(s): Rodion Raskolnikov \nNotes: Russian student kills pawn broker and suffers guilt/anguish",
+        "answer": "Crime and Punishment"
+    },
+    {
+        "question": "Author: Leo Tolstoy\nYear: 1878\nCharacter(s): Titular, Count Alexei Kirillovich Vronsky \nNotes: Imperial Russian society, extramarital affair",
+        "answer": "Anna Karenina"
+    },
+    {
+        "question": "Author: Herman Melville\nYear: 1851\nCharacter(s): Ishmael, Captain Ahab \nNotes: White whale, ship",
+        "answer": "Moby Dick"
+    },
+    {
+        "question": "Author: Leo Tolstoy\nYear: 1869\nCharacter(s): Natasha Rostova, Pierre Bezukhov \nNotes: Napoleonic French invasion of Tsarist Russia",
+        "answer": "War and Peace"
+    },
+    {
+        "question": "Author: Emily Bronte\nYear: 1847\nCharacter(s): Heathcliff, Catherine Earnshaw \nNotes: Romanticism, stark depiction of mental/physical cruelty",
+        "answer": "Wuthering Heights"
+    },
+    {
+        "question": "Author: Charlotte Bronte\nYear: 1847\nCharacter(s): Titular, Edward Rochester \nNotes: Coming-of-age, feminism",
+        "answer": "Jane Eyre"
+    },
+    {
+        "question": "Author: Fyodor Dostoevsky\nYear: 1880\nCharacter(s): Alyosha, Ivan, Dmitri \nNotes: God, Free will, mrality, patricide",
+        "answer": "The Brothers Karamazov"
+    },
+    {
+        "question": "Author: Homer\nYear: 800 BCE\nCharacter(s): Odysseus, Penelope, Telmemachus \nNotes: Epic poem",
+        "answer": "The Odyssey"
+    },
+    {
+        "question": "Author: Gustave Flaubert\nYear: 1856\nCharacter(s): Charles, Emma \nNotes: Banalaties/emptiness of provincial life, obscenity",
+        "answer": "Madame Bovary"
+    },
+    {
+        "question": "Author: Dante Alighieri\nYear: 1320\nCharacter(s): Ciacco, Thomas Aquinas \nNotes: Inferno, Purgatorio, and Paradiso",
+        "answer": "The Divine Comedy"
+    },
+    {
+        "question": "Author: Mark Twain\nYear: 1884\nCharacter(s): Titular, Jim \nNotes: Local color regionalism",
+        "answer": "The Adventures of Huckleberry Finn"
+    },
+    {
+        "question": "Author: Lewis Caroll\nYear: 1865\nCharacter(s): Titular, White Rabbit, Cheshire Cat \nNotes: Literary nonsense, fantasy",
+        "answer": "Alice's Adventures in Wonderland"
+    },
+    {
+        "question": "Author: Toni Morrison\nYear: 1987\nCharacter(s): Margaret Garner \nNotes: American Civil War, slavery",
+        "answer": "Beloved"
+    },
+    {
+        "question": "Author: Harper Lee\nYear: 1960\nCharacter(s): Scout, Atticus Finch \nNotes: Rape, racial inequality, law",
+        "answer": "To Kill a Mockingbird"
+    },
+    {
+        "question": "Author: George Eliot\nYear: 1871\nCharacter(s): Dorothea Brooke, Tertius Lydgate\nNotes: English Reform Act of 1832",
+        "answer": "Middlemarch"
+    },
+    {
+        "question": "Author: Great Expectations\nYear: 1861\nCharacter(s): Pip, Abel Magwitch, Miss Havisham \nNotes: Coming-of-age, Kent (London)",
+        "answer": "Charles Dickens"
+    },
+    {
+        "question": "Author: Jonathan Swift\nYear: 1726\nCharacter(s): Glumdalclitch \nNotes: Satire, Lilliput, Brobdingnag",
+        "answer": "Gulliver's Travels"
+    },
+    {
+        "question": "Author: William Faulkner\nYear: 1936\nCharacter(s): Thomas Sutpen \nNotes: American Civil War, American South",
+        "answer": "Absalom, Absalom"
+    },
+    {
+        "question": "Author: Albert Camus\nYear: 1942\nCharacter(s): Mersault \nNotes: French/Algerian, absurdism, existentialism",
+        "answer": "The Stranger"
+    },
+    {
+        "question": "Author: Franz Kafka\nYear: 1925\nCharacter(s): Josef K. \nNotes: Man arrested/prosectued by inaccessible/remote authority",
+        "answer": "The Trial"
+    },
+    {
+        "question": "Author: Anton Chekov\nYear: 1904\nCharacter(s): Madame Lyubov Andreievna Ranevskaya, Peter Trofimov \nNotes: Russian landowner forced to sell family estate",
+        "answer": "The Cherry Orchard"
+    },
+    {
+        "question": "Author: Charles Dickens\nYear: 1850\nCharacter(s): Titular, Uriah Heep, James Steerforth \nNotes: Coming-of-age",
+        "answer": "David Copperfield"
+    },
+    {
+        "question": "Author: Walt Whitman\nYear: 1855\nCharacter(s): None \nNotes: Poetry collection",
+        "answer": "Leaves of Grass"
+    },
+    {
+        "question": "Author: Virgil\nYear:\nCharacter(s): Titular, Virgil \nNotes: Epic poem, Trojan travels to Italy, dactylic hexameter",
+        "answer": "The Aeneid"
+    },
+    {
+        "question": "Author: Voltaire\nYear: 1759\nCharacter(s): Titular, Professor Pangloss \nNotes: Erratic, fantastical, 'Best of all possible worlds'",
+        "answer": "Candide"
+    },
+    {
+        "question": "Author: Margaret Mitchell\nYear: 1936\nCharacter(s): Scarlett O'Hara \nNotes: Coming-of-Age, American Civil War Reconstruction",
+        "answer": "Gone with the Wind"
+    },
+    {
+        "question": "Author: Virginia Woolf\nYear: 1925\nCharacter(s): Sir William Bradshaw, Clarissa Dalloway \nNotes: Post-WWI England",
+        "answer": "Mrs. Dalloway"
+    },
+    {
+        "question": "Author: Chinua Achebe\nYear: 1958\nCharacter(s): Okonkwo \nNotes: African Igbo, European colonialism, Christian missionaries",
+        "answer": "Things Fall Apart"
+    },
+    {
+        "question": "Author: Alice Walker\nYear: 1982\nCharacter(s): Celie, Shrug Avery, Nettie \nNotes: Black women in the southern US",
+        "answer": "The Color Purple"
+    },
+    {
+        "question": "Author: David Foster Wallace\nYear: 1996\nCharacter(s): Incandenza Family, Eric Clipperton \nNotes: Unconventional narrative, endnotes",
+        "answer": "Infinite Jest"
+    },
+    {
+        "question": "Author: William Faulkner\nYear:1932\nCharacter(s): Lena Grove, Byron Bunch \nNotes: Pregnant white woman and mixed race man connectedness",
+        "answer": "Light in August"
+    },
+    {
+        "question": "Author: Thomas Pynchon\nYear: 1973\nCharacter(s): Tyrone Slothrop, Captain Blicero \nNotes: German V-2 rockets post-WWII",
+        "answer": "Gravity's Rainbow"
+    },
+    {
+        "question": "Author: John Updike\nYear: 1960\nCharacter(s): Harry Angstrom \nNotes: Former HS basketball player, loveless Marriage, boring sales job",
+        "answer": "Rabbit, Run"
+    },
+    {
+        "question": "Author: Ernest Hemingway\nYear: 1940\nCharacter(s): Robert Jordan \nNotes: Spanish Civil War, dynamiter, guerilla unit",
+        "answer": "For Whom the Bell Tolls"
+    },
+    {
+        "question": "Author: Samuel Beckett\nYear: 1978\nCharacter(s): Vladimir (Didi), Estragon (Gogo) \nNotes: Variety of discussions and encounters",
+        "answer": "Waiting for Godot"
+    },
+    {
+        "question": "Author: D.H. Lawrence\nYear: 1928\nCharacter(s): Titular, Oliver Mellors \nNotes: Obscenity, Working-class man, upper-class woman",
+        "answer": "Lady Chatterley's Lover"
+    },
+    {
+        "question": "Author: Thomas Mann\nYear: 1924\nCharacter(s): Hans Castrop \nNotes: Sanitorium, WWI",
+        "answer": "The Magic Mountain"
+    },
+    {
+        "question": "Author: Johann Wolfgang von Goethe\nYear: 1831\nCharacter(s): Titular, Mephistopheles, Gretchen \nNotes: Pact with the devil",
+        "answer": "Faust"
+    },
+    {
+        "question": "Author: Johann Wolfgang von Goethe\nYear: 1774\nCharacter(s): Titular, Charlotte, Wilhelm \nNotes: Unrequited love",
+        "answer": "The Sorrows of Young Werther"
+    },
+    {
+        "question": "Author: Agatha Christie\nYear: 1939\nCharacter(s): Anthony James Marston, Mrs. Ethel Rogers \nNotes: Mystery, red herring",
+        "answer": "And Then There Were None"
+    },
+    {
+        "question": "Author: John Bunyan\nYear: 1678\nCharacter(s): Christian, Evangelist, Mr. Sagacity, Christiana\nNotes: Religious allegory, first English novel",
+        "answer": "The Pilgrim's Progress"
+    },
+    {
+        "question": "Author: Ivan Turgenev\nYear: 1862\nCharacter(s): Nikolai Petrovitch Kirsanov, Arkady Nikolayevitch Kirsanov\nNotes: Nihilism, marriage, love",
+        "answer": "Fathers and Sons"
+    }
+]

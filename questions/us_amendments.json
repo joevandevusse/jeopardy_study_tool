@@ -1,0 +1,110 @@
+[
+    {
+        "question": "No established religion, freedom of: religion, speech, press, assembly, and petition",
+        "answer": "1"
+    },
+    {
+        "question": "Well-regulated militia, right to bear arms",
+        "answer": "2"
+    },
+    {
+        "question": "Civilianss are not required to quarter soliders",
+        "answer": "3"
+    },
+    {
+        "question": "No unreasonable search and seizure",
+        "answer": "4"
+    },
+    {
+        "question": "Felonies tried only upon grand jury indictment, protections against: Double Jeopardy, Self=Incrimination",
+        "answer": "5"
+    },
+    {
+        "question": "Fair, public, and speedy trial by impartial jury",
+        "answer": "6"
+    },
+    {
+        "question": "Right to jury trial in civil cases",
+        "answer": "7"
+    },
+    {
+        "question": "No excessive bail or excessive fines, no cruel and unusual punishment",
+        "answer": "8"
+    },
+    {
+        "question": "Rights shall not ne denied due to lack of enumeration in the Bill of Rights",
+        "answer": "9"
+    },
+    {
+        "question": "Powers not delegated to the US are reserved for the states",
+        "answer": "10"
+    },
+    {
+        "question": "Individuals cannot sue states in Federal Court",
+        "answer": "11"
+    },
+    {
+        "question": "Each Electoral College member casts one vote for President and one for VP",
+        "answer": "12"
+    },
+    {
+        "question": "Abolished slavery",
+        "answer": "13"
+    },
+    {
+        "question": "Citizenship Clause, Privileges or Immunities Clause, Due Process Clause, and Equal Protection Clause",
+        "answer": "14"
+    },
+    {
+        "question": "Right to vote shall not be denied or abridged on account of race, color, or previous condition of servitude",
+        "answer": "15"
+    },
+    {
+        "question": "Allows Congress to levy an income tax without apportioning it among the states on the basis of population",
+        "answer": "16"
+    },
+    {
+        "question": "Popular election of Senators, Governors fill vacancies temporarily until Special Election",
+        "answer": "17"
+    },
+    {
+        "question": "Prohibition of manufacture, sale, or transportation of intoxicating liquors",
+        "answer": "18"
+    },
+    {
+        "question": "Women's suffrage",
+        "answer": "19"
+    },
+    {
+        "question": "Reduced 'lame duck' period for POTUS and VP, incoming Congress holds contingent election for Electoral College deadlock",
+        "answer": "20"
+    },
+    {
+        "question": "Repeal of 18th Amendment (Prohibition)",
+        "answer": "21"
+    },
+    {
+        "question": "Two term presidential limit, 10 year total including succession",
+        "answer": "22"
+    },
+    {
+        "question": "Right to vote for DC residents, Electoral College representation for DC (<= least-populous state)",
+        "answer": "23"
+    },
+    {
+        "question": "Abolition of poll tax",
+        "answer": "24"
+    },
+    {
+        "question": "Presidential succession and disability, VP becomes President if POTUS dies, resigns, or is removed from office",
+        "answer": "25"
+    },
+    {
+        "question": "Voting age changed from 21 to 18",
+        "answer": "26"
+    },
+    {
+        "question": "Congressional salary changes will not take effect until the start of the next term for Representatives",
+        "answer": "27"
+    }
+]
