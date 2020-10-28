@@ -406,5 +406,109 @@
     {
         "question": "The Cherry Orchard - Drama (1904)",
         "answer": "Anton Chekov"
+    },
+    {
+        "question": "The Old Man and the Sea - Novel (1952)",
+        "answer": "Ernest Hemingway"
+    },
+    {
+        "question": "The Picture of Dorian Gray - Novel (1890)",
+        "answer": "Oscar Wilde"
+    },
+    {
+        "question": "The Red Badge of Courage - Novel (1895)",
+        "answer": "Stephen Crane"
+    },
+    {
+        "question": "The Call of the Wild - Novel (1903)",
+        "answer": "Jack London"
+    },
+    {
+        "question": "The Metamorphosis - Novel (1915)",
+        "answer": "Franz Kafka"
+    },
+    {
+        "question": "A Christmas Carol - Novel (1843)",
+        "answer": "Charles Dickens"
+    },
+    {
+        "question": "Their Eyes Were Watching God - Novel (1937)",
+        "answer": "Zora Neale Hurston"
+    },
+    {
+        "question": "Around the World in Eighty Days - Novel (1873)",
+        "answer": "Jules Verne"
+    },
+    {
+        "question": "Twenty Thousand Leagues Under the Sea - Novel (1870)",
+        "answer": "Jules Verne"
+    },
+    {
+        "question": "The Maltaese Falcon - Novel (1930)",
+        "answer": "Dashiell Hammett"
+    },
+    {
+        "question": "Main Street - Novel (1920)",
+        "answer": "Sinclair Lewis"
+    },
+    {
+        "question": "Cat on a Hot Tin Roof - Drama (1955)",
+        "answer": "Tennessee Williams"
+    },
+    {
+        "question": "Things Fall Apart - Novel (1958)",
+        "answer": "Chinua Achebe"
+    },
+    {
+        "question": "The Glass Menagerie - Drama (1955)",
+        "answer": "Tennessee Williams"
+    },
+    {
+        "question": "The Tin Drum - Novel (1959)",
+        "answer": "Gunter Grass"
+    },
+    {
+        "question": "The Three Musketeers - Novel (1844)",
+        "answer": "Alexandre Dumas"
+    },
+    {
+        "question": "The Color Purple - Novel (1982)",
+        "answer": "Alice Walker"
+    },
+    {
+        "question": "The Hunchback of Notre Dame - Novel (1831)",
+        "answer": "Victor Hugo"
+    },
+    {
+        "question": "Jude the Obscure - Novel (1894)",
+        "answer": "Thonas Hardy"
+    },
+    {
+        "question": "The Good Earth - Novel (1931)",
+        "answer": "Pearl Buck"
+    },
+    {
+        "question": "Kidnapped - Novel (1886)",
+        "answer": "Robert Louis Stevenson"
+    },
+    {
+        "question": "The Age of Innocence - Novel (1920)",
+        "answer": "Edith Wharton"
+    },
+    {
+        "question": "Roots: The Saga of the American Family - Novel (1976)",
+        "answer": "Alex Haley"
+    },
+    {
+        "question": "The Importance of Being Earnest - Drama (1895)",
+        "answer": "Oscar Wilde"
+    },
+    {
+        "question": "The Magic Mountain - Novel (1924)",
+        "answer": "Thomas Mann"
+    },
+    {
+        "question": "All Quiet on the Western Front - Novel (1929)",
+        "answer": "Erich Maria Remarque"
     }
 ]

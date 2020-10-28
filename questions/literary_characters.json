@@ -1,0 +1,274 @@
+[
+    {
+        "question": "Hester Prynne",
+        "answer": "The Scarlet Letter"
+    },
+    {
+        "question": "Winston Smith",
+        "answer": "1984"
+    },
+    {
+        "question": "Nick Caraway, Daisy Buchanan",
+        "answer": "The Great Gatsby"
+    },
+    {
+        "question": "Frederick Henry",
+        "answer": "A Farewell to Arms"
+    },
+    {
+        "question": "Raskolnikov",
+        "answer": "Crime and Punishment"
+    },
+    {
+        "question": "Philip 'Pip' Pirrip",
+        "answer": "Great Expectations"
+    },
+    {
+        "question": "Heathcliff, Catherine Earnshaw",
+        "answer": "Wuthering Heights"
+    },
+    {
+        "question": "Holden Caufield, Phoebe Caufield",
+        "answer": "The Catcher in the Rye"
+    },
+    {
+        "question": "Santiego",
+        "answer": "The Old Man and the Sea"
+    },
+    {
+        "question": "Bernard Marx, John the Savage",
+        "answer": "Brave New World"
+    },
+    {
+        "question": "Captain Ahab",
+        "answer": "Moby Dick"
+    },
+    {
+        "question": "Henry Fleming",
+        "answer": "The Red Badge of Courage"
+    },
+    {
+        "question": "Buck",
+        "answer": "The Call of the Wild"
+    },
+    {
+        "question": "Tom Joad",
+        "answer": "The Grapes of Wrath"
+    },
+    {
+        "question": "Billy Pilgrim",
+        "answer": "Slaughterhouse Five"
+    },
+    {
+        "question": "Jean Valjean",
+        "answer": "Les Miserables"
+    },
+    {
+        "question": "Nora Helmer",
+        "answer": "A Doll's House"
+    },
+    {
+        "question": "Elizabeth Bennet",
+        "answer": "Pride and Prejudice"
+    },
+    {
+        "question": "Gregor Samsa",
+        "answer": "The Metamorphosis"
+    },
+    {
+        "question": "Becky Sharp",
+        "answer": "Vanity Fair"
+    },
+    {
+        "question": "Ebenezer Scrooge",
+        "answer": "Charles Dickens"
+    },
+    {
+        "question": "Clyde Griffiths",
+        "answer": "An American Tragedy"
+    },
+    {
+        "question": "Janie Crawford",
+        "answer": "Their Eyes Were Watching God"
+    },
+    {
+        "question": "Blanche Dubois",
+        "answer": "A Streetcar Named Desrie"
+    },
+    {
+        "question": "Sydney Canon",
+        "answer": "A Tale of Two Cities"
+    },
+    {
+        "question": "Phileas Fogg",
+        "answer": "Around the World in Eighty Days"
+    },
+    {
+        "question": "Captain Nemo",
+        "answer": "Twenty Thousand Leagues Under the Sea"
+    },
+    {
+        "question": "Scarlett O'Hara",
+        "answer": "Gone with the Wind"
+    },
+    {
+        "question": "Leopold Bloom, Molly Bloom",
+        "answer": "Ulysses"
+    },
+    {
+        "question": "Bigger Thomas",
+        "answer": "Native Son"
+    },
+    {
+        "question": "Captain John Yossarian, Major Major Major",
+        "answer": "Catch-22"
+    },
+    {
+        "question": "James Tyrone",
+        "answer": "Long Day's Journey into Night"
+    },
+    {
+        "question": "George Gibbe",
+        "answer": "Our Town"
+    },
+    {
+        "question": "Kurtz, Charlie Marlow",
+        "answer": "Heart of Darkness"
+    },
+    {
+        "question": "Sam Spade",
+        "answer": "The Maltaese Falcon"
+    },
+    {
+        "question": "Dean Moriarty",
+        "answer": "On the Road"
+    },
+    {
+        "question": "John Proctor",
+        "answer": "The Crucible"
+    },
+    {
+        "question": "Carol Kennicott",
+        "answer": "Main Street"
+    },
+    {
+        "question": "Grendel",
+        "answer": "Beowulf"
+    },
+    {
+        "question": "Eliza Doolittle",
+        "answer": "Pygmalion"
+    },
+    {
+        "question": "Lennie Small",
+        "answer": "Of Mice and Men"
+    },
+    {
+        "question": "Maggie Pollitt",
+        "answer": "Cat on a Hot Tin Roof"
+    },
+    {
+        "question": "Okonkwo",
+        "answer": "Things Fall Apart"
+    },
+    {
+        "question": "Jim Hawkins",
+        "answer": "Treasure Island"
+    },
+    {
+        "question": "Edmond Dantes",
+        "answer": "The Count of Monte Cristo"
+    },
+    {
+        "question": "Laura Wingfield",
+        "answer": "The Glass Menagerie"
+    },
+    {
+        "question": "Oskar Matzerath",
+        "answer": "The Tin Drum"
+    },
+    {
+        "question": "Willie Stark",
+        "answer": "All the King's Men"
+    },
+    {
+        "question": "Sancho Panza",
+        "answer": "Don Quixote"
+    },
+    {
+        "question": "Lady Brett Ashley",
+        "answer": "The Sun Also Rises"
+    },
+    {
+        "question": "Mersault",
+        "answer": "The Stranger"
+    },
+    {
+        "question": "Willy Loman",
+        "answer": "Death of a Salesman"
+    },
+    {
+        "question": "Elinor Dashwood",
+        "answer": "Sense and Sensibility"
+    },
+    {
+        "question": "d'Artagnan",
+        "answer": "The Three Musketeers"
+    },
+    {
+        "question": "Edward Rochester",
+        "answer": "Jane Eyre"
+    },
+    {
+        "question": "Celie",
+        "answer": "The Color Purple"
+    },
+    {
+        "question": "Quasimodo",
+        "answer": "The Hunchback of Notre Dame"
+    },
+    {
+        "question": "Sue Bridehead",
+        "answer": "Jude the Obscure"
+    },
+    {
+        "question": "Wang Lung",
+        "answer": "The Good Earth"
+    },
+    {
+        "question": "David Balfour",
+        "answer": "Kidnapped"
+    },
+    {
+        "question": "Thomas Sutpen",
+        "answer": "Absalom, Absalom"
+    },
+    {
+        "question": "Newland Archer",
+        "answer": "The Age of Innocence"
+    },
+    {
+        "question": "Kunta Kinte",
+        "answer": "Roots: The Saga of the American Family"
+    },
+    {
+        "question": "Jack Worthing",
+        "answer": "The Importance of Being Earnest"
+    },
+    {
+        "question": "Hans Castorp",
+        "answer": "The Magic Mountain"
+    },
+    {
+        "question": "Christian",
+        "answer": "Pilgrim's Progress"
+    },
+    {
+        "question": "Paul Baumer",
+        "answer": "All Quiet on the Western Front"
+    },
+    {
+        "question": "Count Vronsky",
+        "answer": "Anna Karinena"
+    }
+]
