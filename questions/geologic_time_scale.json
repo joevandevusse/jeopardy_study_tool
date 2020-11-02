@@ -1,0 +1,86 @@
+[
+    {
+        "question": "Eon, 4.6-3.9 billion years ago ",
+        "answer": "Hadean"
+    },
+    {
+        "question": "Eon, 3.9-2.5 billion years ago",
+        "answer": "Archeozoic"
+    },
+    {
+        "question": "Eon, 2.5 billion years ago - 540 million years ago",
+        "answer": "Proterozoic"
+    },
+    {
+        "question": "Eon, 540 million years ago - present",
+        "answer": "Phanerozoic"
+    },
+    {
+        "question": "Era, 540-245 million years ago, reptiles, insects, amphibians, fish, land plants, several mass extinctions",
+        "answer": "Paleozoic"
+    },
+    {
+        "question": "Era, 245-65 million years ago, mammals, dinosaurs, flowering plants, snakes, mass extinction",
+        "answer": "Mesozoic"
+    },
+    {
+        "question": "Era, 65 million years ago - present, more mammals, Australopithecus, birds, humans",
+        "answer": "Cenozoic"
+    },
+    {
+        "question": "Period, Proterozoic Eon, 2.5 billion year ago - 600 million years ago, Oxygen build-up on Earth, multi-cellular life",
+        "answer": "Early Proterozoic"
+    },
+    {
+        "question": "Period, Proterozoic Eon, 600-540 million years ago, sponges, multi-celled animals, Supercontinent Rodinia",
+        "answer": "Vendian"
+    },
+    {
+        "question": "Period, Paleozoic Era, 540-500 million years ago, explosion of life forms, shellfish, primitive fish, trilobites, corals, mollusks",
+        "answer": "Cambrian"
+    },
+    {
+        "question": "Period, Paleozoic Era, 505-438 million years ago, first land plants, corals, nautiloids, ends in mass extinction",
+        "answer": "Ordovician"
+    },
+    {
+        "question": "Period, Paleozoic Era, 438-408 million years ago, first insects, vascular plants on land",
+        "answer": "Silurian"
+    },
+    {
+        "question": "Period, Paleozoic Era, 408-360 million years ago, first amphibians, sharks, bony fish, ammonoids, spiders, many fish",
+        "answer": "Devonian"
+    },
+    {
+        "question": "Period, Paleozoic Era, 360-280 million years ago, widespread coal swamps, first reptiles, winged insects",
+        "answer": "Carboniferous"
+    },
+    {
+        "question": "Period, Paleozoic Era, 280-245 million years ago, sail-back reptiles, abundant amphibians, Supercontinent Pangaea, ends with mass extinction",
+        "answer": "Permian"
+    },
+    {
+        "question": "Period, Mesozoic Era, 245-208 million years ago, first mammals, dinosaurs, frogs, turtles crocodyloformes",
+        "answer": "Triassic"
+    },
+    {
+        "question": "Period, Mesozoic Era, 208-146 million years ago, abundant dinosaurs, first birds",
+        "answer": "Jurassic"
+    },
+    {
+        "question": "Period, Mesozoic Era, 146-65 million years ago, first flowering plants, snakes, crocodilians, K-T mass extinction event at the end kills dinosaurs and others",
+        "answer": "Cretaceous"
+    },
+    {
+        "question": "Period, Cenozoic Era, 65-24 million years ago, first deer, cats, pigs, tapirs, rhinos, elephants, horses, owls, shrews, hedgehogs, and rabbits evolve",
+        "answer": "Paleogene"
+    },
+    {
+        "question": "Period, Cenozoic Era, 24-1.8 million years ago, Australopithecus appears, first sheep, cattle, modern whales, bears, mice, rats, apes, monkeys, dogs, modern birds appear",
+        "answer": "Neogene"
+    },
+    {
+        "question": "Period, Cenozoic Era, 1.8 million years ago - present, first humans, mammoths, mastodons, saber-toothed cats",
+        "answer": "Quarternary"
+    }
+]
