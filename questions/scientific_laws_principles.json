@@ -1,0 +1,90 @@
+[
+    {
+        "questions": "A body that is submerged in a fluid is buoyed up by a force equal in magnitude to the weight of the fluid that is displaced, and directed upward along a line through the center of gravity of the displaced fluid",
+        "answer": "Archimedes' Principle"
+    },
+    {
+        "questions": "The volume of a gas is directly proportional to tis number of moles if pressure and temperature are held constant",
+        "answer": "Avagadro's Law"
+    },
+    {
+        "questions": "Absorbance is linearly proportional to concentration",
+        "answer": "Beer-Lambert Law"
+    },
+    {
+        "questions": "Pressure exerted by a fluid decreases as its velocity increases",
+        "answer": "Bernoulli's Principle"
+    },
+    {
+        "questions": "The volume of a gas is inversely proportional to its pressure if temperature is helf constant",
+        "answer": "Boyle's Law"
+    },
+    {
+        "questions": "No engine operating between two temperatures can be more efficient than a reversible engine working between the same two temperatures",
+        "answer": "Carnot's Theorem"
+    },
+    {
+        "questions": "The volume of a gas is directly proportional to temperature if pressure is held constant",
+        "answer": "Charles's Law"
+    },
+    {
+        "questions": "The product of the pressure and volume of a gas is directly proportional to temperature",
+        "answer": "Combined Gas Law"
+    },
+    {
+        "questions": "The force between two electric charges is inversely proportional to the square of the distance between them and directly proportional to the product of their charges",
+        "answer": "Coulomb's Law"
+    },
+    {
+        "questions": "The total pressure of a gas mixture is equal is equal to the sum of the partial pressures of its components",
+        "answer": "Dalton's Law"
+    },
+    {
+        "questions": "Change in the apparent frequency of a wave as observer and source move toward or away from each other",
+        "answer": "Doppler Effect"
+    },
+    {
+        "questions": "The electric flux through a close surface depends upon the charge enclosed in that surface",
+        "answer": "Gauss's Law"
+    },
+    {
+        "questions": "The pressure of a gas is directly proportional to temperature if volume is held constant",
+        "answer": "Gay-Lussac Law"
+    },
+    {
+        "questions": "The rate of effusion of a gas is inversely proportional to the square root of its molar mass",
+        "answer": "Graham's Law"
+    },
+    {
+        "questions": "The solubility of a gas in a liquid is directly proportional to the partial pressure of the gas",
+        "answer": "Henry's Law"
+    },
+    {
+        "questions": "The amount of energy generated from a reaction is the same whether the reaction happens in one step or several",
+        "answer": "Hess's Law"
+    },
+    {
+        "questions": "The extension of a spring is proportional to the load placed on it, stress is directly proportional to strain",
+        "answer": "Hooke's Law"
+    },
+    {
+        "questions": "Galaxies recede from each other with a velocity proportional to their distance",
+        "answer": "Hubble's Law"
+    },
+    {
+        "questions": "The product of the pressure and volume of a gas is equal to the product of the number of moles, the <titular> constant, and the temperature",
+        "answer": "Ideal Gas Law"
+    },
+    {
+        "questions": "Electric current is equal to the potential difference across the conductor divided by the resistance",
+        "answer": "Ohm's Law"
+    },
+    {
+        "questions": "When a substance is dissolved in a solvent, the solution formed will have a lower freezing point, higher boiling point, and less vapor pressure than the pure solvent",
+        "answer": "Raoult's Law"
+    },
+    {
+        "questions": "The ratio of the sine of an angle of incidence to the since of an angle of refraction is constant",
+        "answer": "Snell's Law"
+    }
+]
