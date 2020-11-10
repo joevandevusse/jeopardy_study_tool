@@ -176,7 +176,11 @@
         "answer": "Barack Obama"
     },
     {
-        "question": "Number: 45\nPresidential Term: 2017 - Present\nParty: Republican\nVice President: Mike Pence",
+        "question": "Number: 45\nPresidential Term: 2017 - 2021\nParty: Republican\nVice President: Mike Pence",
         "answer": "Donald Trump"
+    },
+    {
+        "question": "Number: 46\nPresidential Term: 2021 - Present\nParty: Democratic\nVice President: Kamala Harris",
+        "answer": "Joe Biden"
     }
 ]

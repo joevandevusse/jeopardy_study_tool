@@ -28,11 +28,13 @@ fetch(fileToFetch)
 const form = document.getElementById("form");
 const log = document.getElementById("log");
 
-// CONSTANTS
+// Game constants - not really constant because changed later
 const CORRECT_BONUS = 10;
-const MAX_QUESTIONS = 10;
+var MAX_QUESTIONS = 10;
 
 startGame = () => {
+    // Set game questions to total number of questions
+    MAX_QUESTIONS = questions.length;
     questionCounter = 0;
     score = 0;
     availableQuestions = [...questions];
