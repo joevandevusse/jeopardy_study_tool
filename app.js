@@ -1,8 +1,8 @@
 var path = require("path");
 var express = require("express");
 var app = express();
-var http = require("http").Server(app).listen(80);
-
+var port = process.env.port || 80;
+var http = require("http").Server(app).listen(port);
 
 app.use("/css", express.static("./css"));
 app.use("/img", express.static("./img"));
