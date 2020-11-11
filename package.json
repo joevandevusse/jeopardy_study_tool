@@ -1,0 +1,24 @@
+{
+  "name": "jeopardy_study_tool",
+  "version": "1.0.0",
+  "description": "A tool to help prospective jeopardy contestants study",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joevandevusse/jeopardy_study_tool.git"
+  },
+  "author": "Joe Vande Vusse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joevandevusse/jeopardy_study_tool/issues"
+  },
+  "homepage": "https://github.com/joevandevusse/jeopardy_study_tool#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
+  }
+}
