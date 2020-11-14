@@ -1,8 +1,9 @@
 var path = require("path");
 var express = require("express");
 var app = express();
-var port = process.env.port || 80;
-var http = require("http").Server(app).listen(port);
+//var port = process.env.port || 80;
+const PORportT = process.env.PORT || 8080;
+//var http = require("http").Server(app).listen(port);
 
 app.use("/css", express.static("./css"));
 app.use("/img", express.static("./img"));
@@ -25,4 +26,9 @@ app.get("/categories", function(req, res) {
 //     var port = server.address().port;
 //     console.log("Listening on http://" + host + ": " + port + "/");
 // });
+
+app.listen(port, () => {
+    console.log(`App listening on port ${port}`);
+    console.log('Press Ctrl+C to quit.');
+  });
 
