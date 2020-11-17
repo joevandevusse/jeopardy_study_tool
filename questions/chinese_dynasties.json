@@ -1,0 +1,58 @@
+[
+    {
+        "question": "(2100-1600 BCE) First Chinese dynasty, thought to be a myth,  Huang-ti (Yellow Emperor) emerged from tribal system in prehistoric China, musical instruments, silk, law and customers, medicine, agriculture, Emperor Yao, Yellow River flood, Gun, Yu the Great",
+        "answer": "Xia"
+    },
+    {
+        "question": "(1600-1050 BCE) Marked beginning of Chinese civilization, writing system invented, practice of divination, walled cities, bronze technology, horse-drawn chariots",
+        "answer": "Shang"
+    },
+    {
+        "question": "(1046-256 BCE) Hierarchical social/political system, royal house at apex, similar to feudalism with power in aristocratic families as lords, ancestral cults, stability and cohesion, competition between states - Spring and Autumb period (770-475 BCE) and Warring States period (475-221 BCE), Confucius (561-479 BCE)",
+        "answer": "Zhou"
+    },
+    {
+        "question": "(221-206 BCE) Unitary state, centralized administration, standarized writing script, created weights and measures, harsh methods of rule, suppressed dissenting thought",
+        "answer": "Qin"
+    },
+    {
+        "question": "(206 BCE - 220 CE) Consolidated foundation of imperial order, Confucianism established as orthodoxy, civil service exams, extended to Kora and Vietnam, 'Records of the Historian' - model for subsequent official histories",
+        "answer": "Han"
+    },
+    {
+        "question": "(220-589) Also Six Dynasties Period, fragmented empire, North dominated by invaders from the borderland and the steppe, South was ruled by successive 'Chinese' dynaties, Buddhism spread",
+        "answer": "Period of Disunity"
+    },
+    {
+        "question": "(589-618) China reuinfied, Emperor Wen, equal-field system, standarized coinage, Buddhism spread again, golden age of agricultural surplus and population growth",
+        "answer": "Sui"
+    },
+    {
+        "question": "(618-906) Cosmopolitanism and cultural flowering, height of Buddhist influence in China, Buddhism began being repressed around 845, active territorial expansion, defeated by Arabs at Talas (751) and expansion halted",
+        "answer": "Tang"
+    },
+    {
+        "question": "(960-1279) Economic/social changes, monetization of the economy, growth in commerce and maritine trade, urban/technological expansion, examination system for bureaucratic recruitment, neo-Confucianism",
+        "answer": "Song"
+    },
+    {
+        "question": "(1279-1368) Founded by Mongols as they conquered much of the known world, Beijing made capital, dramas like 'Story of the Western Wing' flourished",
+        "answer": "Yuan"
+    },
+    {
+        "question": "(1568-1644) Emperor Hongwu laid basis of authoritarian political culture, early expansion but inward-looking overall, emphasis on agrarian base, commercial sector grew, vibrant literacy scene represent by publication of 'Journey to the West' novel",
+        "answer": "Ming"
+    },
+    {
+        "question": "(1644-1912) Manchu dynasty, continued economic development of late Ming - prosperity but complacency, dramatic increase in population, famous novel 'Dream of the Red Chamber' written, substantial new territorial gains, authoritarian structure couldn't meet military/cultural challenge of expansive West",
+        "answer": "Qing"
+    },
+    {
+        "question": "(1912-1949) Weak central government following dynastic system collapse, Western influence in science and democracy during New Culture Movement, Nationalist effort (1928) thwarted by domestic revolts and Japanese occupation (1937-1945), Nationalists fled to Taiwan after defeat by Communists",
+        "answer": "Republic Period"
+    },
+    {
+        "question": "(1949-Present) Communist government, goal of remaking society ended in disasters like the Great Leap Forward and the Cultural Revolution, economic reform and political enrichment have occurred since 1978",
+        "answer": "People's Republic of China"
+    }
+]
