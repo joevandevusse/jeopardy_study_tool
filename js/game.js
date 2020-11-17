@@ -48,7 +48,7 @@ getNewQuestion = () => {
     if (availableQuestions.length === 0 || questionCounter >= MAX_QUESTIONS) {
         localStorage.setItem("mostRecentScore", score);
         // Go to the end page
-        return window.location.assign('/end.html');
+        return window.location.assign('/pages/end.html');
     }
 
     // Empty form text
