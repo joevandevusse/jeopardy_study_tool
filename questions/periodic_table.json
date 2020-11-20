@@ -1,0 +1,414 @@
+[
+    {
+        "question": "Symbol: H\nAtomic Number: 1\nGroup: Reactive Nonmetal",
+        "answer": "Hydrogen"
+    },
+    {
+        "question": "Symbol: He\nAtomic Number: 2\nGroup: Noble Gas",
+        "answer": "Helium"
+    },
+    {
+        "question": "Symbol: Li\nAtomic Number: 3\nGroup: Alkali Metal",
+        "answer": "Lithium"
+    },
+    {
+        "question": "Symbol: Be\nAtomic Number: 4\nGroup: Alkali Earth Metal",
+        "answer": "Beryllium"
+    },
+    {
+        "question": "Symbol: B\nAtomic Number: 5\nGroup: Metalloid",
+        "answer": "Boron"
+    },
+    {
+        "question": "Symbol: C\nAtomic Number: 6\nGroup: Reactive Nonmental",
+        "answer": "Carbon"
+    },
+    {
+        "question": "Symbol: N\nAtomic Number: 7\nGroup: Reactive Nonmetal",
+        "answer": "Nitrogen"
+    },
+    {
+        "question": "Symbol: O\nAtomic Number: 8\nGroup: Reactive Nonmetal",
+        "answer": "Oxygen"
+    },
+    {
+        "question": "Symbol: F\nAtomic Number: 9\nGroup: Reactive Nonmetal",
+        "answer": "Fluorine"
+    },
+    {
+        "question": "Symbol: Ne\nAtomic Number: 10\nGroup: Noble Gas",
+        "answer": "Neon"
+    },
+    {
+        "question": "Symbol: Na\nAtomic Number: 11\nGroup: Alkali Metal",
+        "answer": "Sodium"
+    },
+    {
+        "question": "Symbol: Mg\nAtomic Number: 12\nGroup: Alkali Earth Metal",
+        "answer": "Magnesium"
+    },
+    {
+        "question": "Symbol: Al\nAtomic Number: 13\nGroup: Post-Transition Metal",
+        "answer": "Aluminum"
+    },
+    {
+        "question": "Symbol: Si\nAtomic Number: 14\nGroup: Metalloid",
+        "answer": "Silicon"
+    },
+    {
+        "question": "Symbol: P\nAtomic Number: 15\nGroup: Reactive Nonmetal",
+        "answer": "Phosphorus"
+    },
+    {
+        "question": "Symbol: S\nAtomic Number: 16\nGroup: Reactive Nonmetal",
+        "answer": "Sulfur"
+    },
+    {
+        "question": "Symbol: Cl\nAtomic Number: 17\nGroup: Reactive Nonmetal",
+        "answer": "Chlorine"
+    },
+    {
+        "question": "Symbol: Ar\nAtomic Number: 18\nGroup: Noble Gas",
+        "answer": "Argon"
+    },
+    {
+        "question": "Symbol: K\nAtomic Number: 19\nGroup: Alkali Metal",
+        "answer": "Potassium"
+    },
+    {
+        "question": "Symbol: Ca\nAtomic Number: 20\nGroup: Alkali Earth Metal",
+        "answer": "Calcium"
+    },
+    {
+        "question": "Symbol: Sc\nAtomic Number: 21\nGroup: Transition Metal",
+        "answer": "Scandium"
+    },
+    {
+        "question": "Symbol: Ti\nAtomic Number: 22\nGroup: Transition Metal",
+        "answer": "Titanium"
+    },
+    {
+        "question": "Symbol: V\nAtomic Number: 23\nGroup: Transition Metal",
+        "answer": "Vanadium"
+    },
+    {
+        "question": "Symbol: Cr\nAtomic Number: 24\nGroup: Transition Metal",
+        "answer": "Chromium"
+    },
+    {
+        "question": "Symbol: Mn\nAtomic Number: 25\nGroup: Transition Metal",
+        "answer": "Manganese"
+    },
+    {
+        "question": "Symbol: Fe\nAtomic Number: 26\nGroup: Transition Metal",
+        "answer": "Iron"
+    },
+    {
+        "question": "Symbol: Co\nAtomic Number: 27\nGroup: Transition Metal",
+        "answer": "Cobalt"
+    },
+    {
+        "question": "Symbol: Ni\nAtomic Number: 28\nGroup: Transition Metal",
+        "answer": "Nickel"
+    },
+    {
+        "question": "Symbol: Cu\nAtomic Number: 29\nGroup: Transition Metal",
+        "answer": "Copper"
+    },
+    {
+        "question": "Symbol: Zn\nAtomic Number: 30\nGroup: Transition Metal",
+        "answer": "Zinc"
+    },
+    {
+        "question": "Symbol: Ga\nAtomic Number: 31\nGroup: Post-Transition Metal",
+        "answer": "Gallium"
+    },
+    {
+        "question": "Symbol: Ge\nAtomic Number: 32\nGroup: Metalloid",
+        "answer": "Germanium"
+    },
+    {
+        "question": "Symbol: As\nAtomic Number: 33\nGroup: Metalloid",
+        "answer": "Arsenic"
+    },
+    {
+        "question": "Symbol: Se\nAtomic Number: 34\nGroup: Reactive Nonmetal",
+        "answer": "Selenium"
+    },
+    {
+        "question": "Symbol: Br\nAtomic Number: 35\nGroup: Reactive Nonmetal",
+        "answer": "Bromine"
+    },
+    {
+        "question": "Symbol: Kr\nAtomic Number: 36\nGroup: Noble Gas",
+        "answer": "Krypton"
+    },
+    {
+        "question": "Symbol: Rb\nAtomic Number: 37\nGroup: Alkali Metal",
+        "answer": "Rubidium"
+    },
+    {
+        "question": "Symbol: Sr\nAtomic Number: 38\nGroup: Alkali Earth Metal",
+        "answer": "Strontium"
+    },
+    {
+        "question": "Symbol: Y\nAtomic Number: 39\nGroup: Transition Metal",
+        "answer": "Ytrium"
+    },
+    {
+        "question": "Symbol: Zr\nAtomic Number: 40\nGroup: Transition Metal",
+        "answer": "Zirconium"
+    },
+    {
+        "question": "Symbol: Nb\nAtomic Number: 41\nGroup: Transition Metal",
+        "answer": "Niobium"
+    },
+    {
+        "question": "Symbol: Mo\nAtomic Number: 42\nGroup: Transition Metal",
+        "answer": "Molybdenum"
+    },
+    {
+        "question": "Symbol: Tc\nAtomic Number: 43\nGroup: Transition Metal",
+        "answer": "Technetium"
+    },
+    {
+        "question": "Symbol: Ru\nAtomic Number: 44\nGroup: Transition Metal",
+        "answer": "Ruthenium"
+    },
+    {
+        "question": "Symbol: Rh\nAtomic Number: 45\nGroup: Transition Metal",
+        "answer": "Rhodium"
+    },
+    {
+        "question": "Symbol: Pd\nAtomic Number: 46\nGroup: Transition Metal",
+        "answer": "Palladium"
+    },
+    {
+        "question": "Symbol: Ag\nAtomic Number: 47\nGroup: Transition Metal",
+        "answer": "Silver"
+    },
+    {
+        "question": "Symbol: Cd\nAtomic Number: 48\nGroup: Transition Metal",
+        "answer": "Cadmium"
+    },
+    {
+        "question": "Symbol: In\nAtomic Number: 49\nGroup: Post-Transition Metal",
+        "answer": "Indium"
+    },
+    {
+        "question": "Symbol: Sn\nAtomic Number: 50\nGroup: Post-Transition Metal",
+        "answer": "Tin"
+    },
+    {
+        "question": "Symbol: Sb\nAtomic Number: 51\nGroup: Metalloid",
+        "answer": "Antimony"
+    },
+    {
+        "question": "Symbol: Te\nAtomic Number: 52\nGroup: Mettalloid",
+        "answer": "Tellurium"
+    },
+    {
+        "question": "Symbol: I\nAtomic Number: 53\nGroup: Reactive Nonmetal",
+        "answer": "Iodine"
+    },
+    {
+        "question": "Symbol: Xe\nAtomic Number: 54\nGroup: Noble Gas",
+        "answer": "Xenon"
+    },
+    {
+        "question": "Symbol: Cs\nAtomic Number: 55\nGroup: Alkali Metal",
+        "answer": "Cesium"
+    },
+    {
+        "question": "Symbol: Ba\nAtomic Number: 56\nGroup: Alkali Earth Metal",
+        "answer": "Barium"
+    },
+    {
+        "question": "Symbol: La\nAtomic Number: 57\nGroup: Lanthanoid (Metal)",
+        "answer": "Lanthanium"
+    },
+    {
+        "question": "Symbol: Ce\nAtomic Number: 58\nGroup: Lanthanoid (Metal)",
+        "answer": "Cerium"
+    },
+    {
+        "question": "Symbol: Pr\nAtomic Number: 59\nGroup: Lanthanoid (Metal)",
+        "answer": "Praseodymium"
+    },
+    {
+        "question": "Symbol: Nd\nAtomic Number: 60\nGroup: Lanthanoid (Metal)",
+        "answer": "Neodymium"
+    },
+    {
+        "question": "Symbol: Pm\nAtomic Number: 61\nGroup: Lanthanoid (Metal)",
+        "answer": "Promethium"
+    },
+    {
+        "question": "Symbol: Sm\nAtomic Number: 62\nGroup: Lanthanoid (Metal)",
+        "answer": "Samarium"
+    },
+    {
+        "question": "Symbol: Eu\nAtomic Number: 63\nGroup: Lanthanoid (Metal)",
+        "answer": "Europium"
+    },
+    {
+        "question": "Symbol: Gd\nAtomic Number: 64\nGroup: Lanthanoid (Metal)",
+        "answer": "Gadolinium"
+    },
+    {
+        "question": "Symbol: Tb\nAtomic Number: 65\nGroup: Lanthanoid (Metal)",
+        "answer": "Terbium"
+    },
+    {
+        "question": "Symbol: Dy\nAtomic Number: 66\nGroup: Lanthanoid (Metal)",
+        "answer": "Dysprosium"
+    },
+    {
+        "question": "Symbol: Ho\nAtomic Number: 67\nGroup: Lanthanoid (Metal)",
+        "answer": "Holmium"
+    },
+    {
+        "question": "Symbol: Er\nAtomic Number: 68\nGroup: Lanthanoid (Metal)",
+        "answer": "Erbium"
+    },
+    {
+        "question": "Symbol: Tm\nAtomic Number: 69\nGroup: Lanthanoid (Metal)",
+        "answer": "Thulium"
+    },
+    {
+        "question": "Symbol: Yb\nAtomic Number: 70\nGroup: Lanthanoid (Metal)",
+        "answer": "Ytterbium"
+    },
+    {
+        "question": "Symbol: Lu\nAtomic Number: 71\nGroup: Lanthanoid (Metal)",
+        "answer": "Lutetium"
+    },
+    {
+        "question": "Symbol: Hf\nAtomic Number: 72\nGroup: Transition Metal",
+        "answer": "Hafnium"
+    },
+    {
+        "question": "Symbol: Ta\nAtomic Number: 73\nGroup: Transition Metal",
+        "answer": "Tantalum"
+    },
+    {
+        "question": "Symbol: W\nAtomic Number: 74\nGroup: Transition Metal",
+        "answer": "Tungsten"
+    },
+    {
+        "question": "Symbol: Re\nAtomic Number: 75\nGroup: Transition Metal",
+        "answer": "Rhenium"
+    },
+    {
+        "question": "Symbol: Os\nAtomic Number: 76\nGroup: Transition Metal",
+        "answer": "Osmium"
+    },
+    {
+        "question": "Symbol: Ir\nAtomic Number: 77\nGroup: Transition Metal",
+        "answer": "Iridium"
+    },
+    {
+        "question": "Symbol: Pt\nAtomic Number: 78\nGroup: Transition Metal",
+        "answer": "Platinum"
+    },
+    {
+        "question": "Symbol: Au\nAtomic Number: 79\nGroup: Transition Metal",
+        "answer": "Gold"
+    },
+    {
+        "question": "Symbol: Hg\nAtomic Number: 80\nGroup: Transition Metal",
+        "answer": "Mercury"
+    },
+    {
+        "question": "Symbol: Tl\nAtomic Number: 81\nGroup: Post-Transition Metal",
+        "answer": "Thallium"
+    },
+    {
+        "question": "Symbol: Pb\nAtomic Number: 82\nGroup: Post-Transition Metal",
+        "answer": "Lead"
+    },
+    {
+        "question": "Symbol: Bi\nAtomic Number: 83\nGroup: Post-Transition Metal",
+        "answer": "Bismuth"
+    },
+    {
+        "question": "Symbol: Po\nAtomic Number: 84\nGroup: Post-Transition Metal",
+        "answer": "Polonium"
+    },
+    {
+        "question": "Symbol: At\nAtomic Number: 85\nGroup: Post-Transition Metal",
+        "answer": "Astatine"
+    },
+    {
+        "question": "Symbol: Rn\nAtomic Number: 86\nGroup: Noble Gas",
+        "answer": "Radon"
+    },
+    {
+        "question": "Symbol: Fr\nAtomic Number: 87\nGroup: Alkali Metal",
+        "answer": "Francium"
+    },
+    {
+        "question": "Symbol: Ra\nAtomic Number: 88\nGroup: Alkali Earth Metal",
+        "answer": "Radium"
+    },
+    {
+        "question": "Symbol: Ac\nAtomic Number: 89\nGroup: Actinoid (Metal)",
+        "answer": "Actinium"
+    },
+    {
+        "question": "Symbol: Th\nAtomic Number: 90\nGroup: Actinoid (Metal)",
+        "answer": "Thorium"
+    },
+    {
+        "question": "Symbol: Pa\nAtomic Number: 91\nGroup: Actinoid (Metal)",
+        "answer": "Protactinium"
+    },
+    {
+        "question": "Symbol: U\nAtomic Number: 92\nGroup: Actinoid (Metal)",
+        "answer": "Uranium"
+    },
+    {
+        "question": "Symbol: Np\nAtomic Number: 93\nGroup: Actinoid (Metal)",
+        "answer": "Neptunium"
+    },
+    {
+        "question": "Symbol: Pu\nAtomic Number: 94\nGroup: Actinoid (Metal)",
+        "answer": "Plutonium"
+    },
+    {
+        "question": "Symbol: Am\nAtomic Number: 95\nGroup: Actinoid (Metal)",
+        "answer": "Americium"
+    },
+    {
+        "question": "Symbol: Cm\nAtomic Number: 96\nGroup: Actinoid (Metal)",
+        "answer": "Curium"
+    },
+    {
+        "question": "Symbol: Bk\nAtomic Number: 97\nGroup: Actinoid (Metal)",
+        "answer": "Berkelium"
+    },
+    {
+        "question": "Symbol: Cf\nAtomic Number: 98\nGroup: Actinoid (Metal)",
+        "answer": "Californium"
+    },
+    {
+        "question": "Symbol: Es\nAtomic Number: 99\nGroup: Actinoid (Metal)",
+        "answer": "Einsteinium"
+    },
+    {
+        "question": "Symbol: Fm\nAtomic Number: 100\nGroup: Actinoid (Metal)",
+        "answer": "Fermium"
+    },
+    {
+        "question": "Symbol: Md\nAtomic Number: 101\nGroup: Actinoid (Metal)",
+        "answer": "Mendelevium"
+    },
+    {
+        "question": "Symbol: No\nAtomic Number: 102\nGroup: Actinoid (Metal)",
+        "answer": "Nobelium"
+    },
+    {
+        "question": "Symbol: Lr\nAtomic Number: 103\nGroup: Actinoid (Metal)",
+        "answer": "Lawrencium"
+    }
+]

@@ -1,0 +1,126 @@
+[
+    {
+        "question": "Continent: North America\nLocation: US-Canada border\nNotes: Beluga whales, important shipping route",
+        "answer": "St. Lawrence River"
+    },
+    {
+        "question": "Continent: North America\nLocation: New York\nNotes: Connected to the Erie Canal causing NYC's rise",
+        "answer": "Hudson River"
+    },
+    {
+        "question": "Continent: North America\nLocation: Northeastern and Mid-Atlantic US\nNotes: Drains into Chesapeake Bay, longest without commercial boat traffic",
+        "answer": "Susquehanna River"
+    },
+    {
+        "question": "Continent: North America\nLocation: Mid-Atlantic US\nNotes: Capital of the US sits on its banks, drains into Chesapeake Bay",
+        "answer": "Potomac River"
+    },
+    {
+        "question": "Continent: North America\nLocation: Minnesota to Gulf of Mexico\nNotes: Tributaries include Ohio, Missouri, and Platte Rivers",
+        "answer": "Mississippi River"
+    },
+    {
+        "question": "Continent: North America\nLocation: Southwestern US and Mexico\nNotes: Includes Grand Canyon and Hoover Dam",
+        "answer": "Colorado River"
+    },
+    {
+        "question": "Continent: North America\nLocation: Northwestern US and Canada\nNotes: 14 hydroelectric dams produce more power than any other North American river",
+        "answer": "Columbia River"
+    },
+    {
+        "question": "Continent: North America\nLocation: Western Canada\nNotes: Boreal forest, tundra, flows from Great Slave Lake into the Artic Ocean",
+        "answer": "MacKenzie River"
+    },
+    {
+        "question": "Continent: North America\nLocation: Central Canada\nNotes: Flows out of Lake Winnipeg, fed by Saskatchewan and Red River",
+        "answer": "Nelson River"
+    },
+    {
+        "question": "Continent: North America\nLocation: Atlantic Coast of the US\nNotes: Rises in Catskill Mountains, George Washington crossed it during the Revolutionary War",
+        "answer": "Delaware River"
+    },
+    {
+        "question": "Continent: North America\nLocation: US-Mexico border\nNotes: Dams have left only 20% of natural discharge flowing to the Gulf of Mexico",
+        "answer": "Rio Grande"
+    },
+    {
+        "question": "Continent: South America\nLocation: Brazil, Peru, Bolivia\nNotes: Flows into Atlantic Ocean, second largest worldwide",
+        "answer": "Amazon River"
+    },
+    {
+        "question": "Continent: South America\nLocation: Brazil, Argentina, Paraguay\nNotes: Estuary fed by Parana and Uruguary Rivers, basin contains more of South America's population than the Amazon",
+        "answer": "Rio de la Plata"
+    },
+    {
+        "question": "Continent: Europe\nLocation: France\nNotes: City of Lyon sits of confluence of this river and the Saone, canal system connects it to the Rhine",
+        "answer": "Rhone"
+    },
+    {
+        "question": "Continent: Europe\nLocation: France\nNotes: Paris built along it - famous distict known as left bank, English Channel to Le Havre",
+        "answer": "Seine"
+    },
+    {
+        "question": "Continent: Europe\nLocation: England\nNotes: Westminster, the Globe Theatre, and St. Paul's Cathedral sit on its banks",
+        "answer": "River Thames"
+    },
+    {
+        "question": "Continent: Europe\nLocation: Switzerland, Austria, Germany, France, Netherlands\nNotes: Transportation artery for Germany and some surrounding countries",
+        "answer": "Rhine"
+    },
+    {
+        "question": "Continent: Europe\nLocation: Germany to Romania\nNotes: Linked to Rhine by a canal, Cities along it - Vienna, Budapest, Belgrade",
+        "answer": "Danube"
+    },
+    {
+        "question": "Continent: Africa\nLocation: Egypt\nNotes: Largest river worldwide, floodplains have nourished numerous empires through the ages",
+        "answer": "Nile River"
+    },
+    {
+        "question": "Continent: Africa\nLocation: Sub-Saharan Africa\nNotes: African Great Lakes (Kivu and Tanganyika) drain to it",
+        "answer": "Congo River"
+    },
+    {
+        "question": "Continent: Africa\nLocation: West Africa\nNotes: Cities along it - Timbuktu, Gao were important centers in the historic Trans-Saharan trade between West Africa and the Mediterranean",
+        "answer": "Niger River"
+    },
+    {
+        "question": "Continent: Asia\nLocation: Middle East\nNotes: Two rivers, harbored some of the earliest civilizations along with the Nile and Indus, Mesopotamia means 'between the rivers'",
+        "answer": "Tigris and Euphrates Rivers"
+    },
+    {
+        "question": "Continent: Europe/Asia\nLocation: Russia\nNotes: West of the Urals, 'national river of Russia', caviar comes from its delta in the Caspian Sea",
+        "answer": "Volga"
+    },
+    {
+        "question": "Continent: Asia\nLocation: Middle East, India, China\nNotes: Supported a notable early civilization like the Tigris, Euphrates, and Nile Rivers",
+        "answer": "Indus River"
+    },
+    {
+        "question": "Continent: Asia\nLocation: Bangladesh, India\nNotes: Country of Bangladesh is the delta of a large river system including this river and the Brahmaputra",
+        "answer": "Ganges River"
+    },
+    {
+        "question": "Continent: Asia\nLocation: Myanmar (Burma)\nNotes: Flows primarily through Myanmar and India into the Andaman Sea",
+        "answer": "Irrawaddy River"
+    },
+    {
+        "question": "Continent: Asia\nLocation: Southeast Asia\nNotes: Starts in China and flows through 6 Southeast Asian countries",
+        "answer": "Mekong River"
+    },
+    {
+        "question": "Continent: Asia\nLocation: Southern China\nNotes: Longest global river entirely within one country, drain 1/5 of China's land area and is home to 1/3 of its population, Three-Gorges Dam",
+        "answer": "Yangtze River"
+    },
+    {
+        "question": "Continent: Asia\nLocation: Northern China\nNotes: Also knows as the Huang He, much drier than Yangtze, politically powerful north relies on southern agricultural resources",
+        "answer": "Yellow River"
+    },
+    {
+        "question": "Continent: Oceania\nLocation: Australia - South Australia/New South Wales\nNotes: Forms river system with the Darling, important agricultural region in a country with scarce water resources, trading system established to manage water right",
+        "answer": "Murray River"
+    },
+    {
+        "question": "Continent: Oceania\nLocation: Australia - New South Wales/Queensland\nNotes: Forms river system with the Murray, important agricultural region in a country with scarce water resources, trading system established to manage water right",
+        "answer": "Darling River"
+    }
+]
