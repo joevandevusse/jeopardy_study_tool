@@ -10,7 +10,7 @@ finalScore.innerText = mostRecentScore;
 
 window.onload = () => {
     const category = localStorage.getItem("category");
-    const playAgainURL = "/game.html?category=" + category;
+    const playAgainURL = "/pages/game.html?category=" + category;
     document.getElementById("play-again").href = playAgainURL;
 };
 

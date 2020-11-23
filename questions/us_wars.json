@@ -1,0 +1,94 @@
+[
+    {
+        "question": "Year(s): 1775-1783\nLocation: Eastern North American\nCombatants: US, France vs. Great Britain, Hessians (German mercenaries)\nResolution: Treaty of Paris (1783), British recognition of US independence",
+        "answer": "American Revolutionary War"
+    },
+    {
+        "question": "Year(s): 1786-1787\nLocation: Massachusetts\nCombatants: US vs. anti-government protestors\nResolution: Articles of Confederation problems prompted Constitutional Convention",
+        "answer": "Shay's Rebellion"
+    },
+    {
+        "question": "Year(s): 1791-1794\nLocation: Western Pennsylvania\nCombatants: US vs. Frontier Tax protestors\nResolution: US was capable of suppressing violent resistance, tax still difficult to collect, political parties formed",
+        "answer": "Whiskey Rebellion"
+    },
+    {
+        "question": "Year(s): 1798-1900\nLocation: Atlantic Ocean, Caribbean\nCombatants: US, Great Britain vs. France\nResolution: Convention of 1800 - Franco-American relations restored, facilitated Louisiana Purchase (1803)",
+        "answer": "Quasi-War"
+    },
+    {
+        "question": "Year(s): 1799-1800\nLocation: Pennsylvania\nCombatants: US vs. Frontier Tax Protestors\nResolution: John Adams pardoned those guilty of treason due to be hanged including Fries",
+        "answer": "Fries Rebellion"
+    },
+    {
+        "question": "Year(s): 1801-1805, 1815\nLocation: Mediterranean Sea\nCombatants: US, Sweden vs. Barbery States (Tunis, Algeries, Tripoli)\nResolution: Ended Muslim piracy in the Mediterranean",
+        "answer": "Barbary Wars"
+    },
+    {
+        "question": "Year(s): 1812-1815\nLocation: Eastern/Central North America\nCombatants: US vs. United Kingdom\nResolution: Treaty of Ghent - status quo ante bellum, Washington (White House and Capitol) burned down",
+        "answer": "War of 1812"
+    },
+    {
+        "question": "Year(s): 1835-1836\nLocation: Texas\nCombatants: Republic of Texas vs. Mexico\nResolution: Texan independence then US annexation (1845)",
+        "answer": "Texas Revolution"
+    },
+    {
+        "question": "Year(s): 1846-1848\nLocation: Texas, Southwestern US\nCombatants: US, California Republic vs. Mexico\nResolution: Treaty of Guadalupe Hidalgo, Mexican Cession, Mexican recognition of US sovereignty over Texas/California",
+        "answer": "Mexican-American War"
+    },
+    {
+        "question": "Year(s): 1854-1861\nLocation: Kansas, Missouri\nCombatants: Anti-slavery Free-Staters vs. Pro-slavery Border Ruffians\nResolution: Kansas admitted as a free state (1861)",
+        "answer": "Bleeding Kansas"
+    },
+    {
+        "question": "Year(s): 1859\nLocation: West Virginia\nCombatants: US vs. Abolitionist Insurgents\nResolution: Abolitionist/slave revolt suppressed, prelude to Civil War, Brown executed",
+        "answer": "John Brown's Raid on Harper's Ferry"
+    },
+    {
+        "question": "Year(s): 1861-1865\nLocation: Southern US\nCombatants: US vs. Confederate States\nResolution: Confederacy dissolved, slavery abolished, Reconstruction Era begins, 13/14/15th amendments, US increases control of Indian Territory",
+        "answer": "American Civil War"
+    },
+    {
+        "question": "Year(s): 1898\nLocation: Cuba, Puerto Rico, Philippines, Guam\nCombatants: US, Cuban/Filipino Revolutionaries vs. Spain\nResolution: Treaty of Paris, Protectorate over Cuba, collapse of Spanish Empire",
+        "answer": "Spanish-American War"
+    },
+    {
+        "question": "Year(s): 1899-1902\nLocation: Philippines\nCombatants: US vs. Philippine Republic\nResolution: US occupation of the Philippines",
+        "answer": "Philippine-American War"
+    },
+    {
+        "question": "Year(s): 1917-1918\nLocation: Europe, Africa, Asia\nCombatants: US, France, British Empire, Russia (Allied) vs. Germany, Austria-Hungary, Ottoman Empire (Central)\nResolution:End of Central Powers empires and transfer of their colonies, League of Nations established",
+        "answer": "World War I"
+    },
+    {
+        "question": "Year(s): 1939-1945\nLocation: Europe, oceans\nCombatants: US, Soviet Union, United Kingdom, China (Allied) vs. Germany, Japan, Italy (Axis)\nResolution: Collapse of Axis empires (Third Reich falls), United Nations created, Cold War begins",
+        "answer": "World War II"
+    },
+    {
+        "question": "Year(s): 1950-1953\nLocation: Korea\nCombatants: US, South Korea, United Kingdom vs. North Korea, China, Soviet Union\nResolution: Koream Armistice Agreement - DMZ runs along 38th parallel separating the Koreas",
+        "answer": "Korean War"
+    },
+    {
+        "question": "Year(s): 1961\nLocation: Cuba\nCombatants: US vs. Cuba\nResolution: Castro solidified, Cuba pushed closer to Soviet Unionz",
+        "answer": "Bay of Pigs Invasion"
+    },
+    {
+        "question": "Year(s): 1947-1991\nLocation: No physical location\nCombatants: US vs. Soviet Union\nResolution: Dissolution of the Soviet Union (1991)",
+        "answer": "Cold War"
+    },
+    {
+        "question": "Year(s): 1955-1964, 1965-1973, 1974-1975\nLocation: Vietnam, Cambodia, Laos\nCombatants: US, South Vietnam vs. North Vietnam, Viet Cong\nResolution: US withdraw from Indochina, Republic of Vietnam dissolves, unifies, and communism ensues",
+        "answer": "Vietnam War"
+    },
+    {
+        "question": "Year(s): 1990-1991\nLocation: Iraq, Kuwait, Saudi Arabia, Israel\nCombatants: US, Kuwait, United Kingdom, Saudia Arabia vs. Iraw\nResolution: Iraqi wtihdrawal from Kuwait with sanctions, Emir Jaber III restored",
+        "answer": "Gulf War"
+    },
+    {
+        "question": "Year(s): 2001-Present\nLocation: Afghanistan\nCombatants: US, Afghanistan, Resolute Support Mission vs. Taliban, al-Qaeda\nResolution: Fall of Taliban government, death of Osama bin Laden, War on Terror continues",
+        "answer": "War in Afghanistan"
+    },
+    {
+        "question": "Year(s): 2003-2011\nLocation: Iraq\nCombatants: US, Iraq, United Kingdom vs. Ba'ath Loyalists\nResolution: Rise then later fall of al-Qaeda, democratic Shia-led government, US withdrawal, Iraqi Civil War (2014-2017)",
+        "answer": "Iraq War"
+    }
+]

@@ -1,0 +1,330 @@
+[
+    {
+        "question": "Season: 2020\nLeague: AL\nTeam: Chicago White Sox",
+        "answer": "Jose Abreu"
+    },
+    {
+        "question": "Season: 2020\nLeague: NL\nTeam: Atlanta Braves",
+        "answer": "Freddie Freeman"
+    },
+    {
+        "question": "Season: 2019\nLeague: AL\nTeam: Los Angeles Angels",
+        "answer": "Mike Trout"
+    },
+    {
+        "question": "Season: 2019\nLeague: NL\nTeam: Los Angeles Dodgers",
+        "answer": "Cody Bellinger"
+    },
+    {
+        "question": "Season: 2018\nLeague: AL\nTeam: Boston Red Sox",
+        "answer": "Mookie Betts"
+    },
+    {
+        "question": "Season: 2018\nLeague: NL\nTeam: Milwaukee Brewers",
+        "answer": "Christian Yelich"
+    },
+    {
+        "question": "Season: 2017\nLeague: AL\nTeam: Houston Astros",
+        "answer": "Jose ALtuve"
+    },
+    {
+        "question": "Season: 2017\nLeague: NL\nTeam: Miami Marlins",
+        "answer": "Giancarlo Stanton"
+    },
+    {
+        "question": "Season: 2016\nLeague: AL\nTeam: Los Angeles Angels",
+        "answer": "Mike Trout"
+    },
+    {
+        "question": "Season: 2016\nLeague: NL\nTeam: Chicago Cubs",
+        "answer": "Kris Bryant"
+    },
+    {
+        "question": "Season: 2015\nLeague: AL\nTeam: Toronto Blue Jays",
+        "answer": "Josh Donaldson"
+    },
+    {
+        "question": "Season: 2015\nLeague: NL\nTeam: Washington Nationals",
+        "answer": "Bryce Harper"
+    },
+    {
+        "question": "Season: 2014\nLeague: AL\nTeam: Los Angeles Angels",
+        "answer": "Mike Trout"
+    },
+    {
+        "question": "Season: 2014\nLeague: NL\nTeam: Los Angeles Dodgers",
+        "answer": "Clayton Kershaw"
+    },
+    {
+        "question": "Season: 2013\nLeague: AL\nTeam: Detroit Tiger",
+        "answer": "Miguel Cabrera"
+    },
+    {
+        "question": "Season: 2013\nLeague: NL\nTeam: Pittsburgh Pirates",
+        "answer": "Andrew McCutchen"
+    },
+    {
+        "question": "Season: 2012\nLeague: AL\nTeam: Detroit Tigers",
+        "answer": "Miguel Cabrera"
+    },
+    {
+        "question": "Season: 2012\nLeague: NL\nTeam: San Francisco Giants",
+        "answer": "Buster Posey"
+    },
+    {
+        "question": "Season: 2011\nLeague: AL\nTeam: Detroit Tigers",
+        "answer": "Justin Verlander"
+    },
+    {
+        "question": "Season: 2011\nLeague: NL\nTeam: Milwakee Brewers",
+        "answer": "Ryan Braun"
+    },
+    {
+        "question": "Season: 2010\nLeague: AL\nTeam: Texas Rangers",
+        "answer": "Josh Hamilton"
+    },
+    {
+        "question": "Season: 2010\nLeague: NL\nTeam: Cincinnatti Reds",
+        "answer": "Joey Votto"
+    },
+    {
+        "question": "Season: 2009\nLeague: AL\nTeam: Minnesota Twins",
+        "answer": "Joe Mauer"
+    },
+    {
+        "question": "Season: 2009\nLeague: NL\nTeam: St. Louis Cardinals",
+        "answer": "Albert Pujols"
+    },
+    {
+        "question": "Season: 2008\nLeague: AL\nTeam: Boston Red Sox",
+        "answer": "Dustin Pedroia"
+    },
+    {
+        "question": "Season: 2008\nLeague: NL\nTeam: St. Louis Cardinals",
+        "answer": "Albert Pujols"
+    },
+    {
+        "question": "Season: 2007\nLeague: AL\nTeam: New York Yankees",
+        "answer": "Alex Rodriguez"
+    },
+    {
+        "question": "Season: 2007\nLeague: NL\nTeam: Philadelphia Phillies",
+        "answer": "Jimmy Rollins"
+    },
+    {
+        "question": "Season: 2006\nLeague: AL\nTeam: Minnesota Twins",
+        "answer": "Justin Morneau"
+    },
+    {
+        "question": "Season: 2006\nLeague: NL\nTeam: Philadelphia Phillies",
+        "answer": "Ryan Howard"
+    },
+    {
+        "question": "Season: 2005\nLeague: AL\nTeam: New York Yankees",
+        "answer": "Alex Rodriguez"
+    },
+    {
+        "question": "Season: 2005\nLeague: NL\nTeam: St. Louis Cardinals",
+        "answer": "Albert Pujols"
+    },
+    {
+        "question": "Season: 2004\nLeague: AL\nTeam: Anaheim Angels",
+        "answer": "Vladimir Guerrero"
+    },
+    {
+        "question": "Season: 2004\nLeague: NL\nTeam: San Francisco Giants",
+        "answer": "Barry Bonds"
+    },
+    {
+        "question": "Season: 2003\nLeague: AL\nTeam: Texas Rangers",
+        "answer": "Alex Rodriguez"
+    },
+    {
+        "question": "Season: 2003\nLeague: NL\nTeam: San Francisco Giants",
+        "answer": "Barry Bonds"
+    },
+    {
+        "question": "Season: 2002\nLeague: AL\nTeam: Oakland Athletics",
+        "answer": "Miguel Tejada"
+    },
+    {
+        "question": "Season: 2002\nLeague: NL\nTeam: San Francisco Giants",
+        "answer": "Barry Bonds"
+    },
+    {
+        "question": "Season: 2001\nLeague: AL\nTeam: Seattle Mariners",
+        "answer": "Ichiro Suzuki"
+    },
+    {
+        "question": "Season: 2001\nLeague: NL\nTeam: San Francisco Giants",
+        "answer": "Barry Bonds"
+    },
+    {
+        "question": "Season: 2000\nLeague: AL\nTeam: Oakland Atheltics",
+        "answer": "Jason Giambi"
+    },
+    {
+        "question": "Season: 2000\nLeague: NL\nTeam: San Francisco Giants",
+        "answer": "Jeff Kent"
+    },
+    {
+        "question": "Season: 1999\nLeague: AL\nTeam: Texas Rangers",
+        "answer": "Ivan Rodriguez"
+    },
+    {
+        "question": "Season: 1999\nLeague: NL\nTeam: Atlanta Braves",
+        "answer": "Chipper Jones"
+    },
+    {
+        "question": "Season: 1998\nLeague: AL\nTeam: Texas Rangers",
+        "answer": "Juan Gonzales"
+    },
+    {
+        "question": "Season: 1998\nLeague: NL\nTeam: Chicago Cubs",
+        "answer": "Sammy Sosa"
+    },
+    {
+        "question": "Season: 1997\nLeague: AL\nTeam: Seattle Mariners",
+        "answer": "Ken Griffey Jr."
+    },
+    {
+        "question": "Season: 1997\nLeague: NL\nTeam: Colorado Rockies",
+        "answer": "Larry Walker"
+    },
+    {
+        "question": "Season: 1996\nLeague: AL\nTeam: Texas Rangers",
+        "answer": "Juan Gonzalez"
+    },
+    {
+        "question": "Season: 1996\nLeague: NL\nTeam: San Diego Padres",
+        "answer": "Ken Caminiti"
+    },
+    {
+        "question": "Season: 1995\nLeague: AL\nTeam: Boston Red Sox",
+        "answer": "Mo Vaughn"
+    },
+    {
+        "question": "Season: 1995\nLeague: NL\nTeam: Cincinnatti Reds",
+        "answer": "Barry Larkin"
+    },
+    {
+        "question": "Season: 1994\nLeague: AL\nTeam: Chicago White Sox",
+        "answer": "Frank Thomas"
+    },
+    {
+        "question": "Season: 1994\nLeague: NL\nTeam: Houston Astros",
+        "answer": "Jeff Bagwell"
+    },
+    {
+        "question": "Season: 1993\nLeague: AL\nTeam: Chicago White Sox",
+        "answer": "Frank Thomas"
+    },
+    {
+        "question": "Season: 1993\nLeague: NL\nTeam: San Francisco Giants",
+        "answer": "Barry Bonds"
+    },
+    {
+        "question": "Season: 1992\nLeague: AL\nTeam: Oakland Athletics",
+        "answer": "Dennis Eckersley"
+    },
+    {
+        "question": "Season: 1992\nLeague: NL\nTeam: Pittsburgh Pirates",
+        "answer": "Barry Bonds"
+    },
+    {
+        "question": "Season: 1991\nLeague: AL\nTeam: Baltimore Orioles",
+        "answer": "Cal Ripken Jr."
+    },
+    {
+        "question": "Season: 1991\nLeague: NL\nTeam: Atlanta Braves",
+        "answer": "Terry Pendleton"
+    },
+    {
+        "question": "Season: 1990\nLeague: AL\nTeam: Oakland Athletics",
+        "answer": "Ricky Henderson"
+    },
+    {
+        "question": "Season: 1990\nLeague: NL\nTeam: Pittsburgh Pirates",
+        "answer": "Barry Bonds"
+    },
+    {
+        "question": "Season: 1989\nLeague: AL\nTeam: Milwaukee Brewers",
+        "answer": "Robin Yount"
+    },
+    {
+        "question": "Season: 1989\nLeague: NL\nTeam: San Francisco Giants",
+        "answer": "Kevin Mitchell"
+    },
+    {
+        "question": "Season: 1988\nLeague: AL\nTeam: Oakland Athletics",
+        "answer": "Jose Canseco"
+    },
+    {
+        "question": "Season: 1988\nLeague: NL\nTeam: Los Angeles Dodgers",
+        "answer": "Kirk Gibson"
+    },
+    {
+        "question": "Season: 1987\nLeague: AL\nTeam: Toronto Blue Jays",
+        "answer": "George Bell"
+    },
+    {
+        "question": "Season: 1987\nLeague: NL\nTeam: Chicago Cubs",
+        "answer": "Andrew Dawson"
+    },
+    {
+        "question": "Season: 1986\nLeague: AL\nTeam: Boston Red Sox",
+        "answer": "Roger Clemens"
+    },
+    {
+        "question": "Season: 1986\nLeague: NL\nTeam: Philadelphia Phillies",
+        "answer": "Mike Schmidt"
+    },
+    {
+        "question": "Season: 1985\nLeague: AL\nTeam: New York Yankees",
+        "answer": "Don Mattingly"
+    },
+    {
+        "question": "Season: 1985\nLeague: NL\nTeam: St. Louis Cardinals",
+        "answer": "Willie McGee"
+    },
+    {
+        "question": "Season: 1984\nLeague: AL\nTeam: Detroit Tigers",
+        "answer": "Willie Hernandez"
+    },
+    {
+        "question": "Season: 1984\nLeague: NL\nTeam: Chicago Cubs",
+        "answer": "Ryne Sandberg"
+    },
+    {
+        "question": "Season: 1983\nLeague: AL\nTeam: Baltimore Orioles",
+        "answer": "Cal Ripken Jr."
+    },
+    {
+        "question": "Season: 1983\nLeague: NL\nTeam: Atlanta Braves",
+        "answer": "Dale Murphy"
+    },
+    {
+        "question": "Season: 1982\nLeague: AL\nTeam: Milwaukee Brewers",
+        "answer": "Robin Yount"
+    },
+    {
+        "question": "Season: 1982\nLeague: NL\nTeam: Atlanta Braves",
+        "answer": "Dale Murphy"
+    },
+    {
+        "question": "Season: 1981\nLeague: AL\nTeam: Milwaukee Brewers",
+        "answer": "Rollie Fingers"
+    },
+    {
+        "question": "Season: 1981\nLeague: NL\nTeam: Philadelphia Phillies",
+        "answer": "Mike Schmidt"
+    },
+    {
+        "question": "Season: 1980\nLeague: AL\nTeam: Kansas City Royals",
+        "answer": "George Brett"
+    },
+    {
+        "question": "Season: 1980\nLeague: NL\nTeam: Philadelphia Phillies",
+        "answer": "Mike Schmidt"
+    }
+]
