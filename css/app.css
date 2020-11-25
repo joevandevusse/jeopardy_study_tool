@@ -127,4 +127,10 @@ input::placeholder {
     color: #aaa;
 }
 
-
+footer p{
+    text-align: center;
+    padding: 3px;
+    color: #56a5eb;
+    font-size: 1.8rem;
+    font-weight: 500; 
+}
