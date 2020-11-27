@@ -5,6 +5,7 @@ const scoreText = document.getElementById("score");
 let currentQuestion = {};
 let acceptingAnswers = false;
 let score = 0;
+let scorePercentage = 0;
 let questionCounter = 0;
 let availableQuestions = [];
 
@@ -32,7 +33,7 @@ const form = document.getElementById("form");
 const log = document.getElementById("log");
 
 // Game constants - not really constant because changed later
-const CORRECT_BONUS = 10;
+const CORRECT_BONUS = 1;
 var MAX_QUESTIONS = 10;
 
 startGame = () => {
@@ -46,7 +47,7 @@ startGame = () => {
 
 getNewQuestion = () => {
     if (availableQuestions.length === 0 || questionCounter >= MAX_QUESTIONS) {
-        localStorage.setItem("mostRecentScore", score);
+        localStorage.setItem("mostRecentScore", scorePercentage);
         // Go to the end page
         return window.location.assign('/pages/end.html');
     }
@@ -88,6 +89,7 @@ submitAnswer = () => {
     if (classToApply === "correct") {
         incrementScore(CORRECT_BONUS);
     } else {
+        incrementScore(0);
         textBox.value = correctAnswer;
     }
     
@@ -101,7 +103,10 @@ submitAnswer = () => {
 
 incrementScore = num => {
     score += num;
-    scoreText.innerText = score;
+    var questionsCompleted = questions.length - availableQuestions.length;
+    var scoreDecimal = score / questionsCompleted;
+    scorePercentage = Math.round(scoreDecimal * 100);
+    scoreText.innerText = scorePercentage + "%";
 };
 
 //Submit answer by "Enter" or click
