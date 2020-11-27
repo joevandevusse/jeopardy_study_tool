@@ -14,10 +14,9 @@ let questions = [];
 const currentURL = new URL(window.location.href);
 const category = currentURL.searchParams.get('category');
 const fileToFetch = "/questions/" + category + ".json";
-console.log(fileToFetch)
 var loc = window.location.pathname;
-console.log(loc);
 localStorage.setItem("category", category);
+
 fetch(fileToFetch)
     .then(result => {
         return result.json();
