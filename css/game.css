@@ -43,3 +43,8 @@ input[type=text]:focus {
 .hud-main-text {
     text-align: center;
 }
+
+/* Mobile browsers */
+body {
+    -webkit-text-size-adjust:100%;
+}
