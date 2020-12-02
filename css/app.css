@@ -31,7 +31,8 @@ h1 > span {
 
 h2 {
     /*font-size: 3.5rem;*/
-    font-size: 4vw;
+    /*font-size: 4vw;*/
+    font-size: 36px;
     margin-bottom: 4rem;
     font-weight: 700;
 }
