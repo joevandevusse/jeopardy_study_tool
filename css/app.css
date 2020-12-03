@@ -39,7 +39,7 @@ h2 {
 
 @media only screen and (max-width: 70em) {
     h1 {
-        font-size: 60px;
+        font-size: 20px;
         color: #56a5eb;
         margin-bottom: 5rem;
     }
