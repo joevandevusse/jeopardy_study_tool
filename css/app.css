@@ -30,9 +30,26 @@ h1 > span {
 }
 
 h2 {
-    font-size: 4.2rem;
+    font-size: 3.5rem;
+    /*font-size: 4vw;*/
+    /*font-size: 36px;*/
     margin-bottom: 4rem;
     font-weight: 700;
+}
+
+@media only screen and (max-width: 70em) {
+    h1 {
+        font-size: 20px;
+        color: #56a5eb;
+        margin-bottom: 5rem;
+    }
+
+    h2 {
+        /*font-size: 4vw;*/
+        font-size: 24px;
+        margin-bottom: 4rem;
+        font-weight: 700;
+    }
 }
 
 h3 {
@@ -127,4 +144,15 @@ input::placeholder {
     color: #aaa;
 }
 
+footer p{
+    text-align: center;
+    padding: 3px;
+    color: #56a5eb;
+    font-size: 1.8rem;
+    font-weight: 500; 
+}
 
+/* Mobile browsers */
+body {
+    -webkit-text-size-adjust:100%;
+}
