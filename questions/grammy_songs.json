@@ -158,5 +158,97 @@
     {
         "question": "Year: 1980\nArtist: Christopher Cross",
         "answer": "Sailing"
+    },
+    {
+        "question": "Year: 1979\nArtist: The Doobie Brothers",
+        "answer": "What a Fool Believes"
+    },
+    {
+        "question": "Year: 1978\nArtist: Billy Joel",
+        "answer": "Just the Way You Are"
+    },
+    {
+        "question": "Year: 1977\nArtist: Barbara Streisand (Love Theme from 'A Star Is Born'",
+        "answer": "Evergreen"
+    },
+    {
+        "question": "Year: 1977\nArtist: Debby Boone",
+        "answer": "You Light Up My Life"
+    },
+    {
+        "question": "Year: 1976\nArtist: Barry Manilow",
+        "answer": "I Write the Songs"
+    },
+    {
+        "question": "Year: 1975\nArtist: Judy Collins",
+        "answer": "Send in the Clowns"
+    },
+    {
+        "question": "Year: 1974\nArtist: Barbara Streisand",
+        "answer": "Tbe Way We Were"
+    },
+    {
+        "question": "Year: 1973\nArtist: Fugees",
+        "answer": "Killing Me Softly with His Song"
+    },
+    {
+        "question": "Year: 1972\nArtist: Roberta Flack",
+        "answer": "The First Time Ever I Saw Your Face"
+    },
+    {
+        "question": "Year: 1971\nArtist: James Taylor",
+        "answer": "You've Got a Friend"
+    },
+    {
+        "question": "Year: 1970\nArtist: Simon & Garfunkel",
+        "answer": "Bridge over Troubled Water"
+    },
+    {
+        "question": "Year: 1969\nArtist: Joe South",
+        "answer": "Games People Play"
+    },
+    {
+        "question": "Year: 1968\nArtist: Roger Miller",
+        "answer": "Little Green Apples"
+    },
+    {
+        "question": "Year: 1967\nArtist: The 5th Dimension",
+        "answer": "Up, Up and Away"
+    },
+    {
+        "question": "Year: 1966\nArtist: The Beatles",
+        "answer": "Michelle"
+    },
+    {
+        "question": "Year: 1965\nArtist: Tony Bennett (Love Theme from 'The Sandpiper')",
+        "answer": "The Shadow of Your Smile"
+    },
+    {
+        "question": "Year: 1964\nArtist: Louis Armstrong",
+        "answer": "Hello, Dolly!"
+    },
+    {
+        "question": "Year: 1963\nArtist: Henry Mancini and Johnny Mercer (Film of the Same Name)",
+        "answer": "Days Of Wine And Roses"
+    },
+    {
+        "question": "Year: 1962\nArtist: Anthony Newley (Song from Musical - 'Stop The World - I Want To Get Off')",
+        "answer": "What Kind of Fool Am I?"
+    },
+    {
+        "question": "Year: 1961\nArtist: Andy Williams",
+        "answer": "Moon River"
+    },
+    {
+        "question": "Year: 1960\nArtist: Ernest Gold (Film of Same Name), Answer: 'Theme of <Film>'",
+        "answer": "Theme of Exodus"
+    },
+    {
+        "question": "Year: 1959\nArtist: Johnny Horton",
+        "answer": "The Battle of New Orleans"
+    },
+    {
+        "question": "Year: 1958\nArtist: Domenico Modugno (Song AKA 'Nel blu, dipinto di blu')",
+        "answer": "Voltare"
     }
 ]
