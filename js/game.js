@@ -87,6 +87,7 @@ submitAnswer = () => {
     const classToApply = (userAnswerStripped == correctAnswerStripped || userAnswerStripped == lastNameStripped) ? "correct" : "incorrect";
     if (classToApply === "correct") {
         incrementScore(CORRECT_BONUS);
+        textBox.value = correctAnswer;
     } else {
         incrementScore(0);
         textBox.value = correctAnswer;
