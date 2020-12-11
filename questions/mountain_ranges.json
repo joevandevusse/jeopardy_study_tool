@@ -1,0 +1,110 @@
+[
+    {
+        "question": "Continent(s): Asia\nCountry/ies: Pakistan, Nepal, India, China, Bhutan\nHighest Point: Nount Everest\nAltitude: 8,848m",
+        "answer": "Himalayas"
+    },
+    {
+        "question": "Continent(s): Asia\nCountry/ies: Pakistan, China, India\nHighest Point: K2\nAltitude: 8,611m",
+        "answer": "Karakoram"
+    },
+    {
+        "question": "Continent(s): Asia\nCountry/ies: Afghanistan, Pakistan\nHighest Point: Tirich Mir\nAltitude: 7,708m",
+        "answer": "Hindu Kush"
+    },
+    {
+        "question": "Continent(s): Asia\nCountry/ies: Tajikistan, Kyrgyzstan, China, Afghanistan\nHighest Point: Kongur Tagh\nAltitude: 7,649m",
+        "answer": "Pamirs"
+    },
+    {
+        "question": "Continent(s): Asia\nCountry/ies: China, Myanmar\nHighest Point: Mount Gongga\nAltitude: 7,556m",
+        "answer": "Hengduan Mountains"
+    },
+    {
+        "question": "Continent(s): Asia\nCountry/ies: China, Kyrgyzstan, Kazakhstan, Uzbekistan\nHighest Point: Jengish Chokusu\nAltitude: 7,439m",
+        "answer": "Tian Shan"
+    },
+    {
+        "question": "Continent(s): Asia\nCountry/ies: China\nHighest Point: Liushi Shan\nAltitude: 7,167m",
+        "answer": "Kunlun"
+    },
+    {
+        "question": "Continent(s): Asia\nCountry/ies: China\nHighest Point: Mount Nyenchen Tanglha\nAltitude: 7,162m",
+        "answer": "Transhimalaya"
+    },
+    {
+        "question": "Continent(s): South America\nCountry/ies: Argentina, Chile, Peru, Bolivia, Ecuador, Colombia\nHighest Point: Aconcagua\nAltitude: 6,962m",
+        "answer": "Andes"
+    },
+    {
+        "question": "Continent(s): North America\nCountry/ies: United States\nHighest Point: Denali\nAltitude: 6,194m",
+        "answer": "Alaska Range"
+    },
+    {
+        "question": "Continent(s): North America\nCountry/ies: United States, Canada\nHighest Point: Mount Logan\nAltitude: 5,959m",
+        "answer": "Saint Elias Mountains"
+    },
+    {
+        "question": "Continent(s): Europe, Asia\nCountry/ies: Georgia, Russia, Azerbaijan\nHighest Point: Mount Elbrus\nAltitude: 5,642m",
+        "answer": "Caucasus Mountains"
+    },
+    {
+        "question": "Continent(s): Africa\nCountry/ies: Zimbabwe, South Africa, Swaziland. Lesotho, Namibia, Angola\nHighest Point: Thabana Ntlenyana\nAltitude: 3,482m",
+        "answer": "Southern Great Escarpment"
+    },
+    {
+        "question": "Continent(s): North America\nCountry/ies: Canada, United States\nHighest Point: Mount Elbert\nAltitude: 4,401m",
+        "answer": "Rocky Mountains"
+    },
+    {
+        "question": "Continent(s): Antarctica\nCountry/ies: Antarctica\nHighest Point: Mount Kirkpatrick\nAltitude: 4,528mm",
+        "answer": "Transantarctic Mountains"
+    },
+    {
+        "question": "Continent(s): Asia, Europe\nCountry/ies: Russia, Kazakhstan\nHighest Point: Mount Narodnaya\nAltitude: 1,895m",
+        "answer": "Ural Mountains"
+    },
+    {
+        "question": "Continent(s): Global\nCountry/ies: Oceans\nHighest Point: Mount Pico\nAltitude: 2,351m",
+        "answer": "Mid-Ocean Ridge"
+    },
+    {
+        "question": "Continent(s): Asia, Australia, North America, South America\nCountry/ies: Pacific Ocean\nHighest Point: Mount Fuji\nAltitude: 3,776m",
+        "answer": "Ring of Fire"
+    },
+    {
+        "question": "Continent(s): Australia\nCountry/ies: Australia\nHighest Point: Mount Kosciuszko\nAltitude: 2,228m\nAKA: The Eastern Highlands",
+        "answer": "Great Dividing Range"
+    },
+    {
+        "question": "Continent(s): Africa\nCountry/ies: Morocco, Algeria, Tunisia\nHighest Point: Toubkal\nAltitude: 3,755m",
+        "answer": "Atlas Mountains"
+    },
+    {
+        "question": "Continent(s): North America\nCountry/ies: United States\nHighest Point: Mount Mitchell\nAltitude: 2,037m",
+        "answer": "Appalachian Mountains"
+    },
+    {
+        "question": "Continent(s): Asia\nCountry/ies: Russia, China, Mongolia, Kazakhstan\nHighest Point: Belukha Mountain\nAltitude: 4,506m",
+        "answer": "Atlai Mountains"
+    },
+    {
+        "question": "Continent(s): Europe\nCountry/ies: Austria, Czech Republic, Poland, Slovakia, Hungary, Ukraine, Romania, Serbia\nHighest Point: Gerlachovsky Stit\nAltitude: 2,655m",
+        "answer": "Carpathian Mountains"
+    },
+    {
+        "question": "Continent(s): North America\nCountry/ies: Mexico\nHighest Point: Cerro Mohinora\nAltitude: 3,311m",
+        "answer": "Sierra Madre Occidental"
+    },
+    {
+        "question": "Continent(s): Europe\nCountry/ies: France, Switzerland, Monaco, Italy, Liechtenstein, Austria, Germany, Slovenia\nHighest Point: Mont Blanc\nAltitude: 4,809m",
+        "answer": "Alps"
+    },
+    {
+        "question": "Continent(s): Asia\nCountry/ies: Indonesia\nHighest Point: Mount Kerinci\nAltitude: 3,800m",
+        "answer": "Barisan Mountains"
+    },
+    {
+        "question": "Continent(s): North America\nCountry/ies: Canada, Unites States\nHighest Point: Mount Rainier\nAltitude: 4,392m",
+        "answer": "Cascades"
+    }
+]
