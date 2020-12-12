@@ -1,90 +1,90 @@
 [
     {
-        "question": "A body that is submerged in a fluid is buoyed up by a force equal in magnitude to the weight of the fluid that is displaced, and directed upward along a line through the center of gravity of the displaced fluid",
+        "question": "[F_b = rho * g * V]\nA body that is submerged in a fluid is buoyed up by a force equal in magnitude to the weight of the fluid that is displaced, and directed upward along a line through the center of gravity of the displaced fluid",
         "answer": "Archimedes' Principle"
     },
     {
-        "question": "The volume of a gas is directly proportional to its number of moles if pressure and temperature are held constant",
+        "question": "[V / n = k]\nThe volume of a gas is directly proportional to its number of moles if pressure and temperature are held constant",
         "answer": "Avogadro's Law"
     },
     {
-        "question": "Absorbance is linearly proportional to concentration",
+        "question": "[I(z) = I_0 * e^(mu * z)]\nAbsorbance is linearly proportional to concentration",
         "answer": "Beer-Lambert Law"
     },
     {
-        "question": "Pressure exerted by a fluid decreases as its velocity increases",
+        "question": "[p + q = p_0]\nPressure exerted by a fluid decreases as its velocity increases",
         "answer": "Bernoulli's Principle"
     },
     {
-        "question": "The volume of a gas is inversely proportional to its pressure if temperature is helf constant",
+        "question": "[P_1 * V_1 = P_2 * V_2]\nThe volume of a gas is inversely proportional to its pressure if temperature is helf constant",
         "answer": "Boyle's Law"
     },
     {
-        "question": "No engine operating between two temperatures can be more efficient than a reversible engine working between the same two temperatures",
+        "question": "[n_max = 1 - (T_C / T_H)]\nNo engine operating between two temperatures can be more efficient than a reversible engine working between the same two temperatures",
         "answer": "Carnot's Theorem"
     },
     {
-        "question": "The volume of a gas is directly proportional to temperature if pressure is held constant",
+        "question": "[V_1 / T_1 = V_2 / T_2]\nThe volume of a gas is directly proportional to temperature if pressure is held constant",
         "answer": "Charles's Law"
     },
     {
-        "question": "The product of the pressure and volume of a gas is directly proportional to temperature",
+        "question": "[(P_1 * V_1) / (P_1 * T_1) = V_2 / T_2]\nThe product of the pressure and volume of a gas is directly proportional to temperature",
         "answer": "Combined Gas Law"
     },
     {
-        "question": "The force between two electric charges is inversely proportional to the square of the distance between them and directly proportional to the product of their charges",
+        "question": "[abs(F) = k_e * abs(q_1 * q_2) / r^2]\nThe force between two electric charges is inversely proportional to the square of the distance between them and directly proportional to the product of their charges",
         "answer": "Coulomb's Law"
     },
     {
-        "question": "The total pressure of a gas mixture is equal is equal to the sum of the partial pressures of its components",
+        "question": "[P = sum(i, P_i) = P_1 + P_2 + ... + P_n]\nThe total pressure of a gas mixture is equal is equal to the sum of the partial pressures of its components",
         "answer": "Dalton's Law"
     },
     {
-        "question": "Change in the apparent frequency of a wave as observer and source move toward or away from each other",
+        "question": "[f_o = f_s * (v + v_o) / (v + v_s)]\nChange in the apparent frequency of a wave as observer and source move toward or away from each other",
         "answer": "Doppler Effect"
     },
     {
-        "question": "The electric flux through a close surface depends upon the charge enclosed in that surface",
+        "question": "[phi_E = Q / epsilon_0]\nThe electric flux through a close surface depends upon the charge enclosed in that surface",
         "answer": "Gauss's Law"
     },
     {
-        "question": "The pressure of a gas is directly proportional to temperature if volume is held constant",
+        "question": "[P_1 / T_1 = P_2 / T_2]\nThe pressure of a gas is directly proportional to temperature if volume is held constant",
         "answer": "Gay-Lussac Law"
     },
     {
-        "question": "The rate of effusion of a gas is inversely proportional to the square root of its molar mass",
+        "question": "[r_1 / r_2 = sqrt(M_1 / M_2)]\nThe rate of effusion of a gas is inversely proportional to the square root of its molar mass",
         "answer": "Graham's Law"
     },
     {
-        "question": "The solubility of a gas in a liquid is directly proportional to the partial pressure of the gas",
+        "question": "[C = k * P]\nThe solubility of a gas in a liquid is directly proportional to the partial pressure of the gas",
         "answer": "Henry's Law"
     },
     {
-        "question": "The amount of energy generated from a reaction is the same whether the reaction happens in one step or several",
+        "question": "[delta(H_net) = sum(delta(H_r))]\nThe amount of energy generated from a reaction is the same whether the reaction happens in one step or several",
         "answer": "Hess's Law"
     },
     {
-        "question": "The extension of a spring is proportional to the load placed on it, stress is directly proportional to strain",
+        "question": "[F_s = -k * x]\nThe extension of a spring is proportional to the load placed on it, stress is directly proportional to strain",
         "answer": "Hooke's Law"
     },
     {
-        "question": "Galaxies recede from each other with a velocity proportional to their distance",
+        "question": "[v = H_0 * D]\nGalaxies recede from each other with a velocity proportional to their distance",
         "answer": "Hubble's Law"
     },
     {
-        "question": "The product of the pressure and volume of a gas is equal to the product of the number of moles, the <titular> constant, and the temperature",
+        "question": "[P * V = n * R * T]\nThe product of the pressure and volume of a gas is equal to the product of the number of moles, the <titular> constant, and the temperature",
         "answer": "Ideal Gas Law"
     },
     {
-        "question": "Electric current is equal to the potential difference across the conductor divided by the resistance",
+        "question": "[V = I * R]\nElectric current is equal to the potential difference across the conductor divided by the resistance",
         "answer": "Ohm's Law"
     },
     {
-        "question": "When a substance is dissolved in a solvent, the solution formed will have a lower freezing point, higher boiling point, and less vapor pressure than the pure solvent",
+        "question": "[P_solution = X_solvent * P_solvent]\nWhen a substance is dissolved in a solvent, the solution formed will have a lower freezing point, higher boiling point, and less vapor pressure than the pure solvent",
         "answer": "Raoult's Law"
     },
     {
-        "question": "The ratio of the sine of an angle of incidence to the since of an angle of refraction is constant",
+        "question": "[n_1 * sin(theta_1) = n_2 * sin(theta_2)]\nThe ratio of the sine of an angle of incidence to the since of an angle of refraction is constant",
         "answer": "Snell's Law"
     }
 ]

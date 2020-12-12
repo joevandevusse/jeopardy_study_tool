@@ -1,0 +1,46 @@
+[
+    {
+        "question": "'Command central' of the cell, contains most of the cell's DNA - encodes information needed to make all the proteins that the cell uses, DNA appears as chromatin through most of the cell cycle but condenses to form chromosomes when the cell is undergoing mitosis, commonly seen within it are dense bodies called nucleoli which contain ribosomal RNA, surrounded by selectively-permeable nuclear envelope in eukaryotes",
+        "answer": "Nucleus"
+    },
+    {
+        "question": "Machines that coordinate protein synthesis (translation), consist of several RNA and protein molecules arranged into two subunits, read messenger RNA copy of the DNA and assemble the appropriate amino acids into protein chains",
+        "answer": "Ribosomes"
+    },
+    {
+        "question": "Powerhouses of the cell, double-membrane-bound organelles (like chloroplasts), site of respiration and oxidative phosphorylation - processes that produce energy for the cell in the form of ATP, inner membrane forms folds called cristae - suspended in a flued called the matrix which contains DNA and ribosomes",
+        "answer": "Mitochondria"
+    },
+    {
+        "question": "Network of tube-like membranes continuous with the nuclear envelope that comes in rough (with ribosomes) and smooth (without ribosomes) varities, proteins undergo modifications and folding within it to yield the final/functional protein structures",
+        "answer": "Endoplasmic Reticulum"
+    },
+    {
+        "question": "The stack of flattened/folded membranes that form it act as the 'post office of the cell', here proteins from the ribosomes are stored then chemically modified then 'addressed' with carbohydrate tags and packaged in vesticles for delivery",
+        "answer": "Golgi Apparatus"
+    },
+    {
+        "question": "Membrane-bound organelles that contain digestive enzymes that break down proteins, lipids, carbohydrates, and nucleic acids; important in processing the contents of vesticles taken in from outside the cell, crucial to maintain their membranes because the enzymes they contains can digest cellular components as well",
+        "answer": "Lysosomes"
+    },
+    {
+        "question": "Found only in plants and certain protists, contains green pigment chlorophyll, site of photosynthesis, double-membrane-bound organelle (like mitochondrion), has its own DNA and ribosomes in the stroma, contain grana - stacks of single membrane structures called thylakoids on which the reactions of photosynthesis occur",
+        "answer": "Chloroplasts"
+    },
+    {
+        "question": "Found mainly in plants and protists, liquid-filled cavities enclosed by a single membrane, storage bins for food and waste products, contractile ones are important for freshwater protists to rid their cells of excess water that accumulates because of salt imbalance with the environment",
+        "answer": "Vacuoles"
+    },
+    {
+        "question": "Important organelles of motility allowing the cell to move, short, hair-like projections, contain a 9 + 2 arrangement of microtubules in cross section, powered by molecular motors of kinesin and dynein molecules",
+        "answer": "Cilia"
+    },
+    {
+        "question": "Important organelles of motility allowing the cell to move, long, whip-like, contain a 9 + 2 arrangement of microtubules in cross section, powered by molecular motors of kinesin and dynein molecules",
+        "answer": "Flagella"
+    },
+    {
+        "question": "Not found in plant cells, paired organelles with 9 sets of microtubule triplets in cross section, important in organizing microtubule spindle needed to move the chromosomes during mitosis",
+        "answer": "Centrioles"
+    }
+]
