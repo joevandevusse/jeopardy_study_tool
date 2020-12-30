@@ -1,0 +1,54 @@
+[
+    {
+        "question": "Capital of Alberta (Province), Largest City - Calgary",
+        "answer": "Edmonton"
+    },
+    {
+        "question": "Capital of British Columbia (Province), Largest City - Vancouver",
+        "answer": "Victoria"
+    },
+    {
+        "question": "Capital of Manitoba (Province)",
+        "answer": "Winnipeg"
+    },
+    {
+        "question": "Capital of New Brunswick (Province), Largest City - Moncton",
+        "answer": "Fredericton"
+    },
+    {
+        "question": "Capital of Newfoundland and Labrador (Province)",
+        "answer": "St. John's"
+    },
+    {
+        "question": "Capital of Nova Scotia (Province)",
+        "answer": "Halifax"
+    },
+    {
+        "question": "Capital of Ontario (Province), Note - Location of Ottawa (Canada's Capital)",
+        "answer": "Toronto"
+    },
+    {
+        "question": "Capital of Prince Edward Island (Province)",
+        "answer": "Charlottetown"
+    },
+    {
+        "question": "Capital of Quebec (Province), Largest City - Montreal",
+        "answer": "Quebec City"
+    },
+    {
+        "question": "Capital of Saskatchewan (Province), Largest City - Saskatoon",
+        "answer": "Regina"
+    },
+    {
+        "question": "Capital of Yukon (Territory)",
+        "answer": "Whitehorse"
+    },
+    {
+        "question": "Capital of Nunavut (Territory)",
+        "answer": "Iqaluit"
+    },
+    {
+        "question": "Capital of Northwest Territories (Territory)",
+        "answer": "Yellowknife"
+    }
+]
