@@ -68,10 +68,6 @@
         "answer": "Hephaestus"
     },
     {
-        "question": "(Hero) The greatest of the Greek heroes, he became god of heroes, sports, athletes, health, agriculture, fertility, trade, oracles and divine protector of mankind, known as the strongest man on Earth",
-        "answer": "Heracles"
-    },
-    {
         "question": "God of trade, thieves, travelers, sports, athletes, and border crossings, guide to the Underworld and messenger of the gods",
         "answer": "Hermes"
     },
@@ -128,12 +124,8 @@
         "answer": "Primordial"
     },
     {
-        "question": "Messenger of the sea and the son of Poseidon and Amphitrite",
+        "question": "Messenger of the sea, the son of Poseidon and Amphitrite",
         "answer": "Triton"
-    },
-    {
-        "question": "(Monster) The deadliest monster in Greek mythology and 'Father of All Monsters', last son of Gaia, fathered by Tartarus and god of monsters, storms, and volcanoes, he challenged Zeus for control of Mount Olympus",
-        "answer": "Typhon"
     },
     {
         "question": "Primordial god of the sky and heavens, and father of the Titans",

@@ -1,102 +1,110 @@
 [
     {
-        "question": "Greek Name: ",
-        "answer": ""
+        "question": "Greek Name: Zeus\nRole: King of the Gods",
+        "answer": "Jupiter"
     },
     {
-        "question": "Greek Name: ",
-        "answer": ""
+        "question": "Greek Name: Hera\nRole: Goddess of Marriage",
+        "answer": "Juno"
     },
     {
-        "question": "Greek Name: ",
-        "answer": ""
+        "question": "Greek Name: Poseidon\nRole: God of the Sea",
+        "answer": "Neptune"
     },
     {
-        "question": "Greek Name: ",
-        "answer": ""
+        "question": "Greek Name: Cronus\nRole: Youngest Son of Uranus, Father of Zeus",
+        "answer": "Saturn"
     },
     {
-        "question": "Greek Name: ",
-        "answer": ""
+        "question": "Greek Name: Aphrodite\nRole: Goddess of Love",
+        "answer": "Venus"
     },
     {
-        "question": "Greek Name: ",
-        "answer": ""
+        "question": "Greek Name: Hades\nRole: God of the Underworld",
+        "answer": "Pluto"
     },
     {
-        "question": "Greek Name: ",
-        "answer": ""
+        "question": "Greek Name: Hephaestus\nRole: God of the Forge",
+        "answer": "Vulcan"
     },
     {
-        "question": "Greek Name: ",
-        "answer": ""
+        "question": "Greek Name: Demeter\nRole: Goddess of the Harvest",
+        "answer": "Ceres"
     },
     {
-        "question": "Greek Name: ",
-        "answer": ""
+        "question": "Greek Name: Apollo\nRole: God of Music and Medicine",
+        "answer": "Apollo"
     },
     {
-        "question": "Greek Name: ",
-        "answer": ""
+        "question": "Greek Name: Athena\nRole: Goddess of Wisdom",
+        "answer": "Minerva"
     },
     {
-        "question": "Greek Name: ",
-        "answer": ""
+        "question": "Greek Name: Artemis\nRole: Goddess of the Hunt",
+        "answer": "Diana"
     },
     {
-        "question": "Greek Name: ",
-        "answer": ""
+        "question": "Greek Name: Ares\nRole: God of War",
+        "answer": "Mars"
     },
     {
-        "question": "Greek Name: ",
-        "answer": ""
+        "question": "Greek Name: Hermes\nRole: Messenger of the Gods",
+        "answer": "Mercury"
     },
     {
-        "question": "Greek Name: ",
-        "answer": ""
+        "question": "Greek Name: Dionysus\nRole: God of Wine",
+        "answer": "Bacchus"
     },
     {
-        "question": "Greek Name: ",
-        "answer": ""
+        "question": "Greek Name: Persephone\nRole: Goddess of the Underworld",
+        "answer": "Proserpine"
     },
     {
-        "question": "Greek Name: ",
-        "answer": ""
+        "question": "Greek Name: Eros\nRole: God of Love",
+        "answer": "Cupid"
     },
     {
-        "question": "Greek Name: ",
-        "answer": ""
+        "question": "Greek Name: Gaia\nRole: Goddess of Earth",
+        "answer": "Terra"
     },
     {
-        "question": "Greek Name: ",
-        "answer": ""
+        "question": "Greek Name: Hypnos\nRole: God of Sleep",
+        "answer": "Somnus"
     },
     {
-        "question": "Greek Name: ",
-        "answer": ""
+        "question": "Greek Name: Rhea\nRole: Mother of Zeus / Wife of Cronus",
+        "answer": "Ops"
     },
     {
-        "question": "Greek Name: ",
-        "answer": ""
+        "question": "Greek Name: Uranus\nRole: Father of the Titans",
+        "answer": "Uranus"
     },
     {
-        "question": "Greek Name: ",
-        "answer": ""
+        "question": "Greek Name: Nike\nRole: Goddess of Victory",
+        "answer": "Victoria"
     },
     {
-        "question": "Greek Name: ",
-        "answer": ""
+        "question": "Greek Name: Eos\nRole: Goddess of the Dawn",
+        "answer": "Aurora"
     },
     {
-        "question": "Greek Name: ",
-        "answer": ""
+        "question": "Greek Name: Pan\nRole: God of Shepherds",
+        "answer": "Faunus"
     },
     {
-        "question": "Greek Name: ",
-        "answer": ""
+        "question": "Greek Name: Selene\nRole: Goddess of the Moon",
+        "answer": "Luna"
     },
     {
-        "question": "Greek Name: ",
-        "answer": ""
+        "question": "Greek Name: Helios\nRole: God of the Sun",
+        "answer": "Sol"
+    },
+    {
+        "question": "Greek Name: Heracles\nRole: Son of Zeus",
+        "answer": "Hercules"
+    },
+    {
+        "question": "Greek Name: Odysseus\nRole: Greek Hero",
+        "answer": "Ulysses"
     }
 ]
