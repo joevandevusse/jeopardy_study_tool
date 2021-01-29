@@ -36,6 +36,7 @@ class TriviaGameShow {
         // State
         this.currentClue = null;
         this.score = 0;
+        this.clueCount = 0;
         
         // Elements
         this.boardElement = element.querySelector(".board");
@@ -48,10 +49,11 @@ class TriviaGameShow {
         this.resultTextElement = element.querySelector(".result_correct-answer-text");
         this.successTextElement = element.querySelector(".result_success");
         this.failTextElement = element.querySelector(".result_fail");
+        this.passTextElement = element.querySelector(".result_pass");
     }
 
     initGame(json) {
-        console.log(json);
+        //console.log(json);
         this.updateScore(0);
         this.fetchCategories(json);
 
@@ -66,8 +68,14 @@ class TriviaGameShow {
         })
     }
 
-    updateScore(change) {
-        this.score += change;
+    updateScore(change, isPass, isCorrect) {
+        if (!isPass) {
+            if (isCorrect) {
+                this.score += change;
+            } else {
+                this.score -= change;
+            }
+        }
         this.scoreCountElement.textContent = this.score;
     }
 
@@ -102,8 +110,11 @@ class TriviaGameShow {
         //     })
         // })
 
+        // Single vs. Double Jeopardy
+        //if (clueCount < 30) {
         this.clues = json.clues;
         this.categories = json.categories;
+        //}
 
         this.categories.forEach(c => {
             this.renderCategory(c);
@@ -152,21 +163,38 @@ class TriviaGameShow {
 
     handleFormSubmit(event) {
         event.preventDefault();
-
-        var isCorrect = this.inputElement.value === this.currentClue.answer;
-        if (isCorrect) {
-            this.updateScore(this.currentClue.value);
-        }
+        var isPass = this.inputElement.value === "";
+        var isCorrect = this.cleanseAnswer(this.inputElement.value) === this.cleanseAnswer(this.currentClue.answer);
+        this.updateScore(this.currentClue.value, isPass, isCorrect);
 
         // Show answer
-        this.revealAnswer(isCorrect);
+        this.revealAnswer(isPass, isCorrect);
     }
 
-    revealAnswer(isCorrect) {
-        // Show the individual success/fail case
-        this.successTextElement.style.display = isCorrect ? "block" : "none";
-        this.failTextElement.style.display = !isCorrect ? "block" : "none";
+    cleanseAnswer(input) {
+        var friendlyAnswer = input.toLowerCase();
+        friendlyAnswer = friendlyAnswer.replace("<i>", "");
+        friendlyAnswer = friendlyAnswer.replace("</i>", "");
+        // Remove spaces
+        friendlyAnswer.replace(/"/g, "");
+        // Remove "a" article
+        friendlyAnswer = friendlyAnswer.replace(/^a /, "");
+        // Remove "an" article
+        friendlyAnswer = friendlyAnswer.replace(/^an /, "");    
+        return friendlyAnswer.trim();
+    }
 
+    revealAnswer(isPass, isCorrect) {
+        // Show the individual success/fail/pass case
+        if (isPass) {
+            this.passTextElement.style.display = "block";
+            this.successTextElement.style.display = "none";
+            this.failTextElement.style.display = "none";
+        } else {
+            this.passTextElement.style.display = "none";
+            this.successTextElement.style.display = isCorrect ? "block" : "none";
+            this.failTextElement.style.display = !isCorrect ? "block" : "none";
+        }
         // Show the whole result container
         this.modalElement.classList.add("showing-result");
 

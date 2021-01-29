@@ -2,7 +2,7 @@
    --blue: linear-gradient(180deg, #0120CB 0%, #011BA9 100%);
    --yellow: #FFE817;
    --green: #90FF7E;
-   --red: #FFA57E;
+   --red: #FF0000;
    --spooky-orange: #ad4e08;
    --spooky-orange-text: #fffec8;
    --gap: 0.1em;
@@ -19,7 +19,7 @@ html, body {
 
 body {
    font-family: sans-serif;
-   // background: #222;
+   background: #222;
    color: white;
    font-size: 2vw;
    text-align: center;
@@ -33,10 +33,12 @@ body {
    align-items: center;
    text-shadow: var(--text-shadow);
 }
+
 .score {
    display: flex;
    align-items: center;
 }
+
 .score-count {
    color: var(--yellow);
    font-size: 2em;
@@ -49,15 +51,18 @@ body {
    margin: 0;
    padding: 0;
 }
+
 .board {
    display: flex;
    justify-content: space-around;
 }
+
 .board .column {
    flex: 1;
    margin-left: var(--gap);
    margin-right: var(--gap);
 }
+
 .board .column header {
    text-transform: capitalize;
    background: var(--blue);
@@ -68,12 +73,14 @@ body {
    align-items: center;
    justify-content: center;
 }
+
 .board .column li {
    background: var(--blue);
    color: var(--yellow);
    height: 3em;
    margin-bottom: 0.25em;
 }
+
 .board .column button {
    height: 100%;
    color: inherit;
@@ -87,6 +94,7 @@ body {
    text-shadow: var(--text-shadow);
    font-weight:bold;
 }
+
 .board .column button.used {
    visibility: hidden;
 }
@@ -107,10 +115,12 @@ body {
    align-items: center;
    justify-content: center;
 }
+
 .card-modal.visible {
    opacity: 1;
    pointer-events:initial;
 }
+
 .card-modal.showing-result .result {
    display:block;
 }
@@ -127,6 +137,7 @@ body {
 .card-modal form {
    display: flex;
 }
+
 .card-modal form input[type="text"] {
    display: block;
    flex-grow: 1;
@@ -137,6 +148,7 @@ body {
    border-top-left-radius: 0.4em;
    border-bottom-left-radius: 0.4em;
 }
+
 .card-modal form button[type="submit"] {
    padding-left: 2em;
    padding-right: 2em;
@@ -148,21 +160,29 @@ body {
    border-top-right-radius: 0.4em;
    border-bottom-right-radius: 0.4em;
 }
+
 .card-modal-inner {
    width: 60%;
    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 
-.result_success, .result_fail {
+.result_success, .result_fail, .result_pass {
    font-size: 2em;
    font-weight:bold;
 }
+
 .result_success {
    color: var(--green);
 }
+
 .result_fail {
    color: var(--red);
 }
+
+.result_pass {
+   color: var(--yellow);
+}
+
 .result_correct-answer-text {
    font-weight:bold;
    font-size: 2em;

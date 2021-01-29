@@ -1,5 +1,5 @@
 Deploying via Google Cloud
 cd jeopardy_study_tool/
 git pull
-gcloud app deploy 
+gcloud app deploy
 Y
