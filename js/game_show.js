@@ -1,13 +1,15 @@
 let json = {};
+const SINGLE_JEOAPRDY = "sj";
+const DOUBLE_JEOAPRDY = "dj";
+const FINAL_JEOAPRDY = "fj";
 
 fetch('/js/test.json')
     .then(result => {
         return result.json();
     }).then(loadedJSON => {
         json = loadedJSON;
-        //initGame();
         const game = new TriviaGameShow(document.querySelector(".app"), {});
-        game.initGame(json);
+        game.initGame(json, SINGLE_JEOAPRDY);
     })
     .catch(err => {
         console.error(err);
@@ -40,6 +42,7 @@ class TriviaGameShow {
         
         // Elements
         this.boardElement = element.querySelector(".board");
+        this.titleElement = element.querySelector(".title");
         this.scoreCountElement = element.querySelector(".score-count");
         this.formElement = element.querySelector("form");
         this.inputElement = element.querySelector("input[name=user-answer]");
@@ -52,10 +55,12 @@ class TriviaGameShow {
         this.passTextElement = element.querySelector(".result_pass");
     }
 
-    initGame(json) {
+    initGame(json, round) {
+        var id = 6923;
+        var jArchiveJSON = this.getGame(id);
         //console.log(json);
         this.updateScore(0);
-        this.fetchCategories(json);
+        this.fetchCategories(json, round);
 
         this.boardElement.addEventListener("click", event => {
             if (event.target.dataset.clueId) {
@@ -68,6 +73,25 @@ class TriviaGameShow {
         })
     }
 
+    getGame(gameId) {
+        var xhr = new XMLHttpRequest();
+        xhr.open("GET", "http://www.j-archive.com/showgame.php?game_id=" + gameId, true);
+        xhr.responseType = "document";
+
+        xhr.onload = function() {
+            if (xhr.readyState == 4 && xhr.status == 200) {
+                var response = xhr.responseXML;
+                console.log(response);
+            }
+        };
+
+        xhr.onerror = function() {
+            console.error(xhr.status, xhr.statusText);
+        };
+
+        xhr.send();
+    }
+
     updateScore(change, isPass, isCorrect) {
         if (!isPass) {
             if (isCorrect) {
@@ -76,49 +100,38 @@ class TriviaGameShow {
                 this.score -= change;
             }
         }
-        this.scoreCountElement.textContent = this.score;
+        this.scoreCountElement.textContent = "$" + this.score;
     }
 
-    fetchCategories(json) {
-        // const proxyurl = "https://cors-anywhere.herokuapp.com/";
-        // const categories = this.useCategoryIds.map(categoryId => {
-        //     return new Promise((resolvve, reject) => {
-        //         fetch(proxyurl + 'https://jservice.io/app/category?id=${categoryId}')
-        //         .then(response => response.json()).then(data => {
-        //             resolve(data)
-        //         })
-        //     })
-        // })
-
-        // Promise.all(categories).then(results => {
-        //     results.forEach((category, categoryIndex) => {
-        //         var newCategory = {
-        //             title: category.title,
-        //             clues: []
-        //         }
-
-        //         var clues = shuffle(result.clues).splice(0, 5).forEach((clue, index) => {
-        //             var clueId = categoryIndex + "-" + index;
-        //             newCategory.clues.push(clueId);
-        //             this.clues[clueId] = {
-        //                 question: clue.question,
-        //                 answer: clue.answer,
-        //                 value: (index + 1) * 100
-        //             }
-        //         })
-        //         this.categories.push(newCategory);
-        //     })
-        // })
-
+    fetchCategories(json, round) {
         // Single vs. Double Jeopardy
-        //if (clueCount < 30) {
-        this.clues = json.clues;
-        this.categories = json.categories;
-        //}
+        if (round === SINGLE_JEOAPRDY) {
+            this.titleElement.textContent = "J! Study Tool - Single Jeopardy";
+            this.clues = json.clues_sj;
+            this.categories = json.categories_sj;
+        } else if (round === DOUBLE_JEOAPRDY) {
+            this.titleElement.textContent = "J! Study Tool - Double Jeopardy";
+            this.removeOldCategories();
+            this.clues = json.clues_dj;
+            this.categories = json.categories_dj;
+        } else {
+            this.clues = json.clues_Fj;
+            this.categories = json.categories_fj;
+            handleFinalJeopardy();
+        }
 
         this.categories.forEach(c => {
             this.renderCategory(c);
         })
+    }
+
+    removeOldCategories() {
+        document.getElementsByClassName("column")[0].remove();
+        document.getElementsByClassName("column")[0].remove();
+        document.getElementsByClassName("column")[0].remove();
+        document.getElementsByClassName("column")[0].remove();
+        document.getElementsByClassName("column")[0].remove();
+        document.getElementsByClassName("column")[0].remove();
     }
 
     renderCategory(category) {
@@ -131,13 +144,16 @@ class TriviaGameShow {
         var ul = column.querySelector("ul");
         category.clues.forEach(clueId => {
             var clue = this.clues[clueId];
-            ul.innerHTML += `<li><button data-clue-id=${clueId}>${clue.value}</button></li>`
+            ul.innerHTML += `<li><button data-clue-id=${clueId}>$${clue.value}</button></li>`
         }) 
 
         this.boardElement.appendChild(column);
     }
 
     handleClueClick(event) {
+        // Increment clue count
+        this.clueCount = this.clueCount + 10;
+
         var clue = this.clues[event.target.dataset.clueId];
 
         // Mark this clue/button as used
@@ -157,6 +173,18 @@ class TriviaGameShow {
         this.modalElement.classList.remove("showing-result");
 
         // Show the modal
+        this.modalElement.classList.add("visible");
+        this.inputElement.focus();
+    }
+
+    handleFinalJeopardy() {
+        // Just like the above method
+        var clue = this.clues["0-0"];
+        this.inputElement.value = "";
+        this.currentClue = clue;
+        this.clueTextElement.textContent = this.currentClue.question;
+        this.resultTextElement.textContent = this.currentClue.answer;
+        this.modalElement.classList.remove("showing-result");
         this.modalElement.classList.add("visible");
         this.inputElement.focus();
     }
@@ -202,6 +230,13 @@ class TriviaGameShow {
         setTimeout(() => {
             this.modalElement.classList.remove("visible");
         }, 3000);
+    
+        // Reset game for Double Jeopardy
+        if (this.clueCount === 30) {
+            this.initGame(json, DOUBLE_JEOAPRDY);
+        } else if (this.clueCount === 60) {
+            this.initGame(json, FINAL_JEOPARDY);
+        }
     }
 }
 
