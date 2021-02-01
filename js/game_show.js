@@ -75,13 +75,41 @@ class TriviaGameShow {
 
     getGame(gameId) {
         var xhr = new XMLHttpRequest();
+        //const proxyURL = "https://cors-anywhere.herokuapp.com/";
         xhr.open("GET", "http://www.j-archive.com/showgame.php?game_id=" + gameId, true);
         xhr.responseType = "document";
 
+        var gameJSON = {}
+        gameJSON["categories_sj"] = []
+        gameJSON["categories_dj"] = []
+        gameJSON["categories_fj"] = []
+        gameJSON["clues_sj"] = {}
+        gameJSON["clues_dj"] = {}
+        gameJSON["clues_fj"] = {}
+        console.log(gameJSON);
+
         xhr.onload = function() {
             if (xhr.readyState == 4 && xhr.status == 200) {
+                // Parse J! Archive page source
                 var response = xhr.responseXML;
-                console.log(response);
+                // Parse categories
+                var categories = response.querySelectorAll(".category_name");
+                var categoryCounter = 0;
+                while (categoryCounter < 13) {
+                    ["0-0", "0-1", "0-2", "0-3", "0-4"]
+                    var categoryToAppend = {}
+                    categoryToAppend["title"] = categories[categoryCounter].innerHTML;
+                    categoryToAppend["clues"] = [categoryCounter % 6 + "-0", categoryCounter % 6 + "-1", categoryCounter % 6 + "-2", categoryCounter % 6 + "-3", categoryCounter % 6 + "-4"]
+                    if (categoryCounter < 6) {
+                        gameJSON["categories_sj"].push(categoryToAppend);
+                    } else if (categoryCounter < 12) {
+                        gameJSON["categories_dj"].push(categoryToAppend);
+                    } else {
+                        gameJSON["categories_fj"].push(categoryToAppend);
+                    }
+                    categoryCounter += 1;
+                }
+                console.log(categories);
             }
         };
 
@@ -90,6 +118,7 @@ class TriviaGameShow {
         };
 
         xhr.send();
+        return gameJSON;
     }
 
     updateScore(change, isPass, isCorrect) {
