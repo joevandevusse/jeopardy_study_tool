@@ -15,17 +15,6 @@ fetch('/js/test.json')
         console.error(err);
     });
 
-function shuffle(a) {
-    var j, x, i;
-    for (i = a.length - 1; i > 0; i--) {
-        j = Math.floor(Math.random() * (i - 1));
-        x = a[i];
-        a[i] = a[j];
-        a[j] = x;
-    }
-    return x;
-}
-
 class TriviaGameShow {
     constructor(element, options={}) {
         // https://jservice.io/search
@@ -56,7 +45,7 @@ class TriviaGameShow {
     }
 
     initGame(json, round) {
-        var id = 6923;
+        var id = 6922;
         var jArchiveJSON = this.getGame(id);
         //console.log(json);
         this.updateScore(0);
@@ -86,7 +75,6 @@ class TriviaGameShow {
         gameJSON["clues_sj"] = {}
         gameJSON["clues_dj"] = {}
         gameJSON["clues_fj"] = {}
-        console.log(gameJSON);
 
         xhr.onload = function() {
             if (xhr.readyState == 4 && xhr.status == 200) {
@@ -96,20 +84,84 @@ class TriviaGameShow {
                 var categories = response.querySelectorAll(".category_name");
                 var categoryCounter = 0;
                 while (categoryCounter < 13) {
-                    ["0-0", "0-1", "0-2", "0-3", "0-4"]
                     var categoryToAppend = {}
-                    categoryToAppend["title"] = categories[categoryCounter].innerHTML;
+                    categoryToAppend["title"] = categories[categoryCounter].innerHTML.replaceAll("&amp;", "&");
                     categoryToAppend["clues"] = [categoryCounter % 6 + "-0", categoryCounter % 6 + "-1", categoryCounter % 6 + "-2", categoryCounter % 6 + "-3", categoryCounter % 6 + "-4"]
                     if (categoryCounter < 6) {
                         gameJSON["categories_sj"].push(categoryToAppend);
                     } else if (categoryCounter < 12) {
                         gameJSON["categories_dj"].push(categoryToAppend);
                     } else {
+                        categoryToAppend["clues"] = ["0-0"];
                         gameJSON["categories_fj"].push(categoryToAppend);
                     }
                     categoryCounter += 1;
                 }
-                console.log(categories);
+                // Parse clue answers
+                var answers = response.querySelectorAll("table tr td");
+                var clue_answers = [];
+                var answerCount = 0;
+                answers.forEach(e => {
+                    var onMouseOver = e.innerHTML;
+                    if (onMouseOver.includes("correct_response")) {
+                        var correctLoc = onMouseOver.indexOf("correct_response");                        
+                        var choppedDown = onMouseOver.substring(correctLoc);
+                        var answerLoc = choppedDown.indexOf(">");
+                        var choppedDown2 = choppedDown.substring(answerLoc + 1);
+                        var endOfAnswerLoc = choppedDown2.indexOf("</em>")
+                        var finalChop = choppedDown2.substring(0, endOfAnswerLoc);
+                        var cleanAnswer = finalChop.replaceAll("&quot;", "\"").replaceAll("<i>", "").replaceAll("</i>", "").replaceAll("\\", "").replaceAll("&amp;", "&");
+                        answerCount += 1
+                        if (answerCount % 2 == 1) {
+                            clue_answers.push(cleanAnswer);
+                        }
+                    }
+                });
+                // Parse clue questions
+                var clues = response.querySelectorAll(".clue_text");
+                var clue_questions = [];
+                clues.forEach(e => {
+                    var clue = e.innerHTML;
+                    if (clue.includes("href")) {
+                        var start = clue.indexOf("<a");
+                        var end = clue.indexOf("blank\">");
+                        var newClue = clue.substring(0, start) + "<image> " + clue.substring(end + 7, clue.length);
+                        clue = newClue;
+                    }
+                    // Remove a second href if there is one
+                    if (clue.includes("href")) {
+                        var start = clue.indexOf("<a");
+                        var end = clue.indexOf("blank\">");
+                        var newClue = clue.substring(0, start) + "<image> " + clue.substring(end + 7, clue.length);
+                        clue = newClue;
+                    }
+                    var cleanClue = clue.replaceAll("<br>", "").replaceAll("&amp;", "&").replaceAll("</a>", "");
+                    clue_questions.push(cleanClue);
+                });
+                // Build JSON
+                for (let i = 0; i < 6; i++) {
+                    for (let j = 0; j < 5; j++) {
+                        var addClueSJ = {};
+                        addClueSJ["question"] = clue_questions[j * 6 + i]
+                        addClueSJ["answer"] = clue_answers[j * 6 + i]
+                        addClueSJ["value"] = (j + 1) * 200;
+                        addClueSJ["is_dd"] = false;
+                        gameJSON["clues_sj"][i + "-" + j] = addClueSJ;
+                        var addClueDJ = {};
+                        addClueDJ["question"] = clue_questions[j * 6 + i + 30];
+                        addClueDJ["answer"] = clue_answers[j * 6 + i + 30];
+                        addClueDJ["value"] = (j + 1) * 400;
+                        addClueDJ["is_dd"] = false;
+                        gameJSON["clues_dj"][i + "-" + j] = addClueDJ;
+                    }
+                }
+                var addClueFJ = {};
+                addClueFJ["question"] = clue_questions[60];
+                addClueFJ["answer"] = clue_answers[60];
+                addClueFJ["value"] = 10000;
+                addClueFJ["is_dd"] = false;
+                gameJSON["clues_fj"]["0-0"] = addClueFJ;
+                console.log(gameJSON);
             }
         };
 
