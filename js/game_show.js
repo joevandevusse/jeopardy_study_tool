@@ -80,10 +80,7 @@ class TriviaGameShow {
             handleFinalJeopardy();
         }
 
-        console.log(this.categories);
-
         this.categories.forEach(c => {
-            //console.log(c);
             this.renderCategory(c);
         });
     }
@@ -116,7 +113,7 @@ class TriviaGameShow {
 
     handleClueClick(event) {
         // Increment clue count
-        this.clueCount = this.clueCount + 10;
+        this.clueCount += 1;
 
         var clue = this.clues[event.target.dataset.clueId];
 
@@ -165,14 +162,25 @@ class TriviaGameShow {
 
     cleanseAnswer(input) {
         var friendlyAnswer = input.toLowerCase();
-        friendlyAnswer = friendlyAnswer.replace("<i>", "");
-        friendlyAnswer = friendlyAnswer.replace("</i>", "");
+        friendlyAnswer = friendlyAnswer.replaceAll("<i>", "");
+        friendlyAnswer = friendlyAnswer.replaceAll("</i>", "");
         // Remove spaces
         friendlyAnswer.replace(/"/g, "");
         // Remove "a" article
         friendlyAnswer = friendlyAnswer.replace(/^a /, "");
         // Remove "an" article
-        friendlyAnswer = friendlyAnswer.replace(/^an /, "");    
+        friendlyAnswer = friendlyAnswer.replace(/^an /, "");  
+        // Remove "an" article
+        friendlyAnswer = friendlyAnswer.replace(/^the /, "");  
+        // Remove quotes
+        friendlyAnswer = friendlyAnswer.replaceAll("\"", "");
+        friendlyAnswer = friendlyAnswer.replaceAll("\'", "");
+        // Remove parens
+        //friendlyAnswer = friendlyAnswer.replaceAll("(", "");
+        //friendlyAnswer = friendlyAnswer.replaceAll(")", "");
+        // Remove optional text between parens
+        friendlyAnswer = friendlyAnswer.replaceAll(/ *\([^)]*\) */g, "");
+        console.log(friendlyAnswer);
         return friendlyAnswer.trim();
     }
 
@@ -197,9 +205,9 @@ class TriviaGameShow {
     
         // Reset game for Double Jeopardy
         if (this.clueCount === 30) {
-            this.initGame(json, DOUBLE_JEOAPRDY);
+            this.initGame(gameJSON, DOUBLE_JEOAPRDY);
         } else if (this.clueCount === 60) {
-            this.initGame(json, FINAL_JEOPARDY);
+            this.initGame(gameJSON, FINAL_JEOPARDY);
         }
     }
 }
@@ -273,7 +281,8 @@ getGame = (gameId) =>  {
                     var newClue = clue.substring(0, start) + "<image> " + clue.substring(end + 7, clue.length);
                     clue = newClue;
                 }
-                var cleanClue = clue.replaceAll("<br>", "").replaceAll("&amp;", "&").replaceAll("</a>", "");
+                var cleanClue = clue.replaceAll("<br>", "").replaceAll("&amp;", "&")
+                    .replaceAll("</a>", "").replaceAll("<span class=\"nobreak\">--</span>", "-");
                 clue_questions.push(cleanClue);
             });
             // Build JSON
@@ -314,4 +323,6 @@ getGame = (gameId) =>  {
 }
 
 // Get whatever game the user wants to play
-getGame(6922);
+var userGameID = prompt("Please enter the gameID of the Jeopardy! game you'd like to play:\n (For reference - game: 6922 was played on 1/27/2021)");
+//getGame(6922);
+getGame(userGameID);
