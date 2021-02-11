@@ -1,0 +1,438 @@
+{
+    "categories_sj":
+        [
+            {
+                "title": "STATE CAPITALS",
+                "clues": ["0-0", "0-1", "0-2", "0-3", "0-4"]
+            },
+            {
+                "title": "OCCUPATIONS",
+                "clues": ["1-0", "1-1", "1-2", "1-3", "1-4"]
+            },
+            {
+                "title": "BLUE'S CLUES",
+                "clues": ["2-0", "2-1", "2-2", "2-3", "2-4"]
+            },
+            {
+                "title": "WORD ORIGINS",
+                "clues": ["3-0", "3-1", "3-2", "3-3", "3-4"]
+            },
+            {
+                "title": "THE GRAMM'E'S",
+                "clues": ["4-0", "4-1", "4-2", "4-3", "4-4"]
+            },
+            {
+                "title": "BOOKS BY PRESIDENTS",
+                "clues": ["5-0", "5-1", "5-2", "5-3", "5-4"]
+            }
+        ],
+    "categories_dj":
+        [
+            {
+                "title": "LITERARY VACATIONS",
+                "clues": ["0-0", "0-1", "0-2", "0-3", "0-4"]
+            },
+            {
+                "title": "FUNNY BUSINESS",
+                "clues": ["1-0", "1-1", "1-2", "1-3", "1-4"]
+            },
+            {
+                "title": "SCIENCE & NATURE",
+                "clues": ["2-0", "2-1", "2-2", "2-3", "2-4"]
+            },
+            {
+                "title": "WORDS WITH 'FER' ENDS",
+                "clues": ["3-0", "3-1", "3-2", "3-3", "3-4"]
+            },
+            {
+                "title": "COULD YOU?",
+                "clues": ["4-0", "4-1", "4-2", "4-3", "4-4"]
+            },
+            {
+                "title": "CORSICAN",
+                "clues": ["5-0", "5-1", "5-2", "5-3", "5-4"]
+            }
+        ],
+    "categories_fj":
+        [
+            {
+                "title": "THE WILD WEST",
+                "clues": ["0-0"]
+            }
+        ],
+    "clues_sj": 
+        {
+            "0-0": {
+                "question": "This southern capital is known as 'The Big Peach'",
+                "answer": "Atlanta",
+                "value": 200,
+                "is_dd": false
+            },
+            "0-1": {
+                "question": "It's home to the American Hockey League's Iowa Wild",
+                "answer": "Des Moines",
+                "value": 400,
+                "is_dd": false
+            },
+            "0-2": {
+                "question": "This capital's St. John's Church was the site of Patrick Henry's 'Liberty or Death' oration",
+                "answer": "Richmond",
+                "value": 600,
+                "is_dd": false
+            },
+            "0-3": {
+                "question": "The capitol building in this North Dakota capital is home to the Theodore Roosevelt Rough Rider Hall of Fame",
+                "answer": "Bismarck",
+                "value": 800,
+                "is_dd": false
+            },
+            "0-4": {
+                "question": "Founded around 1610, it once served as the seat of power for the Spanish empire north of the Rio Grande",
+                "answer": "Santa Fe",
+                "value": 1000,
+                "is_dd": false
+            },
+            "1-0": {
+                "question": "100 years ago, this job of connecting people looked as seen here",
+                "answer": "Switchboard operator",
+                "value": 200,
+                "is_dd": false
+            },
+            "1-1": {
+                "question": "St. Joseph of Arimathea, who requested Jesus' body from Pontius Pilate, is the patron saint of these workers",
+                "answer": "Undertakers",
+                "value": 400,
+                "is_dd": false
+            },
+            "1-2": {
+                "question": "The Metropolitan Museum of Art has a sauceboat made by noted equestrian Paul Revere as part of this, his day job",
+                "answer": "Silversmith",
+                "value": 600,
+                "is_dd": false
+            },
+            "1-3": {
+                "question": "This other term for a longshoreman at the docks comes from the Spanish for 'stow a cargo'",
+                "answer": "Stevedore",
+                "value": 800,
+                "is_dd": false
+            },
+            "1-4": {
+                "question": "From their specific fields of study, Frans de Waal & Jane Goodall are classified as this particular kind of zoologist",
+                "answer": "Primatologist",
+                "value": 1000,
+                "is_dd": false
+            },
+            "2-0": {
+                "question": "Stilton & Roquefort are 2 varieties of this edible",
+                "answer": "Blue cheese",
+                "value": 200,
+                "is_dd": false
+            },
+            "2-1": {
+                "question": "A stylized blue silhouette suggestive of a bird is the logo of this social media site",
+                "answer": "Twitter",
+                "value": 400,
+                "is_dd": false
+            },
+            "2-2": {
+                "question": "Crayola's blues have included cerulean, aqua & this jeans fabric",
+                "answer": "Denim",
+                "value": 600,
+                "is_dd": false
+            },
+            "2-3": {
+                "question": "Paint drums & body paint are integral to this theater troupe formed in the late 1980s",
+                "answer": "Blue Man Group",
+                "value": 800,
+                "is_dd": false
+            },
+            "2-4": {
+                "question": "The Mahabharata recounts the adventures of this Hindu deity, an avatar of Vishnu who is often depicted with blue skin",
+                "answer": "Krishna",
+                "value": 1000,
+                "is_dd": false
+            },
+            "3-0": {
+                "question": "This fish & rice dish is derived from a Japanese word for sour",
+                "answer": "Sushi",
+                "value": 200,
+                "is_dd": false
+            },
+            "3-1": {
+                "question": "Before it was used for a musical work, this 4-letter word meaning 'work' was used by the Romans to designate construction",
+                "answer": "Opus",
+                "value": 400,
+                "is_dd": false
+            },
+            "3-2": {
+                "question": "As Bill & Ted probably wouldn't know, one story says this 5-letter word originally described a device to create counterfeit coins",
+                "answer": "Bogus",
+                "value": 600,
+                "is_dd": false
+            },
+            "3-3": {
+                "question": "This building material was once made with coal refuse & ash; hence its name",
+                "answer": "Cinder block",
+                "value": 800,
+                "is_dd": false
+            },
+            "3-4": {
+                "question": "Now meaning 'behaving badly', this adjective comes from a word meaning 'nothing'",
+                "answer": "Naughty",
+                "value": 1000,
+                "is_dd": false
+            },
+            "4-0": {
+                "question": "They checked into the Record of the Year winners' list with 'Hotel California'",
+                "answer": "The Eagles",
+                "value": 200,
+                "is_dd": false
+            },
+            "4-1": {
+                "question": "In 2020 she won Grammys for 'Bad Guy'",
+                "answer": "Billie Eilish",
+                "value": 400,
+                "is_dd": false
+            },
+            "4-2": {
+                "question": "He's a 6-time winner of the Best Rap Album Grammy",
+                "answer": "Eminem",
+                "value": 600,
+                "is_dd": false
+            },
+            "4-3": {
+                "question": "Last name of the jazz bandleader who received a Lifetime Achievement award in 1966",
+                "answer": "(Duke) Ellington",
+                "value": 800,
+                "is_dd": false
+            },
+            "4-4": {
+                "question": "1960's Song of the Year went to Ernest Gold for his theme to this movie about the founding of Israel",
+                "answer": "Exodus",
+                "value": 1000,
+                "is_dd": false
+            },
+            "5-0": {
+                "question": "'Christmas in Plains'",
+                "answer": "Jimmy Carter",
+                "value": 200,
+                "is_dd": false
+            },
+            "5-1": {
+                "question": "'A Time to Heal'",
+                "answer": "Gerald Ford",
+                "value": 400,
+                "is_dd": false
+            },
+            "5-2": {
+                "question": "'A Boyhood in Iowa'",
+                "answer": "Herbert Hoover",
+                "value": 600,
+                "is_dd": false
+            },
+            "5-3": {
+                "question": "His 'Personal Memoirs', completed before his death in 1885 & 'dedicated to the American soldier and sailor'",
+                "answer": "Ulysses S. Grant",
+                "value": 800,
+                "is_dd": true
+            },
+            "5-4": {
+                "question": "Published in 1866, his 'Administration on the Eve of Rebellion'",
+                "answer": "James Buchanan",
+                "value": 1000,
+                "is_dd": false
+            }
+        },
+    "clues_dj": 
+        {
+            "0-0": {
+                "question": "'Sag Harbor' by Colson Whitehead is about a teen's summer during this decade; New Coke & Lisa Lisa make appearances",
+                "answer": "The 1980s",
+                "value": 400,
+                "is_dd": false
+            },
+            "0-1": {
+                "question": "Hercule Poirot was dropped from the 1946 play version of this cruise-set novel & 'Death' in the title became 'Murder'",
+                "answer": "Death on the Nile",
+                "value": 800,
+                "is_dd": false
+            },
+            "0-2": {
+                "question": "The beginning of 'A Room with a View' concerns a view of this Italian river",
+                "answer": "The Arno",
+                "value": 1200,
+                "is_dd": true
+            },
+            "0-3": {
+                "question": "Rosemary Hoyt, a young actress vacationing on the Riviera, tempts the hero of this author's 'Tender is the Night'",
+                "answer": "Fitzgerald",
+                "value": 1600,
+                "is_dd": false
+            },
+            "0-4": {
+                "question": "This author married a man she met on a Caribbean vacation; her character Stella has a similar experience",
+                "answer": "Terry McMillan",
+                "value": 2000,
+                "is_dd": false
+            },
+            "1-0": {
+                "question": "(Hi, I'm Kevin Hart.) July 6, 2017 was officially Kevin Hart Day in this Northeastern city of my birth; they even unveiled a giant mural of my face on a cheesesteak diner near where I grew up",
+                "answer": "Philadelphia",
+                "value": 400,
+                "is_dd": false
+            },
+            "1-1": {
+                "question": "Will Ferrell played an Icelander in a 2020 Netflix comedy that sends up this song contest",
+                "answer": "Eurovision",
+                "value": 800,
+                "is_dd": false
+            },
+            "1-2": {
+                "question": "'Last One Laughing', hosted by this Sydney-born funny woman, pits comics against one another trying to make each other laugh",
+                "answer": "Rebel Wilson",
+                "value": 1200,
+                "is_dd": false
+            },
+            "1-3": {
+                "question": "Starting way back in 2003 (& still going strong), he's the longest-tenured cast member of 'Saturday Night Live'",
+                "answer": "Kenan Thompson",
+                "value": 1600,
+                "is_dd": false
+            },
+            "1-4": {
+                "question": "This comedian displayed his drama chops in 'A Star is Born', playing Bradley Cooper's longtime friend",
+                "answer": "Dave Chappelle",
+                "value": 2000,
+                "is_dd": false
+            },
+            "2-0": {
+                "question": "The death of a massive star can form this, a cosmic body of extreme gravity from which not even light can escape",
+                "answer": "A black hole",
+                "value": 400,
+                "is_dd": false
+            },
+            "2-1": {
+                "question": "Sir Humphry Davy named this element, symbol Mg, for a place in Greece",
+                "answer": "Magnesium",
+                "value": 800,
+                "is_dd": false
+            },
+            "2-2": {
+                "question": "In the human body the ribs attach to the 12 thoracic ones of these",
+                "answer": "Vertebra",
+                "value": 1200,
+                "is_dd": false
+            },
+            "2-3": {
+                "question": "Gardeners dread these insects that suck plant sap & can cause foliage to distort",
+                "answer": "Aphids",
+                "value": 1600,
+                "is_dd": false
+            },
+            "2-4": {
+                "question": "A goiter is an enlargement of this endocrine gland that produces the hormones T3 & T4",
+                "answer": "The thyroid",
+                "value": 2000,
+                "is_dd": false
+            },
+            "3-0": {
+                "question": "If you ride waves on your chest & stomach, not a board, you're one of these",
+                "answer": "A bodysurfer",
+                "value": 400,
+                "is_dd": false
+            },
+            "3-1": {
+                "question": "A protective barrier, or someone who polishes & shines",
+                "answer": "A buffer",
+                "value": 800,
+                "is_dd": false
+            },
+            "3-2": {
+                "question": "It's always good to keep this strongbox full",
+                "answer": "Coffer",
+                "value": 1200,
+                "is_dd": false
+            },
+            "3-3": {
+                "question": "A young cow that hasn't had a calf",
+                "answer": "A heifer",
+                "value": 1600,
+                "is_dd": false
+            },
+            "3-4": {
+                "question": "A stratum of water-bearing rock",
+                "answer": "Aquifer",
+                "value": 2000,
+                "is_dd": false
+            },
+            "4-0": {
+                "question": "Throw one of these basic boxing punches named for the way it travels from low to high",
+                "answer": "An uppercut",
+                "value": 400,
+                "is_dd": false
+            },
+            "4-1": {
+                "question": "Mix me an old fashioned with just a dash of these aromatic flavorings named for their astringent taste",
+                "answer": "Bitters",
+                "value": 800,
+                "is_dd": false
+            },
+            "4-2": {
+                "question": "Walk on one of these, like Nik Wallenda did across the crater of an active volcano in March 2020",
+                "answer": "A tightrope",
+                "value": 1200,
+                "is_dd": false
+            },
+            "4-3": {
+                "question": "Build a resort to make your city into a tourist destination in this video game also released as Micropolis",
+                "answer": "SimCity",
+                "value": 1600,
+                "is_dd": false
+            },
+            "4-4": {
+                "question": "Play me a little Bach on this old-time type of keyboard instrument that's 'Well-Tempered' in a Bach title",
+                "answer": "A clavier",
+                "value": 2000,
+                "is_dd": false
+            },
+            "5-0": {
+                "question": "He was born in Corsica's capital of Ajaccio on August 15, 1769, the same year the French took over",
+                "answer": "Napoleon",
+                "value": 400,
+                "is_dd": false
+            },
+            "5-1": {
+                "question": "In the 1930s Corsican gangster Paul Carbone began the international drug-dealing racket known as the French this",
+                "answer": "Connection",
+                "value": 800,
+                "is_dd": false
+            },
+            "5-2": {
+                "question": "Corsican César Vezzani was renowned as a 'heroic' singer in this range, with roles like Siegmund in 'Die Walküre'",
+                "answer": "Tenor",
+                "value": 1200,
+                "is_dd": false
+            },
+            "5-3": {
+                "question": "A corrupt justice system imposed by Genoese invaders long encouraged Corsicans to engage in the private blood feuds called this",
+                "answer": "Vendetta",
+                "value": 1600,
+                "is_dd": true
+            },
+            "5-4": {
+                "question": "Pasquale Paoli fought the Genoese & French, but during a 1794-96 British occupation, he offered the island to this king",
+                "answer": "George III",
+                "value": 2000,
+                "is_dd": false
+            }
+        },
+    "clues_fj": 
+        {
+            "0-0": {
+                "question": "These 2 legends both known for buckskin clothes & long, flowing hair met violent ends 38 days apart, in Montana & South Dakota",
+                "answer": "(George Armstrong) Custer and (Wild Bill) Hickok",
+                "value": 10000,
+                "is_dd": false
+            }
+        }
+}

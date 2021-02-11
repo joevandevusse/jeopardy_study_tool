@@ -5,6 +5,11 @@ var app = express();
 const port = process.env.PORT || 8080;
 //var http = require("http").Server(app).listen(port);
 
+const {Storage} = require('@google-cloud/storage');
+const storage = new Storage();
+const bucket = storage.bucket(process.env.GCLOUD_STORAGE_BUCKET);
+
+
 app.use("/css", express.static("./css"));
 app.use("/img", express.static("./img"));
 app.use("/js", express.static("./js"));
