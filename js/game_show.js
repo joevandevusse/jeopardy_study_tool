@@ -325,4 +325,16 @@ getGame = (gameId) =>  {
 // Get whatever game the user wants to play
 var userGameID = prompt("Please enter the gameID of the Jeopardy! game you'd like to play:\n (For reference - game: 6922 was played on 1/27/2021)");
 //getGame(6922);
-getGame(userGameID);
+//getGame(userGameID);
+
+fetch('/games/' + userGameID + '.json')
+    .then(result => {
+        return result.json();
+    }).then(loadedJSON => {
+        gameJSON = loadedJSON;
+        const game = new TriviaGameShow(document.querySelector(".app"), {});
+        game.initGame(gameJSON, SINGLE_JEOAPRDY);
+    })
+    .catch(err => {
+        console.error(err);
+    });
