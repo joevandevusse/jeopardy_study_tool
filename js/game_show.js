@@ -3,12 +3,12 @@ const DOUBLE_JEOAPRDY = "dj";
 const FINAL_JEOAPRDY = "fj";
 
 var gameJSON = {};
-gameJSON["categories_sj"] = [];
-gameJSON["categories_dj"] = [];
-gameJSON["categories_fj"] = [];
-gameJSON["clues_sj"] = {};
-gameJSON["clues_dj"] = {};
-gameJSON["clues_fj"] = {};
+// gameJSON["categories_sj"] = [];
+// gameJSON["categories_dj"] = [];
+// gameJSON["categories_fj"] = [];
+// gameJSON["clues_sj"] = {};
+// gameJSON["clues_dj"] = {};
+// gameJSON["clues_fj"] = {};
 
 class TriviaGameShow {
     constructor(element, options={}) {
