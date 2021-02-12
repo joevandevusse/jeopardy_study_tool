@@ -327,7 +327,7 @@ var userGameID = prompt("Please enter the gameID of the Jeopardy! game you'd lik
 //getGame(6922);
 //getGame(userGameID);
 
-fetch('./games/' + userGameID + '.json')
+fetch('/games/' + userGameID + '.json')
     .then(result => {
         return result.json();
     }).then(loadedJSON => {
