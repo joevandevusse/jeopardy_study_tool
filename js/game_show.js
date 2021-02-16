@@ -180,7 +180,15 @@ class TriviaGameShow {
         //friendlyAnswer = friendlyAnswer.replaceAll(")", "");
         // Remove optional text between parens
         friendlyAnswer = friendlyAnswer.replaceAll(/ *\([^)]*\) */g, "");
-        console.log(friendlyAnswer);
+        // Remove pariods, commas, and hyphens
+        friendlyAnswer = friendlyAnswer.replaceAll(".", "");
+        friendlyAnswer = friendlyAnswer.replaceAll(",", "");
+        friendlyAnswer = friendlyAnswer.replaceAll("-", "");
+        // Remove ampersands
+        friendlyAnswer = friendlyAnswer.replaceAll("&", "");
+        //console.log(friendlyAnswer);
+        // Replace accented e
+        friendlyAnswer = friendlyAnswer.replaceAll("é", "e");
         return friendlyAnswer.trim();
     }
 
@@ -327,7 +335,8 @@ var userGameID = prompt("Please enter the gameID of the Jeopardy! game you'd lik
 //getGame(6922);
 //getGame(userGameID);
 
-const fileToFetch = "/games/" + userGameID + ".json";
+//const fileToFetch = "/games/" + userGameID + ".json";
+const fileToFetch = "test.json";
 
 fetch(fileToFetch)
     .then(result => {
