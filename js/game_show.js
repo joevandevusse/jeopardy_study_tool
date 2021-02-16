@@ -338,11 +338,24 @@ var userGameID = prompt("Please enter the gameID of the Jeopardy! game you'd lik
 //const fileToFetch = "/games/" + userGameID + ".json";
 const fileToFetch = "test.json";
 
-fetch(fileToFetch)
+// fetch(fileToFetch)
+//     .then(result => {
+//         return result.json();
+//     }).then(loadedJSON => {
+//         gameJSON = loadedJSON;
+//         const game = new TriviaGameShow(document.querySelector(".app"), {});
+//         game.initGame(gameJSON, SINGLE_JEOAPRDY);
+//     })
+//     .catch(err => {
+//         console.error(err);
+//     });
+
+fetch('/games/6923.json')
     .then(result => {
         return result.json();
     }).then(loadedJSON => {
         gameJSON = loadedJSON;
+        //initGame();
         const game = new TriviaGameShow(document.querySelector(".app"), {});
         game.initGame(gameJSON, SINGLE_JEOAPRDY);
     })
