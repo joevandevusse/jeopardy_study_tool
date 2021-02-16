@@ -323,7 +323,7 @@ getGame = (gameId) =>  {
 }
 
 // Get whatever game the user wants to play
-var userGameID = prompt("Please enter the gameID of the Jeopardy! game you'd like to play:\n (For reference - game: 6922 was played on 1/27/2021)");
+var userGameID = prompt("Please enter the gameID of the Jeopardy! game you'd like to play:\nCurrently supports Season 37 (gameID: 6821-6942)\n(For reference - gameID: 6922 was played on 1/27/2021)");
 const fileToFetch = "/games/" + userGameID + ".json";
 
 fetch(fileToFetch)
