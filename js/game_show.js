@@ -10,7 +10,12 @@ var gameJSON = {};
 // gameJSON["clues_dj"] = {};
 // gameJSON["clues_fj"] = {};
 
-fetch('/games/6923.json')
+var userGameID = prompt("Please enter the gameID of the Jeopardy! game you'd like to play:\n (For reference - game: 6922 was played on 1/27/2021)");
+
+//const fileToFetch = "/games/" + userGameID + ".json";
+//const fileToFetch = "test.json";
+
+fetch('/games/test.json')
     .then(result => {
         return result.json();
     }).then(loadedJSON => {
@@ -344,12 +349,12 @@ getGame = (gameId) =>  {
 }
 
 // Get whatever game the user wants to play
-var userGameID = prompt("Please enter the gameID of the Jeopardy! game you'd like to play:\n (For reference - game: 6922 was played on 1/27/2021)");
+//var userGameID = prompt("Please enter the gameID of the Jeopardy! game you'd like to play:\n (For reference - game: 6922 was played on 1/27/2021)");
 //getGame(6922);
 //getGame(userGameID);
 
 //const fileToFetch = "/games/" + userGameID + ".json";
-const fileToFetch = "test.json";
+//const fileToFetch = "test.json";
 
 // fetch(fileToFetch)
 //     .then(result => {
