@@ -3,30 +3,6 @@ const DOUBLE_JEOAPRDY = "dj";
 const FINAL_JEOAPRDY = "fj";
 
 var gameJSON = {};
-// gameJSON["categories_sj"] = [];
-// gameJSON["categories_dj"] = [];
-// gameJSON["categories_fj"] = [];
-// gameJSON["clues_sj"] = {};
-// gameJSON["clues_dj"] = {};
-// gameJSON["clues_fj"] = {};
-
-var userGameID = prompt("Please enter the gameID of the Jeopardy! game you'd like to play:\n (For reference - game: 6922 was played on 1/27/2021)");
-
-//const fileToFetch = "/games/" + userGameID + ".json";
-//const fileToFetch = "test.json";
-
-fetch('/games/test.json')
-    .then(result => {
-        return result.json();
-    }).then(loadedJSON => {
-        gameJSON = loadedJSON;
-        //initGame();
-        const game = new TriviaGameShow(document.querySelector(".app"), {});
-        game.initGame(gameJSON, SINGLE_JEOAPRDY);
-    })
-    .catch(err => {
-        console.error(err);
-    });
 
 class TriviaGameShow {
     constructor(element, options={}) {
@@ -113,7 +89,6 @@ class TriviaGameShow {
     }
 
     renderCategory(category) {
-       //console.log(category);
         let column = document.createElement("div");
         column.classList.add("column");
 
@@ -132,7 +107,6 @@ class TriviaGameShow {
     handleClueClick(event) {
         // Increment clue count
         this.clueCount += 1;
-
         var clue = this.clues[event.target.dataset.clueId];
 
         // Mark this clue/button as used
@@ -349,23 +323,19 @@ getGame = (gameId) =>  {
 }
 
 // Get whatever game the user wants to play
-//var userGameID = prompt("Please enter the gameID of the Jeopardy! game you'd like to play:\n (For reference - game: 6922 was played on 1/27/2021)");
-//getGame(6922);
-//getGame(userGameID);
+var userGameID = prompt("Please enter the gameID of the Jeopardy! game you'd like to play:\n (For reference - game: 6922 was played on 1/27/2021)");
+const fileToFetch = "/games/" + userGameID + ".json";
 
-//const fileToFetch = "/games/" + userGameID + ".json";
-//const fileToFetch = "test.json";
-
-// fetch(fileToFetch)
-//     .then(result => {
-//         return result.json();
-//     }).then(loadedJSON => {
-//         gameJSON = loadedJSON;
-//         const game = new TriviaGameShow(document.querySelector(".app"), {});
-//         game.initGame(gameJSON, SINGLE_JEOAPRDY);
-//     })
-//     .catch(err => {
-//         console.error(err);
-//     });
+fetch(fileToFetch)
+    .then(result => {
+        return result.json();
+    }).then(loadedJSON => {
+        gameJSON = loadedJSON;
+        const game = new TriviaGameShow(document.querySelector(".app"), {});
+        game.initGame(gameJSON, SINGLE_JEOAPRDY);
+    })
+    .catch(err => {
+        console.error(err);
+    });
 
 
