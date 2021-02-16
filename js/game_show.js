@@ -15,7 +15,7 @@ var userGameID = prompt("Please enter the gameID of the Jeopardy! game you'd lik
 //const fileToFetch = "/games/" + userGameID + ".json";
 //const fileToFetch = "test.json";
 
-fetch('/js/test.json')
+fetch('/games/test.json')
     .then(result => {
         return result.json();
     }).then(loadedJSON => {
