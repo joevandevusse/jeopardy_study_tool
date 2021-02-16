@@ -10,6 +10,19 @@ var gameJSON = {};
 // gameJSON["clues_dj"] = {};
 // gameJSON["clues_fj"] = {};
 
+fetch('/games/6923.json')
+    .then(result => {
+        return result.json();
+    }).then(loadedJSON => {
+        gameJSON = loadedJSON;
+        //initGame();
+        const game = new TriviaGameShow(document.querySelector(".app"), {});
+        game.initGame(gameJSON, SINGLE_JEOAPRDY);
+    })
+    .catch(err => {
+        console.error(err);
+    });
+
 class TriviaGameShow {
     constructor(element, options={}) {
 
@@ -350,15 +363,4 @@ const fileToFetch = "test.json";
 //         console.error(err);
 //     });
 
-fetch('/games/6923.json')
-    .then(result => {
-        return result.json();
-    }).then(loadedJSON => {
-        gameJSON = loadedJSON;
-        //initGame();
-        const game = new TriviaGameShow(document.querySelector(".app"), {});
-        game.initGame(gameJSON, SINGLE_JEOAPRDY);
-    })
-    .catch(err => {
-        console.error(err);
-    });
+
