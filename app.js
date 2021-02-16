@@ -15,6 +15,7 @@ app.use("/img", express.static("./img"));
 app.use("/js", express.static("./js"));
 app.use("/pages", express.static("./pages"));
 app.use("/questions", express.static("./questions"));
+app.use("/games", express.static("./games"));
 
 console.log("Server started at port 80");
 
