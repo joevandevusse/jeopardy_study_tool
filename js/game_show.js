@@ -106,7 +106,7 @@ class TriviaGameShow {
 
     handleClueClick(event) {
         // Increment clue count
-        this.clueCount += 1;
+        this.clueCount += 10;
         var clue = this.clues[event.target.dataset.clueId];
 
         // Mark this clue/button as used
