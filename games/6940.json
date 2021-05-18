@@ -1,1 +1,470 @@
-{"categories_fj": [{"title": "THE FLAG", "clues": ["0-0"]}], "categories_sj": [{"title": "HOLLYWOOD HORSES", "clues": ["0-0", "0-1", "0-2", "0-3", "0-4"]}, {"title": "SOMETHING \"OLD\"", "clues": ["1-0", "1-1", "1-2", "1-3", "1-4"]}, {"title": "OLYMPIC HISTORY", "clues": ["2-0", "2-1", "2-2", "2-3", "2-4"]}, {"title": "PROVERBS", "clues": ["3-0", "3-1", "3-2", "3-3", "3-4"]}, {"title": "TRANSPORTATION", "clues": ["4-0", "4-1", "4-2", "4-3", "4-4"]}, {"title": "TV TRIVIA", "clues": ["5-0", "5-1", "5-2", "5-3", "5-4"]}], "clues_sj": {"3-0": {"answer": "rats", "value": 200, "is_dd": false, "question": "They're known to \"desert a sinking ship\""}, "3-4": {"answer": "Know thyself", "value": 1000, "is_dd": false, "question": "2 word self-help proverb found in temple of the Oracle at Delphi"}, "3-1": {"answer": "to fight another day", "value": 400, "is_dd": false, "question": "\"He that fights & runs away may live\" to do this"}, "2-1": {"answer": "the Soviet Union", "value": 400, "is_dd": false, "question": "In 1980, the U.S. beat the Finns, not this favored team, in the gold-medal ice hockey game"}, "1-1": {"answer": "the Old Bailey", "value": 400, "is_dd": false, "question": "Street on which you'd find London's Central Criminal Court, or the court's nickname"}, "5-4": {"answer": "a cruise (social) director", "value": 1000, "is_dd": false, "question": "Profession shared by Gale Storm on \"The Gale Storm Show\" & Lauren Tewes on \"The Love Boat\""}, "2-4": {"answer": "(1 of) Chamonix or Grenoble", "value": 1000, "is_dd": false, "question": "1 of 2 French cities to host the Winter Olympics"}, "5-1": {"answer": "Barbara Eden", "value": 400, "is_dd": false, "question": "As Jeannie the genie, she was not allowed to bare her navel"}, "4-3": {"answer": "a dog sled", "value": 800, "is_dd": false, "question": "A 28-year-old woman went 1,135 miles across Alaska on this to win a 1985 competition"}, "0-2": {"answer": "el Diablo", "value": 600, "is_dd": false, "question": "Spanish for \"devil\", he was ridden by \"The Cisco Kid\""}, "0-1": {"answer": "John Wayne", "value": 400, "is_dd": false, "question": "Appropriately, in 6 movies he rode a white horse named \"Duke\""}, "0-3": {"answer": "Topper", "value": 800, "is_dd": false, "question": "To opera goers, it's a silk hat, but to baby boomers, it's Hoppy's horse"}, "5-0": {"answer": "Ollie", "value": 200, "is_dd": false, "question": "Of Kukla, Fran, & Ollie, the one with just 1 tooth"}, "4-4": {"answer": "turn left", "value": 1000, "is_dd": false, "question": "Pushing down on the left rudder pedal will make a plane do this"}, "5-3": {"answer": "\"Flight Of The Bumblebee\"", "value": 800, "is_dd": false, "question": "This Rimsky-Korsakov classic opened each episode of 1966's \"The Green Hornet\": \"Instrumental music plays\""}, "0-4": {"answer": "Tom Mix", "value": 1000, "is_dd": false, "question": "A letter was once sent to his horse addressed \"Just Tony, somewhere in the U.S.A.\""}, "2-2": {"answer": "the broad (long) jump", "value": 600, "is_dd": false, "question": "AT Mexico City, Bob Beamon won this field event by shattering the world record by almost 2 feet"}, "1-3": {"answer": "Old Blood & Guts", "value": 800, "is_dd": false, "question": "General George S. Patton's sanguinary nickname"}, "4-1": {"answer": "Santa\\'s sleigh", "value": 400, "is_dd": false, "question": "Every Dec. 24th NASA issues tracking reports on its safe progress around the world"}, "5-2": {"answer": "William Bendix", "value": 600, "is_dd": false, "question": "Like Jackie Gleason before him, he lived \"The Life of Riley\""}, "3-3": {"answer": "otherwise", "value": 800, "is_dd": false, "question": "Ben Franklin wrote, \"Some are weather-wise, some are\" this"}, "2-0": {"answer": "Nadia Com\u0103neci", "value": 200, "is_dd": false, "question": "In 1976, she received the 1st perfect score in Olympic gymnastics"}, "4-2": {"answer": "Fulton", "value": 600, "is_dd": false, "question": "In 1804, this inventor's steamboat made its debut on the Seine in France"}, "2-3": {"answer": "Bruce Jenner", "value": 800, "is_dd": false, "question": "Decathlon winner at the 1976 Montreal Olympics"}, "0-0": {"answer": "Silver", "value": 200, "is_dd": false, "question": "Name shared by horses of Buck Jones,  Hoot Gibson, & the Lone Ranger"}, "1-0": {"answer": "the Old Testament", "value": 200, "is_dd": false, "question": "By length it makes up more than 3/4 of the Bible"}, "3-2": {"answer": "his own destiny (fate)", "value": 600, "is_dd": false, "question": "According to ancient think Appius Caecus, \"Each man is the architect of\" this"}, "1-2": {"answer": "the \"Old Folks At Home\"", "value": 600, "is_dd": false, "question": "Song that begins \"Way down upon the Swanee River\""}, "4-0": {"answer": "the bicycle", "value": 200, "is_dd": false, "question": "Its precursors were the curricle, the draisine, & the velocipede"}, "1-4": {"answer": "on top of Old Smokey", "value": 1000, "is_dd": false, "question": "Where \"I lost my true love from courting too slow\""}}, "clues_fj": {"0-0": {"answer": "30", "value": 10000, "is_dd": false, "question": "After a former president's death, the flag is flown at half-mast for this many days"}}, "clues_dj": {"3-0": {"answer": "Russian", "value": 400, "is_dd": false, "question": "Nationality of Borodin's \"Prince Igor\""}, "3-1": {"answer": "The Rite of Spring", "value": 800, "is_dd": false, "question": "Common translation of \"Le Sacre du Printemps\", a Stravinsky ballet"}, "2-1": {"answer": "Turkey", "value": 800, "is_dd": false, "question": "Lawrence of Arabia conducted guerilla warfare against this country' forces"}, "1-1": {"answer": "Kismet", "value": 800, "is_dd": false, "question": "A '50s musical, or Turkish for destiny or fate"}, "5-1": {"answer": "the Miranda", "value": 800, "is_dd": false, "question": "As a result of this 1966 Supreme Court case, police now inform suspects of their rights upon arrest"}, "4-3": {"answer": "Vienna", "value": 1600, "is_dd": false, "question": "Although filmed in Czechoslovakia, \"Amadeus\" takes place mostly in this world capital"}, "0-2": {"answer": "Texas", "value": 1200, "is_dd": false, "question": "In 1901, the 1st gusher in N. Amer.  blew in at the Spindletop Field in this #1 oil producing state"}, "0-1": {"answer": "a wildcat", "value": 800, "is_dd": false, "question": "Name for well drilled in area where no oil or gas has yet been found, or an untamed feline"}, "0-3": {"answer": "Unused answer", "value": 1600, "is_dd": false, "question": "Unused question"}, "5-0": {"answer": "his castle", "value": 400, "is_dd": false, "question": "The 17th c. \"Institutes of the Laws of England\" states \"A man's house is\" this"}, "5-3": {"answer": "checks & balances", "value": 1600, "is_dd": false, "question": "To prevent a tyrannical government, the Founding Fathers built this system into the Constitution"}, "2-2": {"answer": "the tank", "value": 1200, "is_dd": false, "question": "Invented by Sir Ernest Swinton in Eng., this weapon was 1st used in 1916 Battle of the Somme"}, "1-3": {"answer": "Schweitzer", "value": 1600, "is_dd": false, "question": "Organist & Bach authority, he left music to become a medical missionary & Nobel Prize winner"}, "4-1": {"answer": "Rio (de Janeiro)", "value": 800, "is_dd": false, "question": "For his '84 flop Michael Caine should blame it on the script, not this city"}, "5-2": {"answer": "trial by jury", "value": 1200, "is_dd": false, "question": "\"Where the value in controversy shall exceed $20\", you have a right to this type of trial"}, "3-3": {"answer": "waterways (rivers, streams)", "value": 1600, "is_dd": false, "question": "Riparian rights refer to the use of these"}, "2-0": {"answer": "1917", "value": 400, "is_dd": false, "question": "Though the war began in 1914, America didn't enter until this year"}, "4-2": {"answer": "Paris", "value": 1200, "is_dd": false, "question": "In a \"Casablanca\" flashback, Ingrid Bergman jilted Bogie in this city"}, "2-3": {"answer": "Unused answer", "value": 1600, "is_dd": false, "question": "Unused question"}, "0-0": {"answer": "black gold", "value": 400, "is_dd": false, "question": "Petroleum's doubly colorful nickname"}, "1-0": {"answer": "\u00e0 la mode", "value": 400, "is_dd": false, "question": "French for \"in the fashion\", or American for French vanilla on mom's apple pie"}, "3-2": {"answer": "the 19th century", "value": 1200, "is_dd": false, "question": "Liszt & Schumann's work mark the Romantic period, major musical movement of this century"}, "1-2": {"answer": "Hasta la vista", "value": 1200, "is_dd": false, "question": "In Spanish, it's \"see you\""}, "4-0": {"answer": "Detroit", "value": 400, "is_dd": false, "question": "City where \"Beverly Hills Cop\" begins"}}, "categories_dj": [{"title": "PETROLEUM", "clues": ["0-0", "0-1", "0-2", "0-3", "0-4"]}, {"title": "FOREIGN PHRASES", "clues": ["1-0", "1-1", "1-2", "1-3", "1-4"]}, {"title": "WORLD WAR I", "clues": ["2-0", "2-1", "2-2", "2-3", "2-4"]}, {"title": "CLASSICAL MUSIC", "clues": ["3-0", "3-1", "3-2", "3-3", "3-4"]}, {"title": "MOVIE CITIES", "clues": ["4-0", "4-1", "4-2", "4-3", "4-4"]}, {"title": "LAW", "clues": ["5-0", "5-1", "5-2", "5-3", "5-4"]}]}
+{
+    "categories_fj": [
+        {
+            "title": "THE FLAG",
+            "clues": [
+                "0-0"
+            ]
+        }
+    ],
+    "categories_sj": [
+        {
+            "title": "HOLLYWOOD HORSES",
+            "clues": [
+                "0-0",
+                "0-1",
+                "0-2",
+                "0-3",
+                "0-4"
+            ]
+        },
+        {
+            "title": "SOMETHING \"OLD\"",
+            "clues": [
+                "1-0",
+                "1-1",
+                "1-2",
+                "1-3",
+                "1-4"
+            ]
+        },
+        {
+            "title": "OLYMPIC HISTORY",
+            "clues": [
+                "2-0",
+                "2-1",
+                "2-2",
+                "2-3",
+                "2-4"
+            ]
+        },
+        {
+            "title": "PROVERBS",
+            "clues": [
+                "3-0",
+                "3-1",
+                "3-2",
+                "3-3",
+                "3-4"
+            ]
+        },
+        {
+            "title": "TRANSPORTATION",
+            "clues": [
+                "4-0",
+                "4-1",
+                "4-2",
+                "4-3",
+                "4-4"
+            ]
+        },
+        {
+            "title": "TV TRIVIA",
+            "clues": [
+                "5-0",
+                "5-1",
+                "5-2",
+                "5-3",
+                "5-4"
+            ]
+        }
+    ],
+    "clues_sj": {
+        "3-0": {
+            "answer": "rats",
+            "value": 200,
+            "is_dd": false,
+            "question": "They're known to \"desert a sinking ship\""
+        },
+        "3-4": {
+            "answer": "Know thyself",
+            "value": 1000,
+            "is_dd": false,
+            "question": "2 word self-help proverb found in temple of the Oracle at Delphi"
+        },
+        "3-1": {
+            "answer": "to fight another day",
+            "value": 400,
+            "is_dd": false,
+            "question": "\"He that fights & runs away may live\" to do this"
+        },
+        "2-1": {
+            "answer": "the Soviet Union",
+            "value": 400,
+            "is_dd": false,
+            "question": "In 1980, the U.S. beat the Finns, not this favored team, in the gold-medal ice hockey game"
+        },
+        "1-1": {
+            "answer": "the Old Bailey",
+            "value": 400,
+            "is_dd": false,
+            "question": "Street on which you'd find London's Central Criminal Court, or the court's nickname"
+        },
+        "5-4": {
+            "answer": "a cruise (social) director",
+            "value": 1000,
+            "is_dd": false,
+            "question": "Profession shared by Gale Storm on \"The Gale Storm Show\" & Lauren Tewes on \"The Love Boat\""
+        },
+        "2-4": {
+            "answer": "(1 of) Chamonix or Grenoble",
+            "value": 1000,
+            "is_dd": false,
+            "question": "1 of 2 French cities to host the Winter Olympics"
+        },
+        "5-1": {
+            "answer": "Barbara Eden",
+            "value": 400,
+            "is_dd": false,
+            "question": "As Jeannie the genie, she was not allowed to bare her navel"
+        },
+        "4-3": {
+            "answer": "a dog sled",
+            "value": 800,
+            "is_dd": false,
+            "question": "A 28-year-old woman went 1,135 miles across Alaska on this to win a 1985 competition"
+        },
+        "0-2": {
+            "answer": "el Diablo",
+            "value": 600,
+            "is_dd": false,
+            "question": "Spanish for \"devil\", he was ridden by \"The Cisco Kid\""
+        },
+        "0-1": {
+            "answer": "John Wayne",
+            "value": 400,
+            "is_dd": false,
+            "question": "Appropriately, in 6 movies he rode a white horse named \"Duke\""
+        },
+        "0-3": {
+            "answer": "Topper",
+            "value": 800,
+            "is_dd": false,
+            "question": "To opera goers, it's a silk hat, but to baby boomers, it's Hoppy's horse"
+        },
+        "5-0": {
+            "answer": "Ollie",
+            "value": 200,
+            "is_dd": false,
+            "question": "Of Kukla, Fran, & Ollie, the one with just 1 tooth"
+        },
+        "4-4": {
+            "answer": "turn left",
+            "value": 1000,
+            "is_dd": false,
+            "question": "Pushing down on the left rudder pedal will make a plane do this"
+        },
+        "5-3": {
+            "answer": "\"Flight Of The Bumblebee\"",
+            "value": 800,
+            "is_dd": false,
+            "question": "This Rimsky-Korsakov classic opened each episode of 1966's \"The Green Hornet\": \"Instrumental music plays\""
+        },
+        "0-4": {
+            "answer": "Tom Mix",
+            "value": 1000,
+            "is_dd": false,
+            "question": "A letter was once sent to his horse addressed \"Just Tony, somewhere in the U.S.A.\""
+        },
+        "2-2": {
+            "answer": "the broad (long) jump",
+            "value": 600,
+            "is_dd": false,
+            "question": "AT Mexico City, Bob Beamon won this field event by shattering the world record by almost 2 feet"
+        },
+        "1-3": {
+            "answer": "Old Blood & Guts",
+            "value": 800,
+            "is_dd": false,
+            "question": "General George S. Patton's sanguinary nickname"
+        },
+        "4-1": {
+            "answer": "Santa\\'s sleigh",
+            "value": 400,
+            "is_dd": false,
+            "question": "Every Dec. 24th NASA issues tracking reports on its safe progress around the world"
+        },
+        "5-2": {
+            "answer": "William Bendix",
+            "value": 600,
+            "is_dd": false,
+            "question": "Like Jackie Gleason before him, he lived \"The Life of Riley\""
+        },
+        "3-3": {
+            "answer": "otherwise",
+            "value": 800,
+            "is_dd": false,
+            "question": "Ben Franklin wrote, \"Some are weather-wise, some are\" this"
+        },
+        "2-0": {
+            "answer": "Nadia Com\u0103neci",
+            "value": 200,
+            "is_dd": false,
+            "question": "In 1976, she received the 1st perfect score in Olympic gymnastics"
+        },
+        "4-2": {
+            "answer": "Fulton",
+            "value": 600,
+            "is_dd": false,
+            "question": "In 1804, this inventor's steamboat made its debut on the Seine in France"
+        },
+        "2-3": {
+            "answer": "Bruce Jenner",
+            "value": 800,
+            "is_dd": false,
+            "question": "Decathlon winner at the 1976 Montreal Olympics"
+        },
+        "0-0": {
+            "answer": "Silver",
+            "value": 200,
+            "is_dd": false,
+            "question": "Name shared by horses of Buck Jones,  Hoot Gibson, & the Lone Ranger"
+        },
+        "1-0": {
+            "answer": "the Old Testament",
+            "value": 200,
+            "is_dd": false,
+            "question": "By length it makes up more than 3/4 of the Bible"
+        },
+        "3-2": {
+            "answer": "his own destiny (fate)",
+            "value": 600,
+            "is_dd": false,
+            "question": "According to ancient think Appius Caecus, \"Each man is the architect of\" this"
+        },
+        "1-2": {
+            "answer": "the \"Old Folks At Home\"",
+            "value": 600,
+            "is_dd": false,
+            "question": "Song that begins \"Way down upon the Swanee River\""
+        },
+        "4-0": {
+            "answer": "the bicycle",
+            "value": 200,
+            "is_dd": false,
+            "question": "Its precursors were the curricle, the draisine, & the velocipede"
+        },
+        "1-4": {
+            "answer": "on top of Old Smokey",
+            "value": 1000,
+            "is_dd": false,
+            "question": "Where \"I lost my true love from courting too slow\""
+        }
+    },
+    "clues_fj": {
+        "0-0": {
+            "answer": "30",
+            "value": 10000,
+            "is_dd": false,
+            "question": "After a former president's death, the flag is flown at half-mast for this many days"
+        }
+    },
+    "clues_dj": {
+        "3-0": {
+            "answer": "Russian",
+            "value": 400,
+            "is_dd": false,
+            "question": "Nationality of Borodin's \"Prince Igor\""
+        },
+        "3-1": {
+            "answer": "The Rite of Spring",
+            "value": 800,
+            "is_dd": false,
+            "question": "Common translation of \"Le Sacre du Printemps\", a Stravinsky ballet"
+        },
+        "2-1": {
+            "answer": "Turkey",
+            "value": 800,
+            "is_dd": false,
+            "question": "Lawrence of Arabia conducted guerilla warfare against this country' forces"
+        },
+        "1-1": {
+            "answer": "Kismet",
+            "value": 800,
+            "is_dd": false,
+            "question": "A '50s musical, or Turkish for destiny or fate"
+        },
+        "5-1": {
+            "answer": "the Miranda",
+            "value": 800,
+            "is_dd": false,
+            "question": "As a result of this 1966 Supreme Court case, police now inform suspects of their rights upon arrest"
+        },
+        "4-3": {
+            "answer": "Vienna",
+            "value": 1600,
+            "is_dd": false,
+            "question": "Although filmed in Czechoslovakia, \"Amadeus\" takes place mostly in this world capital"
+        },
+        "0-2": {
+            "answer": "Texas",
+            "value": 1200,
+            "is_dd": false,
+            "question": "In 1901, the 1st gusher in N. Amer.  blew in at the Spindletop Field in this #1 oil producing state"
+        },
+        "0-1": {
+            "answer": "a wildcat",
+            "value": 800,
+            "is_dd": false,
+            "question": "Name for well drilled in area where no oil or gas has yet been found, or an untamed feline"
+        },
+        "0-3": {
+            "answer": "Unused answer",
+            "value": 1600,
+            "is_dd": false,
+            "question": "Unused question"
+        },
+        "5-0": {
+            "answer": "his castle",
+            "value": 400,
+            "is_dd": false,
+            "question": "The 17th c. \"Institutes of the Laws of England\" states \"A man's house is\" this"
+        },
+        "5-3": {
+            "answer": "checks & balances",
+            "value": 1600,
+            "is_dd": false,
+            "question": "To prevent a tyrannical government, the Founding Fathers built this system into the Constitution"
+        },
+        "2-2": {
+            "answer": "the tank",
+            "value": 1200,
+            "is_dd": false,
+            "question": "Invented by Sir Ernest Swinton in Eng., this weapon was 1st used in 1916 Battle of the Somme"
+        },
+        "1-3": {
+            "answer": "Schweitzer",
+            "value": 1600,
+            "is_dd": false,
+            "question": "Organist & Bach authority, he left music to become a medical missionary & Nobel Prize winner"
+        },
+        "4-1": {
+            "answer": "Rio (de Janeiro)",
+            "value": 800,
+            "is_dd": false,
+            "question": "For his '84 flop Michael Caine should blame it on the script, not this city"
+        },
+        "5-2": {
+            "answer": "trial by jury",
+            "value": 1200,
+            "is_dd": false,
+            "question": "\"Where the value in controversy shall exceed $20\", you have a right to this type of trial"
+        },
+        "3-3": {
+            "answer": "waterways (rivers, streams)",
+            "value": 1600,
+            "is_dd": false,
+            "question": "Riparian rights refer to the use of these"
+        },
+        "2-0": {
+            "answer": "1917",
+            "value": 400,
+            "is_dd": false,
+            "question": "Though the war began in 1914, America didn't enter until this year"
+        },
+        "4-2": {
+            "answer": "Paris",
+            "value": 1200,
+            "is_dd": false,
+            "question": "In a \"Casablanca\" flashback, Ingrid Bergman jilted Bogie in this city"
+        },
+        "2-3": {
+            "answer": "Unused answer",
+            "value": 1600,
+            "is_dd": false,
+            "question": "Unused question"
+        },
+        "0-0": {
+            "answer": "black gold",
+            "value": 400,
+            "is_dd": false,
+            "question": "Petroleum's doubly colorful nickname"
+        },
+        "1-0": {
+            "answer": "\u00e0 la mode",
+            "value": 400,
+            "is_dd": false,
+            "question": "French for \"in the fashion\", or American for French vanilla on mom's apple pie"
+        },
+        "3-2": {
+            "answer": "the 19th century",
+            "value": 1200,
+            "is_dd": false,
+            "question": "Liszt & Schumann's work mark the Romantic period, major musical movement of this century"
+        },
+        "1-2": {
+            "answer": "Hasta la vista",
+            "value": 1200,
+            "is_dd": false,
+            "question": "In Spanish, it's \"see you\""
+        },
+        "4-0": {
+            "answer": "Detroit",
+            "value": 400,
+            "is_dd": false,
+            "question": "City where \"Beverly Hills Cop\" begins"
+        }
+    },
+    "categories_dj": [
+        {
+            "title": "PETROLEUM",
+            "clues": [
+                "0-0",
+                "0-1",
+                "0-2",
+                "0-3",
+                "0-4"
+            ]
+        },
+        {
+            "title": "FOREIGN PHRASES",
+            "clues": [
+                "1-0",
+                "1-1",
+                "1-2",
+                "1-3",
+                "1-4"
+            ]
+        },
+        {
+            "title": "WORLD WAR I",
+            "clues": [
+                "2-0",
+                "2-1",
+                "2-2",
+                "2-3",
+                "2-4"
+            ]
+        },
+        {
+            "title": "CLASSICAL MUSIC",
+            "clues": [
+                "3-0",
+                "3-1",
+                "3-2",
+                "3-3",
+                "3-4"
+            ]
+        },
+        {
+            "title": "MOVIE CITIES",
+            "clues": [
+                "4-0",
+                "4-1",
+                "4-2",
+                "4-3",
+                "4-4"
+            ]
+        },
+        {
+            "title": "LAW",
+            "clues": [
+                "5-0",
+                "5-1",
+                "5-2",
+                "5-3",
+                "5-4"
+            ]
+        }
+    ]
+}
