@@ -3,3 +3,6 @@ cd jeopardy_study_tool/
 git pull
 gcloud app deploy
 Y
+
+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
+git push https://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@github.com/joevandevusse/jeopardy_study_tool.git
