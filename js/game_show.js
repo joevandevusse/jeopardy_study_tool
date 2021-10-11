@@ -54,7 +54,13 @@ class TriviaGameShow {
                 this.score -= change;
             }
         }
-        this.scoreCountElement.textContent = "$" + this.score;
+        if (this.score >= 0) {
+            this.scoreCountElement.textContent = "$" + this.score;
+        } else {
+            let scoreAbs = this.score * -1;
+            this.scoreCountElement.textContent = "-$" + scoreAbs;
+        }
+        
     }
 
     fetchCategories(json, round) {
@@ -323,7 +329,8 @@ getGame = (gameId) =>  {
 }
 
 // Get whatever game the user wants to play
-var userGameID = prompt("Please enter the gameID of the Jeopardy! game you'd like to play:\nCurrently supports Season 37 (gameID: 6821-6942)\n(For reference - gameID: 6922 was played on 1/27/2021)");
+//var userGameID = prompt("Please enter the gameID of the Jeopardy! game you'd like to play:\nCurrently supports Season 37 (gameID: 6821-6942)\n(For reference - gameID: 6922 was played on 1/27/2021)");
+var userGameID = localStorage.getItem('gameId');
 const fileToFetch = "/games/" + userGameID + ".json";
 
 fetch(fileToFetch)

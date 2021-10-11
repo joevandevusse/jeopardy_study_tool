@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie-edge">
+    <title>J! Study Tool Game Show</title>
+    <link rel="stylesheet" href="../css/app.css">
+    <link rel="icon" type="image/png" href="img/favicon2.png">
+</head> 
+<body>
+    <div class="container">
+        <div id="home" class="flex-center flex-column">
+            <h1>J! Study Tool Game Show</h1>
+            <h4>Please enter the gameID of the Jeopardy! game you'd like to play:</h4>
+            <h4>Currently supports Seasons 37 & 38 (gameID: 6821-7158)</h4>
+            <h4>(For reference - gameID: 6922 aired 1/27/21, gameID: 7158 aired 10/5/21)</h4>    
+            <div id="answer" class="flex-center flex-column">     
+                <form id="form" autocomplete="off">
+                    <input type="text" id="answer-text">
+                    <br>
+                    <input type="button" value="Play" class="btn" id="submit-btn" onClick="submitGameId()">
+                </form>
+                <p id="log"></p>
+            </div>
+        </div>
+    </div>
+    <script src="/js/game_show_home.js"></script>
+</body>
+</html>
