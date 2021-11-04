@@ -75,9 +75,11 @@ class TriviaGameShow {
             this.clues = json.clues_dj;
             this.categories = json.categories_dj;
         } else {
+            this.titleElement.textContent = "J! Study Tool - Final Jeopardy";
+            this.removeOldCategories();
             this.clues = json.clues_Fj;
             this.categories = json.categories_fj;
-            handleFinalJeopardy();
+            //handleFinalJeopardy();
         }
 
         this.categories.forEach(c => {
@@ -168,7 +170,7 @@ class TriviaGameShow {
         friendlyAnswer = friendlyAnswer.replace(/^a /, "");
         // Remove "an" article
         friendlyAnswer = friendlyAnswer.replace(/^an /, "");  
-        // Remove "an" article
+        // Remove "the" article
         friendlyAnswer = friendlyAnswer.replace(/^the /, "");  
         // Remove quotes
         friendlyAnswer = friendlyAnswer.replaceAll("\"", "");

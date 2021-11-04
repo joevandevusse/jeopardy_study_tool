@@ -4,5 +4,9 @@ git pull
 gcloud app deploy
 Y
 
-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
-git push https://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@github.com/joevandevusse/jeopardy_study_tool.git
+git push https://<token>@github.com/joevandevusse/jeopardy_study_tool.git
+
+Bugs:
+Accepting answers - only last names, plurals
+
+cd mnt/c/Users/joeva/Documents/Personal_Projects/

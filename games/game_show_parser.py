@@ -65,7 +65,7 @@ def get_clues_per_game(game_number):
 
     clean_clue_answers = []
     for answer in clue_answers:
-        clean_answer = answer.replace("<i>", "").replace("</i>", "")
+        clean_answer = answer.replace("<i>", "").replace("</i>", "").replace("\\", "")
         clean_clue_answers.append(clean_answer)
 
     # Exclude clues that they didn't get to during the game
