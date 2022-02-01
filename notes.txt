@@ -10,3 +10,7 @@ Bugs:
 Accepting answers - only last names, plurals
 
 cd mnt/c/Users/joeva/Documents/Personal_Projects/
+
+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
+
+git push https://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@github.com/joevandevusse/jeopardy_study_tool.git

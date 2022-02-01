@@ -19,6 +19,7 @@
   "homepage": "https://github.com/joevandevusse/jeopardy_study_tool#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "js-datepicker": "^5.18.0",
     "nodemon": "^2.0.6"
   },
   "engines": {
