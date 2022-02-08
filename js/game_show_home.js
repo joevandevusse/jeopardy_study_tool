@@ -1,7 +1,16 @@
 submitGameId = () => {
-    const gameId = document.getElementById("answer-text").value;
-    localStorage.setItem("gameId", gameId);     
-    window.location.assign("/pages/game_show.html")
+    const dateSelected = document.getElementById("date-selected").value;
+    const fileToFetch = "/games/date_to_game_id.json";
+    fetch(fileToFetch)
+        .then(response => {
+            console.log(response);
+            return response.json();
+        })
+        .then(data => {
+            const gameId = data[dateSelected];
+            localStorage.setItem("gameId", gameId);     
+            window.location.assign("/pages/game_show.html")
+        });
 }
 
 // Submit by pressing "Enter" or clicking "Play"

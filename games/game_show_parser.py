@@ -14,13 +14,13 @@ pp = pprint.PrettyPrinter(indent = 4)
 def get_clues_per_game(game_number):
     print(game_number)
     # JSON to return
-    game_JSON = {};
-    game_JSON["categories_sj"] = [];
-    game_JSON["categories_dj"] = [];
-    game_JSON["categories_fj"] = [];
-    game_JSON["clues_sj"] = {};
-    game_JSON["clues_dj"] = {};
-    game_JSON["clues_fj"] = {};
+    game_JSON = {}
+    game_JSON["categories_sj"] = []
+    game_JSON["categories_dj"] = []
+    game_JSON["categories_fj"] = []
+    game_JSON["clues_sj"] = {}
+    game_JSON["clues_dj"] = {}
+    game_JSON["clues_fj"] = {}
 
     # J! Archive URL
     url = "http://j-archive.com/showgame.php?game_id=" + str(game_number)
@@ -51,7 +51,7 @@ def get_clues_per_game(game_number):
         else:
             cateogory_to_append["clues"] = ["0-0"]
             game_JSON["categories_fj"].append(cateogory_to_append)
-        category_counter += 1;
+        category_counter += 1
 
     # Get clue attrs
     clues = page_soup.findAll("td", {"class": "clue"})
@@ -119,9 +119,9 @@ def get_clues_per_game(game_number):
     add_clue_fj = {}
     add_clue_fj["question"] = page_soup.findAll("td", {"id": "clue_FJ"})[0].getText()
     add_clue_fj["answer"] = final_jeopardy.div['onmouseover'].split("correct_response")[1].split("</em>")[0][3:]
-    add_clue_fj["value"] = 10000;
-    add_clue_fj["is_dd"] = False;
-    game_JSON["clues_fj"]["0-0"] = add_clue_fj;
+    add_clue_fj["value"] = 10000
+    add_clue_fj["is_dd"] = False
+    game_JSON["clues_fj"]["0-0"] = add_clue_fj
 
     #pp.pprint(game_JSON)
     return game_JSON
