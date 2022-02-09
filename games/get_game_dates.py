@@ -14,6 +14,8 @@ def main():
     # Let's try it all in one request
     date_to_game_json = {}
     season = 38
+    # Season 37: 8236 - 6821 = 1415
+    # Season 38: 
     differential = 8236 - 6821
 
     url = "https://www.j-archive.com/showseason.php?season=" + str(season)
