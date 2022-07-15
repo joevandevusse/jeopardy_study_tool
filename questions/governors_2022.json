@@ -1,0 +1,202 @@
+[
+    {
+        "question": "State: Alabama\nParty: Republican\nAge: 77",
+        "answer": "Kay Ivey"
+    },
+    {
+        "question": "State: Alaska\nParty: Republican\nAge: 61",
+        "answer": "Mike Dunleavy"
+    },
+    {
+        "question": "State: Arizona\nParty: Republican\nAge: 58",
+        "answer": "Doug Ducey"
+    },
+    {
+        "question": "State: Arkansas\nParty: Republican\nAge: 71",
+        "answer": "Asa Hutchinson"
+    },
+    {
+        "question": "State: California\nParty: Democratic\nAge: 54",
+        "answer": "Gavin Newsome"
+    },
+    {
+        "question": "State: Colorado\nParty: Democratic\nAge: 47",
+        "answer": "Jared Polis"
+    },
+    {
+        "question": "State: Connecticut\nParty: Democratic\nAge: 69",
+        "answer": "Ned Lamont"
+    },
+    {
+        "question": "State: Delawware\nParty: Democratic\nAge: 66",
+        "answer": "John Carney"
+    },
+    {
+        "question": "State: Florida\nParty: Republican\nAge: 43",
+        "answer": "Ron DeSantis"
+    },
+    {
+        "question": "State: Georgia\nParty: Republican\nAge: 58",
+        "answer": "Brian Kemp"
+    },
+    {
+        "question": "State: Hawaii\nParty: Democratic\nAge: 65",
+        "answer": "David Ige"
+    },
+    {
+        "question": "State: Idaho\nParty: Republican\nAge: 69",
+        "answer": "Brad Little"
+    },
+    {
+        "question": "State: Illinois\nParty: Democratic\nAge: 57",
+        "answer": "J. B. Pritzker"
+    },
+    {
+        "question": "State: Indiana\nParty: Republican\nAge: 54",
+        "answer": "Eric Holcomb"
+    },
+    {
+        "question": "State: Iowa\nParty: Republican\nAge: 62",
+        "answer": "Kim Reynolds"
+    },
+    {
+        "question": "State: Kansas\nParty: Democratic\nAge: 72",
+        "answer": "Laura Kelly"
+    },
+    {
+        "question": "State: Kentucky\nParty: Democratic\nAge: 44",
+        "answer": "Andy Beshear"
+    },
+    {
+        "question": "State: Louisiana\nParty: Democratic\nAge: 55",
+        "answer": "John Bel Edwards"
+    },
+    {
+        "question": "State: Maine\nParty: Democratic\nAge: 74",
+        "answer": "Janet Mills"
+    },
+    {
+        "question": "State: Maryland\nParty: Republican\nAge: 66",
+        "answer": "Larry Hogan"
+    },
+    {
+        "question": "State: Massachusetts\nParty: Republican\nAge: 65",
+        "answer": "Charlie Baker"
+    },
+    {
+        "question": "State: Michigan\nParty: Democratic\nAge: 50",
+        "answer": "Gretchen Whitmer"
+    },
+    {
+        "question": "State: Minnesota\nParty: Democratic\nAge: 58",
+        "answer": "Tim Walz"
+    },
+    {
+        "question": "State: Mississippi\nParty: Republican\nAge: 48",
+        "answer": "Tate Reeves"
+    },
+    {
+        "question": "State: Missouri\nParty: Republican\nAge: 66",
+        "answer": "Mike Parson"
+    },
+    {
+        "question": "State: Montana\nParty: Republican\nAge: 61",
+        "answer": "Greg Gianforte"
+    },
+    {
+        "question": "State: Nebraska\nParty: Republican\nAge: 57",
+        "answer": "Pete Ricketts"
+    },
+    {
+        "question": "State: Nevada\nParty: Democratic\nAge: 68",
+        "answer": "Steve Sisolak"
+    },
+    {
+        "question": "State: New Hampshire\nParty: Republican\nAge: 47",
+        "answer": "Chris Sununu"
+    },
+    {
+        "question": "State: New Jersey\nParty: Democratic\nAge: 64",
+        "answer": "Phil Murphy"
+    },
+    {
+        "question": "State: New Mexico\nParty: Democratic\nAge: 62",
+        "answer": "Michelle Lujan Grisham"
+    },
+    {
+        "question": "State: New York\nParty: Democratic\nAge: 63",
+        "answer": "Kathy Hochul"
+    },
+    {
+        "question": "State: North Carolina\nParty: Democratic\nAge: 65",
+        "answer": "Roy Cooper"
+    },
+    {
+        "question": "State: North Dakota\nParty: Republican\nAge: 65",
+        "answer": "Doug Burgum"
+    },
+    {
+        "question": "State: Ohio\nParty: Republican\nAge: 75",
+        "answer": "Mike DeWine"
+    },
+    {
+        "question": "State: Oklahoma\nParty: Republican\nAge: 49",
+        "answer": "Kevin Stitt"
+    },
+    {
+        "question": "State: Oregon\nParty: Democratic\nAge: 62",
+        "answer": "Katie Brown"
+    },
+    {
+        "question": "State: Pennsylvania\nParty: Democratic\nAge: 73",
+        "answer": "Tom Wolf"
+    },
+    {
+        "question": "State: Rhode Island\nParty: Democratic\nAge: 71",
+        "answer": "Dan McKee"
+    },
+    {
+        "question": "State: South Carolina\nParty: Republican\nAge: 75",
+        "answer": "Henry McMaster"
+    },
+    {
+        "question": "State: South Dakota\nParty: Republican\nAge: 50",
+        "answer": "Kristi Noem"
+    },
+    {
+        "question": "State: Tennessee\nParty: Republican\nAge: 62",
+        "answer": "Bill Lee"
+    },
+    {
+        "question": "State: Texas\nParty: Republican\nAge: 64",
+        "answer": "Greg Abbott"
+    },
+    {
+        "question": "State: Utah\nParty: Republican\nAge: 47",
+        "answer": "Spencer Cox"
+    },
+    {
+        "question": "State: Vermont\nParty: Republican\nAge: 63",
+        "answer": "Phil Scott"
+    },
+    {
+        "question": "State: Virginia\nParty: Republican\nAge: 55",
+        "answer": "Glenn Youngkin"
+    },
+    {
+        "question": "State: Washington\nParty: Democratic\nAge: 71",
+        "answer": "Jay Inslee"
+    },
+    {
+        "question": "State: West Virginia\nParty: Republican\nAge: 71",
+        "answer": "Jim Justice"
+    },
+    {
+        "question": "State: Wisconsin\nParty: Democratic\nAge: 70",
+        "answer": "Tony Evers"
+    },
+    {
+        "question": "State: Wyoming\nParty: Republican\nAge: 65",
+        "answer": "Mark Gordon"
+    }
+]

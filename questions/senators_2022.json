@@ -1,0 +1,402 @@
+[
+    {
+        "question": "State: Alabama\nParty: Republican\nGender: Male\nAge: 88\nAssumed Office: 1987",
+        "answer": "Richard Shelby"
+    },
+    {
+        "question": "State: Alabama\nParty: Republican\nGender: Male\nAge: 67\nAssumed Office: 2021",
+        "answer": "Tommy Tuberville"
+    },
+    {
+        "question": "State: Alaska\nParty: Republican\nGender: Female\nAge: 65\nAssumed Office: 2002",
+        "answer": "Lisa Murkowski"
+    },
+    {
+        "question": "State: Alaska\nParty: Republican\nGender: Male\nAge: 57\nAssumed Office: 2015",
+        "answer": "Dan Sullivan"
+    },
+    {
+        "question": "State: Arizona\nParty: Democratic\nGender: Female\nAge: 45\nAssumed Office: 2019",
+        "answer": "Kyrsten Sinema"
+    },
+    {
+        "question": "State: Arizona\nParty: Democratic\nGender: Male\nAge: 58\nAssumed Office: 2020",
+        "answer": "Mark Kelly"
+    },
+    {
+        "question": "State: Arkansas\nParty: Republican\nGender: Male\nAge: 71\nAssumed Office: 2011",
+        "answer": "John Boozman"
+    },
+    {
+        "question": "State: Arkansas\nParty: Republican\nGender: Male\nAge: 45\nAssumed Office: 1977",
+        "answer": "Tom Cotton"
+    },
+    {
+        "question": "State: California\nParty: Democratic\nGender: Female\nAge: 89\nAssumed Office: 1992",
+        "answer": "Diane Feinstein"
+    },
+    {
+        "question": "State: California\nParty: Democratic\nGender: Male\nAge: 49\nAssumed Office: 2021",
+        "answer": "Alex Padilla"
+    },
+    {
+        "question": "State: Colorado\nParty: Democratic\nGender: Male\nAge: 57\nAssumed Office: 2009",
+        "answer": "Michael Bennet"
+    },
+    {
+        "question": "State: Colorado\nParty: Democratic\nGender: Male\nAge: 70\nAssumed Office: 2021",
+        "answer": "John Hickenlooper"
+    },
+    {
+        "question": "State: Connecticut\nParty: Democratic\nGender: Male\nAge: 76\nAssumed Office: 2011",
+        "answer": "Richard Blumenthal"
+    },
+    {
+        "question": "State: Connecticut\nParty: Democratic\nGender: Male\nAge: 48\nAssumed Office: 2013",
+        "answer": "Chris Murphy"
+    },
+    {
+        "question": "State: Delaware\nParty: Democratic\nGender: Male\nAge: 75\nAssumed Office: 2001",
+        "answer": "Tom Carper"
+    },
+    {
+        "question": "State: Delaware\nParty: Democratic\nGender: Male\nAge: 58\nAssumed Office: 2010",
+        "answer": "Chris Coons"
+    },
+    {
+        "question": "State: Florida\nParty: Republican\nGender: Male\nAge: 51\nAssumed Office: 2011",
+        "answer": "Marco Rubio"
+    },
+    {
+        "question": "State: Florida\nParty: Republican\nGender: Male\nAge: 69\nAssumed Office: 2019",
+        "answer": "Rick Scott"
+    },
+    {
+        "question": "State: Georgia\nParty: Democratic\nGender: Male\nAge: 35\nAssumed Office: 2021",
+        "answer": "John Ossoff"
+    },
+    {
+        "question": "State: Georgia\nParty: Democratic\nGender: Male\nAge: 52\nAssumed Office: 2021",
+        "answer": "Raphael Warnock"
+    },
+    {
+        "question": "State: Hawaii\nParty: Democratic\nGender: Male\nAge: 49\nAssumed Office: 2012",
+        "answer": "Brian Schatz"
+    },
+    {
+        "question": "State: Hawaii\nParty: Democratic\nGender: Female\nAge: 74\nAssumed Office: 2013",
+        "answer": "Mazie Hirono"
+    },
+    {
+        "question": "State: Idaho\nParty: Republican\nGender: Male\nAge: 71\nAssumed Office: 1999",
+        "answer": "Mike Crapo"
+    },
+    {
+        "question": "State: Idaho\nParty: Republican\nGender: Male\nAge: 79\nAssumed Office: 2009",
+        "answer": "Jim Risch"
+    },
+    {
+        "question": "State: Illinois\nParty: Democratic\nGender: Male\nAge: 77\nAssumed Office: 1997",
+        "answer": "Dick Durbin"
+    },
+    {
+        "question": "State: Illinois\nParty: Democratic\nGender: Female\nAge: 54\nAssumed Office: 2017",
+        "answer": "Tammy Duckworth"
+    },
+    {
+        "question": "State: Indiana\nParty: Republican\nGender: Male\nAge: 49\nAssumed Office: 2017",
+        "answer": "Todd Young"
+    },
+    {
+        "question": "State: Indiana\nParty: Republican\nGender: Male\nAge: 68\nAssumed Office: 2019",
+        "answer": "Mike Braun"
+    },
+    {
+        "question": "State: Iowa\nParty: Republican\nGender: Male\nAge: 88\nAssumed Office: 1981",
+        "answer": "Chuck Grassley"
+    },
+    {
+        "question": "State: Iowa\nParty: Republican\nGender: Female\nAge: 52\nAssumed Office: 2015",
+        "answer": "Joni Ernst"
+    },
+    {
+        "question": "State: Kansas\nParty: Republican\nGender: Male\nAge: 68\nAssumed Office: 2011",
+        "answer": "Jerry Moran"
+    },
+    {
+        "question": "State: Kansas\nParty: Republican\nGender: Male\nAge: 61\nAssumed Office: 2021",
+        "answer": "Roger Marshall"
+    },
+    {
+        "question": "State: Kentucky\nParty: Republican\nGender: Male\nAge: 80\nAssumed Office: 1985",
+        "answer": "Mitch McConnell"
+    },
+    {
+        "question": "State: Kentucky\nParty: Republican\nGender: Male\nAge: 59\nAssumed Office: 2011",
+        "answer": "Rand Paul"
+    },
+    {
+        "question": "State: Louisiana\nParty: Republican\nGender: Male\nAge: 64\nAssumed Office: 2015",
+        "answer": "Bill Cassidy"
+    },
+    {
+        "question": "State: Louisiana\nParty: Republican\nGender: Male\nAge: 70\nAssumed Office: 2017",
+        "answer": "John Kennedy"
+    },
+    {
+        "question": "State: Maine\nParty: Republican\nGender: Female\nAge: 69\nAssumed Office: 1997",
+        "answer": "Susan Collins"
+    },
+    {
+        "question": "State: Maine\nParty: Independent\nGender: Male\nAge: 78\nAssumed Office: 2013",
+        "answer": "Angus King"
+    },
+    {
+        "question": "State: Maryland\nParty: Democratic\nGender: Male\nAge: 78\nAssumed Office: 2007",
+        "answer": "Ben Cardin"
+    },
+    {
+        "question": "State: Maryland\nParty: Democratic\nGender: Male\nAge: 63\nAssumed Office: 2017",
+        "answer": "Chris Van Hollen"
+    },
+    {
+        "question": "State: Massachusetts\nParty: Democratic\nGender: Female\nAge: 73\nAssumed Office: 2013",
+        "answer": "Elizabeth Warren"
+    },
+    {
+        "question": "State: Massachusetts\nParty: Democratic\nGender: Male\nAge: 75\nAssumed Office: 2013",
+        "answer": "Ed Markey"
+    },
+    {
+        "question": "State: Michigan\nParty: Democratic\nGender: Female\nAge: 72\nAssumed Office: 2001",
+        "answer": "Debbie Stabenow"
+    },
+    {
+        "question": "State: Michigan\nParty: Democratic\nGender: Male\nAge: 63\nAssumed Office: 2015",
+        "answer": "Gary Peters"
+    },
+    {
+        "question": "State: Minnesota\nParty: Democratic\nGender: Female\nAge: 62\nAssumed Office: 2007",
+        "answer": "Amy Klobuchar"
+    },
+    {
+        "question": "State: Minnesota\nParty: Democratic\nGender: Female\nAge: 64\nAssumed Office: 2018",
+        "answer": "Tina Smith"
+    },
+    {
+        "question": "State: Mississippi\nParty: Republican\nGender: Male\nAge: 71\nAssumed Office: 2007",
+        "answer": "Roger Wicker"
+    },
+    {
+        "question": "State: Mississippi\nParty: Republican\nGender: Female\nAge: 63\nAssumed Office: 2018",
+        "answer": "Cindy Hyde-Smith"
+    },
+    {
+        "question": "State: Missouri\nParty: Republican\nGender: Male\nAge: 72\nAssumed Office: 2011",
+        "answer": "Roy Blunt"
+    },
+    {
+        "question": "State: Missouri\nParty: Republican\nGender: Male\nAge: 42\nAssumed Office: 2019",
+        "answer": "Josh Hawley"
+    },
+    {
+        "question": "State: Montana\nParty: Democratic\nGender: Male\nAge: 65\nAssumed Office: 2007",
+        "answer": "Jon Tester"
+    },
+    {
+        "question": "State: Montana\nParty: Republican\nGender: Male\nAge: 59\nAssumed Office: 2015",
+        "answer": "Steve Daines"
+    },
+    {
+        "question": "State: Nebraska\nParty: Republican\nGender: Female\nAge: 71\nAssumed Office: 2013",
+        "answer": "Deb Fischer"
+    },
+    {
+        "question": "State: Nebraska\nParty: Republican\nGender: Male\nAge: 50\nAssumed Office: 2015",
+        "answer": "Ben Sasse"
+    },
+    {
+        "question": "State: Nevada\nParty: Democratic\nGender: Female\nAge: 58\nAssumed Office: 2017",
+        "answer": "Catherine Cortez Masto"
+    },
+    {
+        "question": "State: Nevada\nParty: Democratic\nGender: Female\nAge: 64\nAssumed Office: 2019",
+        "answer": "Jacky Rosen"
+    },
+    {
+        "question": "State: New Hampshire\nParty: Democratic\nGender: Female\nAge: 75\nAssumed Office: 2009",
+        "answer": "Jeanne Shaheen"
+    },
+    {
+        "question": "State: New Hampshire\nParty: Democratic\nGender: Female\nAge: 64\nAssumed Office: 2017",
+        "answer": "Maggie Hassan"
+    },
+    {
+        "question": "State: New Jersey\nParty: Democratic\nGender: Male\nAge: 68\nAssumed Office: 2006",
+        "answer": "Bob Menendez"
+    },
+    {
+        "question": "State: New Jersey\nParty: Democratic\nGender: Male\nAge: 53\nAssumed Office: 2013",
+        "answer": "Cory Booker"
+    },
+    {
+        "question": "State: New Mexico\nParty: Democratic\nGender: Male\nAge: 50\nAssumed Office: 2013",
+        "answer": "Martin Heinrich"
+    },
+    {
+        "question": "State: New Mexico\nParty: Democratic\nGender: Male\nAge: 50\nAssumed Office: 2021",
+        "answer": "Ben Ray Lujan"
+    },
+    {
+        "question": "State: New York\nParty: Democratic\nGender: Male\nAge: 71\nAssumed Office: 1999",
+        "answer": "Chuck Schumer"
+    },
+    {
+        "question": "State: New York\nParty: Democratic\nGender: Male\nAge: 55\nAssumed Office: 2009",
+        "answer": "Kirsten Gillibrand"
+    },
+    {
+        "question": "State: North Carolina\nParty: Republican\nGender: Male\nAge: 66\nAssumed Office: 2005",
+        "answer": "Richard Burr"
+    },
+    {
+        "question": "State: North Carolina\nParty: Republican\nGender: Male\nAge: 61\nAssumed Office: 2015",
+        "answer": "Thom Tillis"
+    },
+    {
+        "question": "State: North Dakota\nParty: Republican\nGender: Male\nAge: 65\nAssumed Office: 2011",
+        "answer": "John Hoeven"
+    },
+    {
+        "question": "State: North Dakota\nParty: Republican\nGender: Male\nAge: 61\nAssumed Office: 2019",
+        "answer": "Kevin Cramer"
+    },
+    {
+        "question": "State: Ohio\nParty: Democratic\nGender: Male\nAge: 69\nAssumed Office: 2007",
+        "answer": "Sherrod Brown"
+    },
+    {
+        "question": "State: Ohio\nParty: Republican\nGender: Male\nAge: 66\nAssumed Office: 2011",
+        "answer": "Rob Portman"
+    },
+    {
+        "question": "State: Oklahoma\nParty: Republican\nGender: Male\nAge: 87\nAssumed Office: 1994",
+        "answer": "Jim Inhofe"
+    },
+    {
+        "question": "State: Oklahoma\nParty: Republican\nGender: Male\nAge: 54\nAssumed Office: 2015",
+        "answer": "James Lankford"
+    },
+    {
+        "question": "State: Oregon\nParty: Democratic\nGender: Male\nAge: 73\nAssumed Office: 1996",
+        "answer": "Ron Wyden"
+    },
+    {
+        "question": "State: Oregon\nParty: Democratic\nGender: Male\nAge: 65\nAssumed Office: 2009",
+        "answer": "Jeff Merkley"
+    },
+    {
+        "question": "State: Pennsylvania\nParty: Democratic\nGender: Male\nAge: 62\nAssumed Office: 2007",
+        "answer": "Bob Casey Jr."
+    },
+    {
+        "question": "State: Pennsylvania\nParty: Republican\nGender: Male\nAge: 60\nAssumed Office: 2011",
+        "answer": "Pat Toomey"
+    },
+    {
+        "question": "State: Rhode Island\nParty: Democratic\nGender: Male\nAge: 72\nAssumed Office: 1997",
+        "answer": "Jack Reed"
+    },
+    {
+        "question": "State: Rhode Island\nParty: Democratic\nGender: Male\nAge: 66\nAssumed Office: 2007",
+        "answer": "Sheldon Whitehouse"
+    },
+    {
+        "question": "State: South Carolina\nParty: Republican\nGender: Male\nAge: 67\nAssumed Office: 2003",
+        "answer": "Lindsey Graham"
+    },
+    {
+        "question": "State: South Carolina\nParty: Republican\nGender: Male\nAge: 56\nAssumed Office: 2013",
+        "answer": "Tim Scott"
+    },
+    {
+        "question": "State: South Dakota\nParty: Republican\nGender: Male\nAge: 61\nAssumed Office: 2005",
+        "answer": "John Thune"
+    },
+    {
+        "question": "State: South Dakota\nParty: Republican\nGender: Male\nAge: 67\nAssumed Office: 2015",
+        "answer": "Mike Rounds"
+    },
+    {
+        "question": "State: Tennessee\nParty: Republican\nGender: Female\nAge: 70\nAssumed Office: 2019",
+        "answer": "Marsha Blackburn"
+    },
+    {
+        "question": "State: Tennessee\nParty: Republican\nGender: Male\nAge: 62\nAssumed Office: 2021",
+        "answer": "Bill Hagerty"
+    },
+    {
+        "question": "State: Texas\nParty: Republican\nGender: Male\nAge: 70\nAssumed Office: 2002",
+        "answer": "John Cornyn"
+    },
+    {
+        "question": "State: Texas\nParty: Republican\nGender: Male\nAge: 51\nAssumed Office: 2013",
+        "answer": "Ted Cruz"
+    },
+    {
+        "question": "State: Utah\nParty: Republican\nGender: Male\nAge: 51\nAssumed Office: 2011",
+        "answer": "Mike Lee"
+    },
+    {
+        "question": "State: Utah\nParty: Republican\nGender: Male\nAge: 75\nAssumed Office: 2019",
+        "answer": "Mitt Romney"
+    },
+    {
+        "question": "State: Vermont\nParty: Democratic\nGender: Male\nAge: 82\nAssumed Office: 1975",
+        "answer": "Patrick Leahy"
+    },
+    {
+        "question": "State: Vermont\nParty: Independent\nGender: Male\nAge: 80\nAssumed Office: 2007",
+        "answer": "Bernie Sanders"
+    },
+    {
+        "question": "State: Virginia\nParty: Democratic\nGender: Male\nAge: 67\nAssumed Office: 2009",
+        "answer": "Mark Warner"
+    },
+    {
+        "question": "State: Virginia\nParty: Democratic\nGender: Male\nAge: 64\nAssumed Office: 2013",
+        "answer": "Tim Kaine"
+    },
+    {
+        "question": "State: Washington\nParty: Democratic\nGender: Female\nAge: 71\nAssumed Office: 1993",
+        "answer": "Patty Murray"
+    },
+    {
+        "question": "State: Washington\nParty: Democratic\nGender: Female\nAge: 63\nAssumed Office: 2001",
+        "answer": "Maria Cantwell"
+    },
+    {
+        "question": "State: West Virginia\nParty: Democratic\nGender: Male\nAge: 74\nAssumed Office: 2010",
+        "answer": "Joe Manchin"
+    },
+    {
+        "question": "State: West Virginia\nParty: Republican\nGender: Female\nAge: 68\nAssumed Office: 2015",
+        "answer": "Shelley Moore Capito"
+    },
+    {
+        "question": "State: Wisconsin\nParty: Republican\nGender: Male\nAge: 67\nAssumed Office: 2011",
+        "answer": "Ron Johnson"
+    },
+    {
+        "question": "State: Wisconsin\nParty: Democratic\nGender: Female\nAge: 60\nAssumed Office: 2013",
+        "answer": "Tammy Baldwin"
+    },
+    {
+        "question": "State: Wyoming\nParty: Republican\nGender: Male\nAge: 69\nAssumed Office: 2007",
+        "answer": "John Barrasso"
+    },
+    {
+        "question": "State: Wyoming\nParty: Republican\nGender: Female\nAge: 67\nAssumed Office: 2021",
+        "answer": "Cynthia Lummis"
+    }
+]
