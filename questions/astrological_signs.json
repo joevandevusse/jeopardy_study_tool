@@ -1,0 +1,50 @@
+[
+  {
+    "question": "Goat\nDecember 22 - January 19",
+    "answer": "Capricornus"
+  },
+  {
+    "question": "Water Bearer\nJanuary 20 - February 18",
+    "answer": "Aquarius"
+  },
+  {
+    "question": "Fish\nFebruary 19 - March 20",
+    "answer": "Pisces"
+  },
+  {
+    "question": "Ram\nMarch 21 - April 19",
+    "answer": "Ares"
+  },
+  {
+    "question": "Bull\nApril 20 - May 20",
+    "answer": "Taurus"
+  },
+  {
+    "question": "Twins\nMay 21 - June 21",
+    "answer": "Gemini"
+  },
+  {
+    "question": "Crab\nJune 22 - July 22",
+    "answer": "Cancer"
+  },
+  {
+    "question": "Lion\nJuly 23 - August 22",
+    "answer": "Leo"
+  },
+  {
+    "question": "Virgin\nAugust 23 - September 22",
+    "answer": "Virgo"
+  },
+  {
+    "question": "Balance\nSeptember 23 - October 23",
+    "answer": "Libra"
+  },
+  {
+    "question": "Scorpion\nOctober 24 - November 21",
+    "answer": "Scorpius"
+  },
+  {
+    "question": "Archer\nNovember 22 - December 21",
+    "answer": "Sagittarius"
+  }
+]

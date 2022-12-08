@@ -39,7 +39,8 @@ showRandomClue = (randomClue) => {
   currentQuestion.category = randomClue.category.title.toUpperCase();;
   currentQuestion.answer = randomClue.answer
     .replaceAll("<i>", "")
-    .replaceAll("</i>", "");
+    .replaceAll("</i>", "")
+    .replaceAll("\', '");
   value.innerText = "$" + randomClue.value;
   year.innerText = randomClue.airdate.substring(0, 4);
   acceptingAnswers = true;
@@ -104,6 +105,8 @@ sanitizeAnswer = dirtyAnswer => {
     .replaceAll("a ", "")
     .replaceAll("the ", "")
     .replaceAll("&", "")
+    .replaceAll("\"", "")
+    .replaceAll("\'", "")
     .toLowerCase();
   return answerStripped;
 }
