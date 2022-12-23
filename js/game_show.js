@@ -160,36 +160,52 @@ class TriviaGameShow {
         this.revealAnswer(isPass, isCorrect);
     }
 
-    cleanseAnswer(input) {
-        var friendlyAnswer = input.toLowerCase();
-        friendlyAnswer = friendlyAnswer.replaceAll("<i>", "");
-        friendlyAnswer = friendlyAnswer.replaceAll("</i>", "");
+    cleanseAnswer(dirtyAnswer) {
+        //var friendlyAnswer = input.toLowerCase();
+        //friendlyAnswer = friendlyAnswer.replaceAll("<i>", "");
+        //friendlyAnswer = friendlyAnswer.replaceAll("</i>", "");
         // Remove spaces
-        friendlyAnswer.replace(/"/g, "");
+        //friendlyAnswer.replace(/"/g, "");
         // Remove "a" article
-        friendlyAnswer = friendlyAnswer.replace(/^a /, "");
+        //friendlyAnswer = friendlyAnswer.replace(/^a /, "");
         // Remove "an" article
-        friendlyAnswer = friendlyAnswer.replace(/^an /, "");  
+        //friendlyAnswer = friendlyAnswer.replace(/^an /, "");  
         // Remove "the" article
-        friendlyAnswer = friendlyAnswer.replace(/^the /, "");  
+        //friendlyAnswer = friendlyAnswer.replace(/^the /, "");  
         // Remove quotes
-        friendlyAnswer = friendlyAnswer.replaceAll("\"", "");
-        friendlyAnswer = friendlyAnswer.replaceAll("\'", "");
+        //friendlyAnswer = friendlyAnswer.replaceAll("\"", "");
+        //friendlyAnswer = friendlyAnswer.replaceAll("\'", "");
         // Remove parens
         //friendlyAnswer = friendlyAnswer.replaceAll("(", "");
         //friendlyAnswer = friendlyAnswer.replaceAll(")", "");
         // Remove optional text between parens
-        friendlyAnswer = friendlyAnswer.replaceAll(/ *\([^)]*\) */g, "");
+        //friendlyAnswer = friendlyAnswer.replaceAll(/ *\([^)]*\) */g, "");
         // Remove pariods, commas, and hyphens
-        friendlyAnswer = friendlyAnswer.replaceAll(".", "");
-        friendlyAnswer = friendlyAnswer.replaceAll(",", "");
-        friendlyAnswer = friendlyAnswer.replaceAll("-", "");
+        //friendlyAnswer = friendlyAnswer.replaceAll(".", "");
+        //friendlyAnswer = friendlyAnswer.replaceAll(",", "");
+        //friendlyAnswer = friendlyAnswer.replaceAll("-", "");
         // Remove ampersands
-        friendlyAnswer = friendlyAnswer.replaceAll("&", "");
+        //friendlyAnswer = friendlyAnswer.replaceAll("&", "");
         //console.log(friendlyAnswer);
         // Replace accented e
-        friendlyAnswer = friendlyAnswer.replaceAll("é", "e");
-        return friendlyAnswer.trim();
+        //friendlyAnswer = friendlyAnswer.replaceAll("é", "e");
+        const answerStripped = dirtyAnswer
+          .replaceAll(" ", "")
+          .replaceAll(".", "")
+          .replaceAll(",", "")
+          .replaceAll("(", "")
+          .replaceAll(")", "")
+          .replaceAll("'", "")
+          .replaceAll("-", "")
+          .replaceAll("!", "")
+          .replaceAll("?", "")
+          .replaceAll("a ", "")
+          .replaceAll("the ", "")
+          .replaceAll("&", "")
+          .replaceAll("\"", "")
+          .replaceAll("\'", "")
+          .toLowerCase();
+        return answerStripped;
     }
 
     revealAnswer(isPass, isCorrect) {

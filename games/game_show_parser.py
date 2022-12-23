@@ -135,13 +135,16 @@ def write_to_file(game_number, json_data):
 
 def main():
     # Usage: ./j_archive parser <first game number> <last game number>
-    if len(sys.argv) != 3:
-        print("Usage: ./j_archive parser <first game number> <last game number>")
+    if len(sys.argv) != 3 and len(sys.argv) != 2:
+        print("Usage: ./j_archive parser required: <first game number> optional: <last game number>")
         return
 
     # Get clues for each game
     cur_game_number = int(sys.argv[1])
-    max_game_number = int(sys.argv[2])
+    if len(sys.argv) == 3:
+        max_game_number = int(sys.argv[2])
+    else: 
+        max_game_number = cur_game_number
 
     # Get JSON games and write them to files
     while cur_game_number <= max_game_number:
