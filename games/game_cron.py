@@ -1,18 +1,47 @@
-#!/usr/bin/python3
-
+import sys
+import os
 from bs4 import BeautifulSoup as soup
 from urllib.request import urlopen as u_req
-import pprint
+from datetime import date
 import json
-import sys
 import math
 
-# Initialize pretty printer
-pp = pprint.PrettyPrinter(indent = 4)
+def check_cur_date():
+	current_season = 39
+
+	# J! Archive URL
+	url = "https://www.j-archive.com/showseason.php?season=" + str(current_season)
+
+	# Open connection
+	u_client = u_req(url)
+
+	# Get source html and parse with soup
+	page_html = u_client.read()
+	u_client.close()
+	page_soup = soup(page_html, "html.parser")
+
+	# Get most recent game date
+	dates = page_soup.findAll("td")
+	most_recent_game = dates[0].findAll("a")
+	most_recent_game_string = str(most_recent_game)
+	air_date_dirty = most_recent_game_string.split()[5]
+	air_date_clean = air_date_dirty[0:10]
+
+	# Get current date
+	cur_date = str(date.today())
+
+	# Get link to game
+	game_number = most_recent_game_string.split()[1][-5:-1]
+
+	if cur_date == air_date_clean:
+		return game_number
+	else:
+		return None
+
 
 # Return clue objects for each clue in the inputted game
 def get_clues_per_game(game_number):
-    print(game_number)
+    #print(game_number)
     # JSON to return
     game_JSON = {}
     game_JSON["categories_sj"] = []
@@ -123,33 +152,24 @@ def get_clues_per_game(game_number):
     add_clue_fj["is_dd"] = False
     game_JSON["clues_fj"]["0-0"] = add_clue_fj
 
-    #pp.pprint(game_JSON)
     return game_JSON
 
 def write_to_file(game_number, json_data):
     game_number_str= str(game_number)
     file_name = game_number_str + ".json"
-    with open(file_name, "w") as output_file:
+    directory = "/Users/joevandevusse/Documents/Development/Jeopardy/jeopardy_study_tool/games/"
+    full_file_name = directory + file_name
+    with open(full_file_name, "w") as output_file:
         json.dump(json_data, output_file)
 
-
 def main():
-    if len(sys.argv) != 3 and len(sys.argv) != 2:
-        print("Usage: ./game_show_parser required: <first game number> optional: <last game number>")
-        return
+    # Cron expression (Mac command: crontab -e to edit, crontab -l to list)
+    # 30 19 * * * PYTHONPATH=/Users/joevandevusse/opt/anaconda3/lib/python3.9/site-packages 
+    # python3 /Users/joevandevusse/Documents/Development/Jeopardy/jeopardy_study_tool/games/game_cron.py
+    most_recent_game_number = check_cur_date()
+    if most_recent_game_number is not None:
+        json_to_write = get_clues_per_game(most_recent_game_number)
+        write_to_file(most_recent_game_number, json_to_write)
 
-    # Get clues for each game
-    cur_game_number = int(sys.argv[1])
-    if len(sys.argv) == 3:
-        max_game_number = int(sys.argv[2])
-    else: 
-        max_game_number = cur_game_number
-
-    # Get JSON games and write them to files
-    while cur_game_number <= max_game_number:
-        json_data = get_clues_per_game(cur_game_number)
-        write_to_file(cur_game_number, json_data)
-        cur_game_number += 1
-
-if __name__ == "__main__":
-    main()
+if __name__ == '__main__':
+  main()
