@@ -161,50 +161,53 @@ class TriviaGameShow {
     }
 
     cleanseAnswer(dirtyAnswer) {
-        //var friendlyAnswer = input.toLowerCase();
-        //friendlyAnswer = friendlyAnswer.replaceAll("<i>", "");
-        //friendlyAnswer = friendlyAnswer.replaceAll("</i>", "");
-        // Remove spaces
-        //friendlyAnswer.replace(/"/g, "");
-        // Remove "a" article
-        //friendlyAnswer = friendlyAnswer.replace(/^a /, "");
-        // Remove "an" article
-        //friendlyAnswer = friendlyAnswer.replace(/^an /, "");  
-        // Remove "the" article
-        //friendlyAnswer = friendlyAnswer.replace(/^the /, "");  
-        // Remove quotes
-        //friendlyAnswer = friendlyAnswer.replaceAll("\"", "");
-        //friendlyAnswer = friendlyAnswer.replaceAll("\'", "");
-        // Remove parens
-        //friendlyAnswer = friendlyAnswer.replaceAll("(", "");
-        //friendlyAnswer = friendlyAnswer.replaceAll(")", "");
-        // Remove optional text between parens
-        //friendlyAnswer = friendlyAnswer.replaceAll(/ *\([^)]*\) */g, "");
-        // Remove pariods, commas, and hyphens
-        //friendlyAnswer = friendlyAnswer.replaceAll(".", "");
-        //friendlyAnswer = friendlyAnswer.replaceAll(",", "");
-        //friendlyAnswer = friendlyAnswer.replaceAll("-", "");
-        // Remove ampersands
-        //friendlyAnswer = friendlyAnswer.replaceAll("&", "");
-        //console.log(friendlyAnswer);
-        // Replace accented e
-        //friendlyAnswer = friendlyAnswer.replaceAll("é", "e");
-        const answerStripped = dirtyAnswer
-          .replaceAll(" ", "")
-          .replaceAll(".", "")
-          .replaceAll(",", "")
-          .replaceAll("(", "")
-          .replaceAll(")", "")
-          .replaceAll("'", "")
-          .replaceAll("-", "")
-          .replaceAll("!", "")
-          .replaceAll("?", "")
-          .replaceAll("a ", "")
-          .replaceAll("the ", "")
-          .replaceAll("&", "")
-          .replaceAll("\"", "")
-          .replaceAll("\'", "")
-          .toLowerCase();
+      console.log(dirtyAnswer);
+      //var friendlyAnswer = input.toLowerCase();
+      //friendlyAnswer = friendlyAnswer.replaceAll("<i>", "");
+      //friendlyAnswer = friendlyAnswer.replaceAll("</i>", "");
+      // Remove spaces
+      //friendlyAnswer.replace(/"/g, "");
+      // Remove "a" article
+      //friendlyAnswer = friendlyAnswer.replace(/^a /, "");
+      // Remove "an" article
+      //friendlyAnswer = friendlyAnswer.replace(/^an /, "");  
+      // Remove "the" article
+      //friendlyAnswer = friendlyAnswer.replace(/^the /, "");  
+      // Remove quotes
+      //friendlyAnswer = friendlyAnswer.replaceAll("\"", "");
+      //friendlyAnswer = friendlyAnswer.replaceAll("\'", "");
+      // Remove parens
+      //friendlyAnswer = friendlyAnswer.replaceAll("(", "");
+      //friendlyAnswer = friendlyAnswer.replaceAll(")", "");
+      // Remove optional text between parens
+      //friendlyAnswer = friendlyAnswer.replaceAll(/ *\([^)]*\) */g, "");
+      // Remove pariods, commas, and hyphens
+      //friendlyAnswer = friendlyAnswer.replaceAll(".", "");
+      //friendlyAnswer = friendlyAnswer.replaceAll(",", "");
+      //friendlyAnswer = friendlyAnswer.replaceAll("-", "");
+      // Remove ampersands
+      //friendlyAnswer = friendlyAnswer.replaceAll("&", "");
+      //console.log(friendlyAnswer);
+      // Replace accented e
+      //friendlyAnswer = friendlyAnswer.replaceAll("é", "e");
+      const answerStripped = dirtyAnswer
+        .replaceAll(".", "")
+        .replaceAll(",", "")
+        .replaceAll("(", "")
+        .replaceAll(")", "")
+        .replaceAll("'", "")
+        .replaceAll("-", "")
+        .replaceAll("!", "")
+        .replaceAll("?", "")
+        .replaceAll("a ", "")
+        .replaceAll("an ", "")
+        .replaceAll("the ", "")
+        .replaceAll("&", "")
+        .replaceAll("\"", "")
+        .replaceAll("\'", "")
+        .replaceAll(" ", "")
+        .toLowerCase();
+        console.log(answerStripped);
         return answerStripped;
     }
 
@@ -280,7 +283,12 @@ getGame = (gameId) =>  {
                     var choppedDown2 = choppedDown.substring(answerLoc + 1);
                     var endOfAnswerLoc = choppedDown2.indexOf("</em>")
                     var finalChop = choppedDown2.substring(0, endOfAnswerLoc);
-                    var cleanAnswer = finalChop.replaceAll("&quot;", "\"").replaceAll("<i>", "").replaceAll("</i>", "").replaceAll("\\", "").replaceAll("&amp;", "&");
+                    var cleanAnswer = finalChop
+                      .replaceAll("&quot;", "\"")
+                      .replaceAll("<i>", "")
+                      .replaceAll("</i>", "")
+                      .replaceAll("\\", "")
+                      .replaceAll("&amp;", "&");
                     answerCount += 1
                     if (answerCount % 2 == 1) {
                         clue_answers.push(cleanAnswer);

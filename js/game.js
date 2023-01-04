@@ -120,6 +120,24 @@ document.onkeydown = function (e) {
 }
 
 sanitizeAnswer = dirtyAnswer => {
-    const userAnswerStripped = dirtyAnswer.replaceAll(" ", "").replaceAll(".", "").replaceAll(",", "").replaceAll("(", "").replaceAll(")", "").replaceAll("'", "").replaceAll("-", "").replaceAll("!", "").replaceAll("?", "").toLowerCase();
+    const userAnswerStripped = dirtyAnswer
+      .replaceAll(".", "")
+      .replaceAll("(", "")
+      .replaceAll(")", "")
+      .replaceAll(",", "")
+      .replaceAll("(", "")
+      .replaceAll(")", "")
+      .replaceAll("'", "")
+      .replaceAll("-", "")
+      .replaceAll("!", "")
+      .replaceAll("?", "")
+      .replaceAll("a ", "")
+      .replaceAll("an ", "")
+      .replaceAll("the ", "")
+      .replaceAll("&", "")
+      .replaceAll("\"", "")
+      .replaceAll("\'", "")
+      .replaceAll(" ", "")
+      .toLowerCase();
     return userAnswerStripped;
 }

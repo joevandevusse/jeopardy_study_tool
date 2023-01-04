@@ -93,7 +93,6 @@ document.onkeydown = function (e) {
 
 sanitizeAnswer = dirtyAnswer => {
   const answerStripped = dirtyAnswer
-    .replaceAll(" ", "")
     .replaceAll(".", "")
     .replaceAll(",", "")
     .replaceAll("(", "")
@@ -103,10 +102,12 @@ sanitizeAnswer = dirtyAnswer => {
     .replaceAll("!", "")
     .replaceAll("?", "")
     .replaceAll("a ", "")
+    .replaceAll("an ", "")
     .replaceAll("the ", "")
     .replaceAll("&", "")
     .replaceAll("\"", "")
     .replaceAll("\'", "")
+    .replaceAll(" ", "")
     .toLowerCase();
   return answerStripped;
 }
