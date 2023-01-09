@@ -42,7 +42,7 @@ class TriviaGameShow {
         })
 
         this.formElement.addEventListener("submit", event => {
-            this.handleFormSubmit(event);
+            this.handleFormSubmit(event, round);
         })
     }
 
@@ -138,6 +138,7 @@ class TriviaGameShow {
         this.inputElement.focus();
     }
 
+    // Currently not working
     handleFinalJeopardy() {
         // Just like the above method
         var clue = this.clues["0-0"];
@@ -150,46 +151,72 @@ class TriviaGameShow {
         this.inputElement.focus();
     }
 
-    handleFormSubmit(event) {
+    handleFormSubmit(event, round) {
         event.preventDefault();
         var isPass = this.inputElement.value === "";
-        var isCorrect = this.cleanseAnswer(this.inputElement.value) === this.cleanseAnswer(this.currentClue.answer);
-        this.updateScore(this.currentClue.value, isPass, isCorrect);
+        var isCorrect = this.checkCorrectness(this.inputElement.value, this.currentClue.answer);
+        var valueToPass = this.currentClue.value;
+        // For some reason, update is called twice in Double Jeopardy
+        // Setting this to 0 only affects one of the 2 calls fixing the issue
+        // Note - I'd like to make this cleaner at some point
+        if (round === "dj") {
+          valueToPass = 0;
+        }
+        this.updateScore(valueToPass, isPass, isCorrect);
 
         // Show answer
         this.revealAnswer(isPass, isCorrect);
     }
 
+    checkCorrectness(userAnswer, correctAnswer) {
+      var userAnswerStripped = this.cleanseAnswer(userAnswer);
+      var correctAnswerStripped = this.cleanseAnswer(correctAnswer);
+      // If normal or stripped are equal, return true
+      if (userAnswer === correctAnswer || userAnswerStripped === correctAnswerStripped) {
+        return true;
+      }
+      // Check parentheses
+      if (correctAnswer.includes("(") && correctAnswer.includes(")")) {
+        // Parentheses to start answer
+        if (correctAnswer.indexOf("(") === 0) {
+          var correctAnswerNoParentheses = correctAnswer.substring(correctAnswer.indexOf(")") + 1);
+          var noParensStripped = this.cleanseAnswer(correctAnswerNoParentheses);
+          if (userAnswer === correctAnswerNoParentheses || userAnswerStripped === noParensStripped) {
+            return true;
+          }
+        } else if (correctAnswer.indexOf(")") === correctAnswer.length - 1) {
+          // Parentheses to end answer
+          var correctAnswerNoParentheses = correctAnswer.substring(0, correctAnswer.indexOf("("));
+          var noParensStripped = this.cleanseAnswer(correctAnswerNoParentheses);
+          if (userAnswer === correctAnswerNoParentheses || userAnswerStripped === noParensStripped) {
+            return true;
+          }
+        }
+      }
+      // Names (with 2 words at least)
+      if (correctAnswer.split(" ").length === 2 || userAnswer.split(" ").length === 2) {
+        if (correctAnswer.split(" ").length === 2 && userAnswer.split(" ").length === 1) {
+          var correctPart1 = correctAnswer.split(" ")[0];
+          var correctPart1Stripped = this.cleanseAnswer(correctPart1);
+          var correctPart2 = correctAnswer.split(" ")[1];
+          var correctPart2Stripped = this.cleanseAnswer(correctPart2);
+          if (userAnswerStripped === correctPart1Stripped || userAnswerStripped === correctPart2Stripped) {
+            return true;
+          }
+        } else if (userAnswer.split(" ").length === 2 && correctAnswer.split(" ").length === 1) {
+          var userPart1 = userAnswer.split(" ")[0];
+          var userPart1Stripped = this.cleanseAnswer(userPart1);
+          var userPart2 = userAnswer.split(" ")[1];
+          var userPart2Stripped = this.cleanseAnswer(userPart2);
+          if (correctAnswerStripped === userPart1Stripped || correctAnswerStripped === userPart2Stripped) {
+            return true;
+          }
+        }
+      }
+      return false;
+    }
+
     cleanseAnswer(dirtyAnswer) {
-      console.log(dirtyAnswer);
-      //var friendlyAnswer = input.toLowerCase();
-      //friendlyAnswer = friendlyAnswer.replaceAll("<i>", "");
-      //friendlyAnswer = friendlyAnswer.replaceAll("</i>", "");
-      // Remove spaces
-      //friendlyAnswer.replace(/"/g, "");
-      // Remove "a" article
-      //friendlyAnswer = friendlyAnswer.replace(/^a /, "");
-      // Remove "an" article
-      //friendlyAnswer = friendlyAnswer.replace(/^an /, "");  
-      // Remove "the" article
-      //friendlyAnswer = friendlyAnswer.replace(/^the /, "");  
-      // Remove quotes
-      //friendlyAnswer = friendlyAnswer.replaceAll("\"", "");
-      //friendlyAnswer = friendlyAnswer.replaceAll("\'", "");
-      // Remove parens
-      //friendlyAnswer = friendlyAnswer.replaceAll("(", "");
-      //friendlyAnswer = friendlyAnswer.replaceAll(")", "");
-      // Remove optional text between parens
-      //friendlyAnswer = friendlyAnswer.replaceAll(/ *\([^)]*\) */g, "");
-      // Remove pariods, commas, and hyphens
-      //friendlyAnswer = friendlyAnswer.replaceAll(".", "");
-      //friendlyAnswer = friendlyAnswer.replaceAll(",", "");
-      //friendlyAnswer = friendlyAnswer.replaceAll("-", "");
-      // Remove ampersands
-      //friendlyAnswer = friendlyAnswer.replaceAll("&", "");
-      //console.log(friendlyAnswer);
-      // Replace accented e
-      //friendlyAnswer = friendlyAnswer.replaceAll("é", "e");
       const answerStripped = dirtyAnswer
         .replaceAll(".", "")
         .replaceAll(",", "")
@@ -202,12 +229,13 @@ class TriviaGameShow {
         .replaceAll("a ", "")
         .replaceAll("an ", "")
         .replaceAll("the ", "")
+        .replaceAll("to ", "")
+        .replaceAll("and ", "")
         .replaceAll("&", "")
         .replaceAll("\"", "")
         .replaceAll("\'", "")
         .replaceAll(" ", "")
         .toLowerCase();
-        console.log(answerStripped);
         return answerStripped;
     }
 

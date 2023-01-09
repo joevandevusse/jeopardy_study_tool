@@ -1,0 +1,186 @@
+[
+  {
+    "question": "Year: 1977\nDirector: George Lucas\nActors: Mark Hamill, Harrison Ford, Carrie Fisher",
+    "answer": "Star Wars: Episode IV - A New Hope"
+  },
+  {
+    "question": "Year: 1978\nDirector: Randal Kleiser\nActors: John Travolta, Olivia Newton-John",
+    "answer": "Grease"
+  },
+  {
+    "question": "Year: 1979\nDirector: Robert Benton\nActors: Dustin Hoffman, Meryl Streep",
+    "answer": "Kramer vs. Kramer"
+  },
+  {
+    "question": "Year: 1980\nDirector: George Lucas\nActors: Mark Hamill, Harrison Ford, Carrie Fisher",
+    "answer": "Star Wars: Episode V - The Empire Strikes Back"
+  },
+  {
+    "question": "Year: 1981\nDirector: Steven Spielberg\nActors: Harrison Ford, Karen Allen",
+    "answer": "Indiana Jones and the Raider of the Lost Ark"
+  },
+  {
+    "question": "Year: 1982\nDirector: Steven Spielberg\nActors: Henry Thomas, Drew Barrymore",
+    "answer": "E. T. the Extra-Terrestrial"
+  },
+  {
+    "question": "Year: 1983\nDirector: George Lucas\nActors: Mark Hamill, Harrison Ford, Carrie Fisher",
+    "answer": "Star Wars: Episode VI - Return of the Jedi"
+  },
+  {
+    "question": "Year: 1984\nDirector: Martin Brest\nActors: Eddie Murphy, Judge Reinhold",
+    "answer": "Beverly Hills Cop"
+  },
+  {
+    "question": "Year: 1985\nDirector: Robert Zemeckis\nActors: Michael J. Fox, Christopher Lloyd, Lea Thompson",
+    "answer": "Back to the Future"
+  },
+  {
+    "question": "Year: 1986\nDirector: Tony Scott\nActors: Tom Cruise, Tim Robbins",
+    "answer": "Top Gun"
+  },
+  {
+    "question": "Year: 1987\nDirector: Leonard Nimoy\nActors: Tom Selleck, Steve Guttenberg, Ted Danson",
+    "answer": "Three Men and a Baby"
+  },
+  {
+    "question": "Year: 1988\nDirector: Barry Levinson\nActors: Dustin Hoffman, Tom Cruise",
+    "answer": "Rain Man"
+  },
+  {
+    "question": "Year: 1989\nDirector: Tim Burton\nActors: Michael Keaton, Jack Nicholson, Kim Basinger",
+    "answer": "Batman"
+  },
+  {
+    "question": "Year: 1990\nDirector: Chris Columbus\nActors: Macaulay Culkin, Joe Pesci",
+    "answer": "Home Alone"
+  },
+  {
+    "question": "Year: 1991\nDirector: James Cameron\nActors: Arnold Schwarzenegger, Linda Hamilton",
+    "answer": "Terminator 2: Judgment Day"
+  },
+  {
+    "question": "Year: 1992\nDirector: Robert Clements, John Musker\nActors: Scott Weigner, Robin Williams",
+    "answer": "Aladdin"
+  },
+  {
+    "question": "Year: 1993\nDirector: Steven Spielberg\nActors: Sam Neill, Laura Dern, Jeff Goldblum",
+    "answer": "Jurassic Park"
+  },
+  {
+    "question": "Year: 1994\nDirector: Robert Zemeckis\nActors: Tom Hanks, Robin Wright, Gary Sinise",
+    "answer": "Forrest Gump"
+  },
+  {
+    "question": "Year: 1995\nDirector: John Lasseter\nActors: Tom Hanks, Tim Allen, Don Rickles",
+    "answer": "Toy Story"
+  },
+  {
+    "question": "Year: 1996\nDirector: Roland Emmerich\nActors: Will Smith, Bill Pullman, Jeff Goldblum",
+    "answer": "Independence Day"
+  },
+  {
+    "question": "Year: 1997\nDirector: James Cameron\nActors: Leonardo DiCaprio, Kate Winslet",
+    "answer": "Titanic"
+  },
+  {
+    "question": "Year: 1998\nDirector: Steven Spielberg\nActors: Tom Hanks, Matt Damon",
+    "answer": "Saving Private Ryan"
+  },
+  {
+    "question": "Year: 1999\nDirector: George Lucas\nActors: Ewan McGregor, Liam Neeson, Natalie Portman",
+    "answer": "Star Wars: Episode I - The Phantom Menace"
+  },
+  {
+    "question": "Year: 2000\nDirector: Ron Howard\nActors: Jim Carrey, Taylor Momsen",
+    "answer": "How the Grinch Stole Christmas"
+  },
+  {
+    "question": "Year: 2001\nDirector: Chris Columbus\nActors: Daniel Radcliffe, Ruper Gint",
+    "answer": "Harry Potter and fhe Sorcerer's Stone"
+  },
+  {
+    "question": "Year: 2002\nDirector: Sam Raimi\nActors: Tobey Maguire, Kirsten Dunst, Willem Dafoe, James Franco",
+    "answer": "Spider-Man"
+  },
+  {
+    "question": "Year: 2003\nDirector: Peter Jackson\nActors: Elijah Wood, Viggo Mortensen, Ian McKellen, Orlando Bloom",
+    "answer": "The Lord of the Rings: The Return of the King"
+  },
+  {
+    "question": "Year: 2004\nDirector: Andrew Adamson, Kelly Asbury\nActors: Mike Meyers, Eddie Murphy, Cameron Diaz",
+    "answer": "Shrek 2"
+  },
+  {
+    "question": "Year: 2005\nDirector: George Lucas\nActors: Hayden Christensen, Natalie Portman, Ewan McGregor, Samuel L. Jackson",
+    "answer": "Star Wars: Episode III - Revenge of the Sith"
+  },
+  {
+    "question": "Year: 2006\nDirector: Gore Verbinki\nActors: Johnny Depp, Orlando Bloom, Keira Knightley",
+    "answer": "Pirates of the Caribbean: Dead Man's Chest"
+  },
+  {
+    "question": "Year: 2007\nDirector: Sam Raimi\nActors: Tobey Maguire, Kirsten Dunst",
+    "answer": "Spider-Man 3"
+  },
+  {
+    "question": "Year: 2008\nDirector: Christopher Nolan\nActors: Christian Bale, Heath Ledger",
+    "answer": "The Dark Knight"
+  },
+  {
+    "question": "Year: 2009\nDirector: James Cameron\nActors: Sam Worthington, Zoe Saldana, Sigourney Weaver",
+    "answer": "Avatar"
+  },
+  {
+    "question": "Year: 2010\nDirector: Lee Unkrich\nActors: Tom Hanks, Tim Allen, Joan Cusack",
+    "answer": "Toy Story 3"
+  },
+  {
+    "question": "Year: 2011\nDirector: David Yates\nActors: Daniel Radcliffe, Emma Watson, Rupert Grint",
+    "answer": "Harry Potter and the Deathly Hallows: Part 2"
+  },
+  {
+    "question": "Year: 2012\nDirector: Joss Whedon\nActors: Robert Downey Jr, Chris Evans, Scarlett Johansson, Jeremy Renner",
+    "answer": "The Avengers"
+  },
+  {
+    "question": "Year: 2013\nDirector: Francis Lawrence\nActors: Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth",
+    "answer": "The Hunger Games: Catching Fire"
+  },
+  {
+    "question": "Year: 2014\nDirector: Clint Eastwood\nActors: Bradley Cooper, Sienna Miller",
+    "answer": "American Sniper"
+  },
+  {
+    "question": "Year: 2015\nDirector: J. J. Abrams\nActors: Daisy Ridley, John Boyega",
+    "answer": "Star Wars: Episode VII - The Force Awakens"
+  },
+  {
+    "question": "Year: 2016\nDirector: Gareth Edwards\nActors: Felicity Jones, Diego Luna, Alan Tudyk",
+    "answer": "Rogue One: A Star Wars Story"
+  },
+  {
+    "question": "Year: 2017\nDirector: Rian Johnson\nActors: Daisy Ridley, John Boyega, Mark Hamill, Carrie Fisher",
+    "answer": "Star Wars: Episode VIII - The Last Jedi"
+  },
+  {
+    "question": "Year: 2018\nDirector: Ryan Coogler\nActors: Chadwick Boseman, Michael B. Jordan",
+    "answer": "Black Panther"
+  },
+  {
+    "question": "Year: 2019\nDirector: Anthony Russo, Joe Russo\nActors: Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth",
+    "answer": "Avengers: Endgame"
+  },
+  {
+    "question": "Year: 2020\nDirector: Adil El Arbi, Bilall Fallah\nActors: Will Smith, Martin Lawrence, Vanessa Hudgens",
+    "answer": "Bad Boys for Life"
+  },
+  {
+    "question": "Year: 2021\nDirector: Jon Watts\nActors: Tom Holland, Zendaya, Benedict Cumberbatch",
+    "answer": "Spider-Man: No Way Home"
+  },
+  {
+    "question": "Year: 2022\nDirector: Joseph Kosinski\nActors: Tom Cruise, Jennifer Connelly, Miles Teller",
+    "answer": "Top Gun: Maverick"
+  }
+  ]

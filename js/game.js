@@ -109,7 +109,7 @@ incrementScore = num => {
     scoreText.innerText = scorePercentage + "%";
 };
 
-//Submit answer by "Enter" or click
+// Submit answer by "Enter" or click
 document.onkeydown = function (e) {
     var buttonEvent = e || window.event;
     switch (buttonEvent.which || buttonEvent.keyCode) {
@@ -125,6 +125,7 @@ sanitizeAnswer = dirtyAnswer => {
       .replaceAll("(", "")
       .replaceAll(")", "")
       .replaceAll(",", "")
+      .replaceAll(":", "")
       .replaceAll("(", "")
       .replaceAll(")", "")
       .replaceAll("'", "")
