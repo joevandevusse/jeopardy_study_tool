@@ -44,7 +44,7 @@
         "answer": "Nicosia"
     },
     {
-        "question": "Capital of Cezchia (Czech Republic)",
+        "question": "Capital of Czchia",
         "answer": "Prague"
     },
     {
@@ -76,6 +76,10 @@
         "answer": "Athens"
     },
     {
+      "question": "Capital of Greenland",
+      "answer": "Nuuk"
+  },
+    {
         "question": "Capital of Hungary",
         "answer": "Budapest"
     },
@@ -93,7 +97,7 @@
     },
     {
         "question": "Capital of Kazakhstan",
-        "answer": "Nur-Sultan"
+        "answer": "Astana"
     },
     {
         "question": "Capital of Kosovo",
@@ -113,7 +117,7 @@
     },
     {
         "question": "Capital of Luxembourg",
-        "answer": "Luxembourg (City)"
+        "answer": "Luxembourg"
     },
     {
         "question": "Capital of Malta",
@@ -136,7 +140,7 @@
         "answer": "Amsterdam"
     },
     {
-        "question": "Capital of North Macedonia (Formerly Macedonia)",
+        "question": "Capital of North Macedonia",
         "answer": "Skopje"
     },
     {
@@ -192,8 +196,8 @@
         "answer": "Ankara"
     },
     {
-        "question": "Capital of Ukraine (Spelling - Not Kyiv)",
-        "answer": "Kiev"
+        "question": "Capital of Ukraine",
+        "answer": "Kyiv"
     },
     {
         "question": "Capital of United Kingdom",
