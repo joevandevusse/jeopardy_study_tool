@@ -1,94 +1,94 @@
 [
-    {
-        "question": "Capital of Antigua and Barbuda",
-        "answer": "Saint John's"
-    },
-    {
-        "question": "Capital of Bahamas",
-        "answer": "Nassau"
-    },
-    {
-        "question": "Capital of Barbados",
-        "answer": "Bridgetown"
-    },
-    {
-        "question": "Capital of Belize",
-        "answer": "Belmopan"
-    },
-    {
-        "question": "Capital of Canada",
-        "answer": "Ottawa"
-    },
-    {
-        "question": "Capital of Costa Rica",
-        "answer": "San Jose"
-    },
-    {
-        "question": "Capital of Cuba",
-        "answer": "Havana"
-    },
-    {
-        "question": "Capital of Dominica",
-        "answer": "Roseau"
-    },
-    {
-        "question": "Capital of Dominican Republic",
-        "answer": "Santo Domingo"
-    },
-    {
-        "question": "Capital of El Salvador",
-        "answer": "San Salvador"
-    },
-    {
-        "question": "Capital of Grenada",
-        "answer": "Saint George's"
-    },
-    {
-        "question": "Capital of Guatemala",
-        "answer": "Guatemala City"
-    },
-    {
-        "question": "Capital of Haiti",
-        "answer": "Port-au-Prince"
-    },
-    {
-        "question": "Capital of Honduras",
-        "answer": "Tegucigalpa"
-    },
-    {
-        "question": "Capital of Jamaica",
-        "answer": "Kingston"
-    },
-    {
-        "question": "Capital of Mexico",
-        "answer": "Mexico City"
-    },
-    {
-        "question": "Capital of Nicaragua",
-        "answer": "Managua"
-    },
-    {
-        "question": "Capital of Panama",
-        "answer": "Panama City"
-    },
-    {
-        "question": "Capital of Saint Kitts and Nevis",
-        "answer": "Basseterre"
-    },
-    {
-        "question": "Capital of Saint Lucia",
-        "answer": "Castries"
-    },
-    {
-        "question": "Capital of Saint Vincent and the Grenadines",
-        "answer": "Kingstown"
-    },
-    {
-        "question": "Capital of Trinidad and Tobago",
-        "answer": "Port of Spain"
-    },
-    {
-        "question": "Capital of the United States of America",
-        "answer": "Washington, D.C."
-    }
+  {
+    "question": "Capital of Antigua and Barbuda",
+    "answer": "Saint John's"
+  },
+  {
+    "question": "Capital of Bahamas",
+    "answer": "Nassau"
+  },
+  {
+    "question": "Capital of Barbados",
+    "answer": "Bridgetown"
+  },
+  {
+    "question": "Capital of Belize",
+    "answer": "Belmopan"
+  },
+  {
+    "question": "Capital of Canada",
+    "answer": "Ottawa"
+  },
+  {
+    "question": "Capital of Costa Rica",
+    "answer": "San Jose"
+  },
+  {
+    "question": "Capital of Cuba",
+    "answer": "Havana"
+  },
+  {
+    "question": "Capital of Dominica",
+    "answer": "Roseau"
+  },
+  {
+    "question": "Capital of Dominican Republic",
+    "answer": "Santo Domingo"
+  },
+  {
+    "question": "Capital of El Salvador",
+    "answer": "San Salvador"
+  },
+  {
+    "question": "Capital of Grenada",
+    "answer": "Saint George's"
+  },
+  {
+    "question": "Capital of Guatemala",
+    "answer": "Guatemala City"
+  },
+  {
+    "question": "Capital of Haiti",
+    "answer": "Port-au-Prince"
+  },
+  {
+    "question": "Capital of Honduras",
+    "answer": "Tegucigalpa"
+  },
+  {
+    "question": "Capital of Jamaica",
+    "answer": "Kingston"
+  },
+  {
+    "question": "Capital of Mexico",
+    "answer": "Mexico City"
+  },
+  {
+    "question": "Capital of Nicaragua",
+    "answer": "Managua"
+  },
+  {
+    "question": "Capital of Panama",
+    "answer": "Panama City"
+  },
+  {
+    "question": "Capital of Saint Kitts and Nevis",
+    "answer": "Basseterre"
+  },
+  {
+    "question": "Capital of Saint Lucia",
+    "answer": "Castries"
+  },
+  {
+    "question": "Capital of Saint Vincent and the Grenadines",
+    "answer": "Kingstown"
+  },
+  {
+    "question": "Capital of Trinidad and Tobago",
+    "answer": "Port of Spain"
+  },
+  {
+    "question": "Capital of the United States of America",
+    "answer": "Washington, D.C."
+  }
 ]

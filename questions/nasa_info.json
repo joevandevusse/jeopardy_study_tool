@@ -1,0 +1,70 @@
+[
+  {
+    "question": "Type: Shuttle\nDebut: September 1976\n Retirement: October 1977\nDescription: It was flown only within Earth's atmosphere, during Shuttle approach and landing tests conducted in 1977.",
+    "answer": "Enterprise"
+  },
+  {
+    "question": "Type: Shuttle\nDebut: April 1981\n Retirement: February 2003\nDescription: It flew the first five Shuttle missions, and was modified to fly extended-duration missions as long as 16 days. It and its seven-member crew were lost during reentry on Feb. 1, 2003.",
+    "answer": "Columbia"
+  },
+  {
+    "question": "Type: Shuttle\nDebut: April 1983\n Retirement: January 1986\nDescription: It was built as a vibration-test vehicle and then upgraded to become the second operational Shuttle. It and its seven-member crew were lost in a launch accident on Jan. 28, 1986.",
+    "answer": "Challenger"
+  },
+  {
+    "question": "Type: Shuttle\nDebut: August 1984\n Retirement: March 2021\nDescription: Atlantis followed it closely in October 1985.",
+    "answer": "Discovery"
+  },
+  {
+    "question": "Type: Shuttle\nDebut: October 1985\n Retirement: July 2021\nDescription: It closely followed Discovery (August 1984). It was the last to be retired, ending the Space Shuttle Program.",
+    "answer": "Atlantis"
+  },
+  {
+    "question": "Type: Shuttle\nDebut: May 1992\n Retirement: June 2021\nDescription: Built to replace Challenger, it made its debut with a dramatic mission that featured the rescue of a stranded Intelsat 6 commercial communications satellite.",
+    "answer": "Endeavor"
+  },
+  {
+    "question": "Type: Program\nStart: 1958\nFirst Crewed Flight: 1961\nEnd: 1963\nNumber of Missions: 6\nNotes: First U.S. crewed program",
+    "answer": "Project Mercury"
+  },
+  {
+    "question": "Type: Program\nStart: 1961\nFirst Crewed Flight: 1965\nEnd: 1966\nNumber of Missions: 10\nNotes: Program used to practice space rendezvous and EVAs",
+    "answer": "Project Gemini"
+  },
+  {
+    "question": "Type: Program\nStart: 1960\nFirst Crewed Flight: 1968\nEnd: 1972\nNumber of Missions: 11\nNotes: Landed first humans on the Moon",
+    "answer": "Apollo Program"
+  },
+  {
+    "question": "Type: Program\nStart: 1964\nFirst Crewed Flight: 1973\nEnd: 1974\nNumber of Missions: 3\nNotes: First American space station",
+    "answer": "Skylab"
+  },
+  {
+    "question": "Type: Program\nStart: 1971\nFirst Crewed Flight: 1975\nEnd: 1975\nNumber of Missions: 1\nNotes: Joint with Soviet Union",
+    "answer": "Apollo-Soyuz"
+  },
+  {
+    "question": "Type: Program\nStart: 1972\nFirst Crewed Flight: 1981\nEnd: 2011\nNumber of Missions: 135\nNotes: First missions in which a spacecraft was reused",
+    "answer": "Space Shuttle Program"
+  },
+  {
+    "question": "Type: Program\nStart: 1993\nFirst Crewed Flight: 1994\nEnd: 1998\nNumber of Missions: 11\nNotes: Russian partnership",
+    "answer": "Shuttle-Mir Program"
+  },
+  {
+    "question": "Type: Program\nStart: 1993\nFirst Crewed Flight: 1998\nEnd: Ongoing\nNumber of Missions: 65\nNotes: Joint with Roscosmos, CSA, ESA, and JAXA; Americans flew on Russian Soyuz after 2011 retirement of Space Shuttle",
+    "answer": "International Space Station"
+  },
+  {
+    "question": "Type: Program\nStart: 2011\nFirst Crewed Flight: 2020\nEnd: Ongoing\nNumber of Missions: 6\nNotes: Current program to shuttle Americans to the ISS",
+    "answer": "Commercial Crew Program"
+  },
+  {
+    "question": "Type: Program\nStart: 2017\nFirst Crewed Flight: 2023\nEnd: Ongoing\nNumber of Missions: 0\nNotes: Current program to bring humans to the Moon again",
+    "answer": "Artemis Program"
+  },
+  {
+    "question": "Note - add specific program highlights/flights",
+    "answer": "ex. Apollo 11"
+  }
+]
