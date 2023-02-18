@@ -137,21 +137,37 @@ def write_to_file(game_number, json_data):
 
 def main():
     if len(sys.argv) != 3 and len(sys.argv) != 2:
-        print("Usage: ./game_show_parser required: <first game number> optional: <last game number>")
+        # print("Usage: ./game_show_parser required: <first game number> optional: <last game number>")
+        print("Usage: ./game_show_parser required: <first game date> optional: <last game date>")
         return
 
     # Get clues for each game
-    cur_game_number = int(sys.argv[1])
-    if len(sys.argv) == 3:
-        max_game_number = int(sys.argv[2])
-    else: 
-        max_game_number = cur_game_number
+    # cur_game_number = int(sys.argv[1])
+    # if len(sys.argv) == 3:
+        # max_game_number = int(sys.argv[2])
+    # else:
+        # max_game_number = cur_game_number
 
     # Get JSON games and write them to files
-    while cur_game_number <= max_game_number:
-        json_data = get_clues_per_game(cur_game_number)
-        write_to_file(cur_game_number, json_data)
-        cur_game_number += 1
+    # while cur_game_number <= max_game_number:
+        # json_data = get_clues_per_game(cur_game_number)
+        # write_to_file(cur_game_number, json_data)
+        # cur_game_number += 1
+
+    # Get date to game_id mapping
+    file = open("date_to_game_id.json")
+    date_to_game_id = json.load(file)
+    first_game_number = int(date_to_game_id[sys.argv[1]])
+    if len(sys.argv) == 3:
+        last_game_number = int(date_to_game_id[sys.argv[2]])
+    else:
+        last_game_number = first_game_number
+
+    # Get JSON games and write them to files
+    for date, game_id in date_to_game_id.items():
+        if first_game_number <= int(game_id) <= last_game_number:
+            json_data = get_clues_per_game(int(game_id))
+            write_to_file(int(game_id), json_data)
 
 
 if __name__ == "__main__":
