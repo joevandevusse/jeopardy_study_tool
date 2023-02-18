@@ -4,11 +4,10 @@ from bs4 import BeautifulSoup as soup
 from urllib.request import urlopen as u_req
 import pprint
 import json
-import sys
-import math
 
 # Initialize pretty printer
-pp = pprint.PrettyPrinter(indent = 4)
+pp = pprint.PrettyPrinter(indent=4)
+
 
 def main():
     # Let's try it all in one request
@@ -34,6 +33,7 @@ def main():
     file_name = "date_to_game_id_s38.json"
     with open(file_name, "w") as output_file:
         json.dump(date_to_game_json, output_file)
+
 
 if __name__ == "__main__":
     main()

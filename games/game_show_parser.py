@@ -8,7 +8,8 @@ import sys
 import math
 
 # Initialize pretty printer
-pp = pprint.PrettyPrinter(indent = 4)
+pp = pprint.PrettyPrinter(indent=4)
+
 
 # Return clue objects for each clue in the inputted game
 def get_clues_per_game(game_number):
@@ -123,8 +124,9 @@ def get_clues_per_game(game_number):
     add_clue_fj["is_dd"] = False
     game_JSON["clues_fj"]["0-0"] = add_clue_fj
 
-    #pp.pprint(game_JSON)
+    # pp.pprint(game_JSON)
     return game_JSON
+
 
 def write_to_file(game_number, json_data):
     game_number_str= str(game_number)
@@ -150,6 +152,7 @@ def main():
         json_data = get_clues_per_game(cur_game_number)
         write_to_file(cur_game_number, json_data)
         cur_game_number += 1
+
 
 if __name__ == "__main__":
     main()
