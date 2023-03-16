@@ -64,7 +64,51 @@
     "answer": "Artemis Program"
   },
   {
-    "question": "Note - add specific program highlights/flights",
-    "answer": "ex. Apollo 11"
+    "question": "First person to walk on the moon as commander of the Apollo 11 mission - \"That's one small step for man, and one giant leap for mankind\". He previously also flew on Gemini 8.",
+    "answer": "Neil Armstrong"
+  },
+  {
+    "question": "First American woman in space",
+    "answer": "Sally Ride"
+  },
+  {
+    "question": "First human to journey in space - Soviet Air Force pilot, orbited Earth once on April 12, 1961 aboard the Vostok 1 spacecraft",
+    "answer": "Yuri Gagarin"
+  },
+  {
+    "question": "First person to complete a spacewalk - a Soviet on March 18, 1965 after exiting Voskhod 2",
+    "answer": "Alexei Leonov"
+  },
+  {
+    "question": "First African-American woman to travel in space",
+    "answer": "Mae Jemison"
+  },
+  {
+    "question": "First American astronaut to orbit the Earth",
+    "answer": "John Glenn"
+  },
+  {
+    "question": "First astronaut to spend a full year in space, commander of the International Space Station (ISS) during that time",
+    "answer": "Scott Kelly"
+  },
+  {
+    "question": "First spacecraft launched into space - done by the Soviet Union on October 5, 1957",
+    "answer": "Sputnuk 1"
+  },
+  {
+    "question": "Commander of the ill-fated Apollo 13 mission on April 11, 1970. It was supposed to be the third manned moon mission. Tom Hanks played him in the movie of the same name.",
+    "answer": "Jim Lovell"
+  },
+  {
+    "question": "Lunar Module Pilot on the Apollo 11 mission along with Armstrong and Collins. Conducted experiments and collected samples with Armstrong on the surface.",
+    "answer": "Buzz Aldrin"
+  },
+  {
+    "question": "Command Module Pilot on the Apollo 11 mission along with Armstrong and Aldrin. Remained in orbit around the Moon until the other two returned.",
+    "answer": "Michael Collins"
+  },
+  {
+    "question": "First American astronaut to travel in space on May 5, 1961. He also piloted a Mercury spacecraft (Freedom 7) on a suborbital flight. He commanded the Apollo 14 mission in 1971.",
+    "answer": "Alan Shepherd"
   }
 ]
