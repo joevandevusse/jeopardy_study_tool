@@ -56,17 +56,18 @@ def get_clues_per_game(game_number):
 
     # Get clue attrs
     clues = page_soup.findAll("td", {"class": "clue"})
-
     # Extract text, id, value, and answer from the clue
-    clue_questions = [clue.findAll("td", {"class": "clue_text"})[0].getText() for clue in clues if clue.div is not None]
-    clue_ids = [clue.div.findAll("td", {"class": "clue_unstuck"})[0]['id'] for clue in clues
-        if clue.div is not None and len(clue.div.findAll("td", {"class": "clue_unstuck"})) > 0]
-    clue_answers = [clue.div['onmouseover'].split("correct_response\">")[1].split("</em>")[0] for clue in clues
-        if clue.div is not None]
+    clue_questions = [clue.findAll("td", {"class": "clue_text"})[0].getText()
+                      for clue in clues if clue.div is not None]
+    clue_ids = [clue.div.findAll("td", {"class": "clue_unstuck"})[0]['id']
+                for clue in clues
+                if clue.div is not None and len(clue.div.findAll("td", {"class": "clue_unstuck"})) > 0]
+    clue_answers = [str(clue).split("correct_response\">")[1].split("</em>")[0]
+                    for clue in clues if clue.div is not None]
 
     clean_clue_answers = []
     for answer in clue_answers:
-        clean_answer = answer.replace("<i>", "").replace("</i>", "").replace("\\", "")
+        clean_answer = answer.replace("<i>", "").replace("</i>", "").replace("\\", "").replace("amp;", "")
         clean_clue_answers.append(clean_answer)
 
     # Exclude clues that they didn't get to during the game
@@ -119,7 +120,8 @@ def get_clues_per_game(game_number):
     final_jeopardy = page_soup.findAll("table", {"class": "final_round"})[0]
     add_clue_fj = {}
     add_clue_fj["question"] = page_soup.findAll("td", {"id": "clue_FJ"})[0].getText()
-    add_clue_fj["answer"] = final_jeopardy.div['onmouseover'].split("correct_response")[1].split("</em>")[0][3:]
+    # add_clue_fj["answer"] = final_jeopardy.div['onmouseover'].split("correct_response")[1].split("</em>")[0][3:]
+    add_clue_fj["answer"] = str(final_jeopardy).split("correct_response")[1].split("</em>")[0][3:]
     add_clue_fj["value"] = 10000
     add_clue_fj["is_dd"] = False
     game_JSON["clues_fj"]["0-0"] = add_clue_fj
@@ -165,7 +167,9 @@ def main():
 
     # Get JSON games and write them to files
     for date, game_id in date_to_game_id.items():
-        if first_game_number <= int(game_id) <= last_game_number:
+        if not isinstance(game_id, int):
+            continue
+        elif first_game_number <= int(game_id) <= last_game_number:
             json_data = get_clues_per_game(int(game_id))
             write_to_file(int(game_id), json_data)
 
