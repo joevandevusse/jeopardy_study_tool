@@ -40,12 +40,12 @@ def create_json(headers, rows):
 
 def main():
     # print(f'Hi, {name}') # Press CTRL-F8 to toggle the breakpoint
-    file_name = "tv_test.csv"
+    file_name = "tv_shows.csv"
     headers, rows = read_csv(file_name)
     # print(create_json(headers, rows))
     json_array = create_json(headers, rows)
     json_object = json.dumps(json_array, indent=2)
-    with open("tv_test_output.json", "w") as out_file:
+    with open("tv_shows.json", "w") as out_file:
         out_file.write(json_object)
 
 

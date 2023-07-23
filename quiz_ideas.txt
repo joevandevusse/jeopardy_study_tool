@@ -1,3 +1,4 @@
+To Do: 
 Popular Disney Movies
 World's Richest People 
 Cocktails 
@@ -15,11 +16,15 @@ Ancient Civilizations
 Emperors/Leaders
 Birthstones 
 Nobel Prize Winners (Peace and Otherwise)
-Current British Royal
+Current British Royals
 Treaties
 Airport Codes
 Broadway Plays
 Best-Selling Novels (NYT?)
 Famous Ships (ex. USS Arizona)
 Explorers
-International Airports
+International Airports/Airlines 
+
+Done:
+Airport Codes
+NATO Spelling Alphabet
