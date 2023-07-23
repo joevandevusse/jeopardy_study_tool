@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Jeopardy Study Tool - Play</title>
+    <link rel="stylesheet" href="/css/app.css" />
+    <link rel="stylesheet" href="/css/game.css" />
+    <script data-ad-client="ca-pub-1561244027511615" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  </head>
+  <body>
+    <div class="container">
+        <div id="game" class="justify-center flex-column">
+            <div id="hud">   
+                <div id="hud-item">
+                    <h1 class="hud-main-text" id="question-counter"></h1>
+                </div>
+            </div>
+            <h2 id="question" class="flex-center flex-column">Please Enter Quiz File Name</h2>
+            <div id="answer" class="flex-center flex-column">     
+                <form id="form" autocomplete="off">
+                    <input type="text" id="quiz-text">
+                    <br>
+                    <input type="button" value="Submit" class="btn" id="submit-btn" onclick="getQuiz()">
+                  </form>
+                <p id="log"></p>
+            </div>
+      </div>
+    </div>
+    <script src="/js/replay_wrongs_start.js"></script>
+  </body>
+</html>
