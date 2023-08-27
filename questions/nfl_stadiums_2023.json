@@ -1,0 +1,130 @@
+[
+  {
+    "question": "Team: Pittsburgh Steelers\nCity: Pittsburgh, Pennsylvania\nYear Opened: 2001",
+    "answer": "Acrisure Stadium"
+  },
+  {
+    "question": "Team: Las Vegas Raiders\nCity: Paradise, Nevada\nYear Opened: 2020",
+    "answer": "Allegiant Stadium"
+  },
+  {
+    "question": "Team: Kansas City Chiefs\nCity: Kansas City, Missouri\nYear Opened: 1972",
+    "answer": "Arrowhead Stadium"
+  },
+  {
+    "question": "Team: Dallas Cowboys\nCity: Arlington, Texas\nYear Opened: 2009",
+    "answer": "AT&T Stadium"
+  },
+  {
+    "question": "Team: Carolina Panthers\nCity: Charlotte, North Carolina\nYear Opened: 1996",
+    "answer": "Bank of America Stadium"
+  },
+  {
+    "question": "Team: New Orleans Saints\nCity: New Orleans, Louisiana\nYear Opened: 1975",
+    "answer": "Caesars Superdome"
+  },
+  {
+    "question": "Team: Cleveland Browns\nCity: Cleveland, Ohio\nYear Opened: 1999",
+    "answer": "Cleveland Browns Stadium"
+  },
+  {
+    "question": "Team: Denver Broncos\nCity: Denver, Colorado\nYear Opened: 2001",
+    "answer": "Empower Field at Mile High"
+  },
+  {
+    "question": "Team: Jacksonville Jaguars\nCity: Jacksonville, Florida\nYear Opened: 1995",
+    "answer": "EverBank Stadium"
+  },
+  {
+    "question": "Team: Washington Commanders\nCity: Landover, Maryland\nYear Opened: 1997",
+    "answer": "FedEx Field"
+  },
+  {
+    "question": "Team: Detroit Lions\nCity: Detroit, Michigan\nYear Opened: 2002",
+    "answer": "Ford Field"
+  },
+  {
+    "question": "Team: New England Patriots\nCity: Foxborough, Massachusetts\nYear Opened: 2002",
+    "answer": "Gillette Stadium"
+  },
+  {
+    "question": "Team: Miami Dolphins\nCity: Miami Gardens, Florida\nYear Opened: 1987",
+    "answer": "Hard Rock Stadium"
+  },
+  {
+    "question": "Team: Buffalo Bills\nCity: Orchard Park, New York\nYear Opened: 1973",
+    "answer": "Highmark Stadium"
+  },
+  {
+    "question": "Team: Green Bay Packers\nCity: Green Bay, Wisconsin\nYear Opened: 1957",
+    "answer": "Lambeau Field"
+  },
+  {
+    "question": "Team: San Francisco 49ers\nCity: Santa Clara, California\nYear Opened: 2014",
+    "answer": "Levi's Stadium"
+  },
+  {
+    "question": "Team: Philadelphia Eagles\nCity: Philadelphia, Pennsylvania\nYear Opened: 2003",
+    "answer": "Lincoln Financial Field"
+  },
+  {
+    "question": "Team: Indianapolis Colts\nCity: Indianapolis, Indiana\nYear Opened: 2008",
+    "answer": "Lucas Oil Stadium"
+  },
+  {
+    "question": "Team: Seattle Seahawks\nCity: Seattle, Washington\nYear Opened: 2002",
+    "answer": "Lumen Field"
+  },
+  {
+    "question": "Team: Baltimore Ravens\nCity: Baltimore, Maryland\nYear Opened: 1998",
+    "answer": "M&T Bank Stadium"
+  },
+  {
+    "question": "Team: Atlanta Falcons\nCity: Atlanta, Georgia\nYear Opened: 2017",
+    "answer": "Mercedes-Benz Stadium"
+  },
+  {
+    "question": "Team: New York Giants\nCity: East Rutherford, New Jersey\nYear Opened: 2010",
+    "answer": "MetLife Stadium"
+  },
+  {
+    "question": "Team: New York Jets\nCity: East Rutherford, New Jersey\nYear Opened: 2010",
+    "answer": "MetLife Stadium"
+  },
+  {
+    "question": "Team: Tennessee Titans\nCity: Nashville, Tennessee\nYear Opened: 1999",
+    "answer": "Nissan Stadium"
+  },
+  {
+    "question": "Team: Houston Texans\nCity: Houston, Texas\nYear Opened: 2002",
+    "answer": "NRG Stadium"
+  },
+  {
+    "question": "Team: Cincinnati Bengals\nCity: Cincinnati, Ohio\nYear Opened: 2000",
+    "answer": "Paycor Stadium"
+  },
+  {
+    "question": "Team: Tampa Bay Buccaneers\nCity: Tampa, Florida\nYear Opened: 1998",
+    "answer": "Raymond James Stadium"
+  },
+  {
+    "question": "Team: Los Angeles Chargers\nCity: Inglewood, California\nYear Opened: 2020",
+    "answer": "SoFi Stadium"
+  },
+  {
+    "question": "Team: Los Angeles Rams\nCity: Inglewood, California\nYear Opened: 2020",
+    "answer": "SoFi Stadium"
+  },
+  {
+    "question": "Team: Chicago Bears\nCity: Chicago, Illinois\nYear Opened: 1924",
+    "answer": "Soldier Field"
+  },
+  {
+    "question": "Team: Arizona Cardinals\nCity: Glendale, Arizona\nYear Opened: 2006",
+    "answer": "State Farm Stadium"
+  },
+  {
+    "question": "Team: Minnesota Vikings\nCity: Minneapolis, Minnesota\nYear Opened: 2016",
+    "answer": "U.S. Bank Stadium"
+  }
+]

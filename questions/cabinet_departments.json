@@ -1,0 +1,62 @@
+[
+  {
+    "question": "Description: Responsible for the nation's foreign policy and diplomatic relations with other countries.",
+    "answer": "State"
+  },
+  {
+    "question": "Description: Manages the government's finances, including taxation, revenue collection, and currency production, as well as overseeing economic policy and financial regulation.",
+    "answer": "The Treasury"
+  },
+  {
+    "question": "Description: Oversees the nation's military forces and conducts defense policy, including the Army, Navy, Air Force, and Marines.",
+    "answer": "Defense"
+  },
+  {
+    "question": "Description: Enforces federal laws, including prosecuting cases, providing legal advice to the President, and managing federal prisons.",
+    "answer": "Justice"
+  },
+  {
+    "question": "Description: Manages and conserves the nation's natural resources, including national parks, public lands, and wildlife conservation.",
+    "answer": "The Interior"
+  },
+  {
+    "question": "Description: Supports agriculture and rural development, ensures food safety, and administers nutrition assistance programs.",
+    "answer": "Agriculture"
+  },
+  {
+    "question": "Description: Promotes economic growth, conducts the U.S. Census, administers patents and trademarks, and oversees trade policy.",
+    "answer": "Commerce"
+  },
+  {
+    "question": "Description: Enforces labor laws, promotes workers' welfare, and administers programs related to workplace safety, wages, and employment opportunities.",
+    "answer": "Labor"
+  },
+  {
+    "question": "Description: Oversees public health, including administration of Medicare and Medicaid, and manages health-related research, programs, and services.",
+    "answer": "Health and Human Services"
+  },
+  {
+    "question": "Description: Promotes affordable housing, urban development, and community development, and administers housing assistance programs.",
+    "answer": "Housing and Urban Development"
+  },
+  {
+    "question": "Description: Manages the nation's transportation systems, including highways, air travel, and public transit, and develops transportation policies.",
+    "answer": "Transportation"
+  },
+  {
+    "question": "Description: Oversees energy policy, research, and development, and manages the nation's nuclear weapons program and energy resources.",
+    "answer": "Energy"
+  },
+  {
+    "question": "Description: Administers federal education programs, establishes education policy, and promotes educational excellence and equity.",
+    "answer": "Education"
+  },
+  {
+    "question": "Description: Provides healthcare, benefits, and support services to eligible veterans and their families.",
+    "answer": "Veterans Affairs"
+  },
+  {
+    "question": "Description: Oversees national security, including safeguarding against terrorism, securing borders, and responding to natural disasters and other emergencies.",
+    "answer": "Homeland Security"
+  }
+]
