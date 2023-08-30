@@ -2,7 +2,6 @@ To Do:
 Popular Disney Movies
 World's Richest People 
 Cocktails 
-Cabinet Departments
 Cabinet Members
 Stock Symbols 
 Fortune 100 Companies
@@ -18,13 +17,14 @@ Birthstones
 Nobel Prize Winners (Peace and Otherwise)
 Current British Royals
 Treaties
-Airport Codes
 Broadway Plays
 Best-Selling Novels (NYT?)
 Famous Ships (ex. USS Arizona)
 Explorers
 International Airports/Airlines 
+Finish Shakespeare Characters
 
 Done:
 Airport Codes
 NATO Spelling Alphabet
+Cabinet Departments
