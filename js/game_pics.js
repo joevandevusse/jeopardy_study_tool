@@ -34,7 +34,6 @@ const log = document.getElementById("log");
 // Game constants - not really constant because changed later
 const CORRECT_BONUS = 1;
 var MAX_QUESTIONS = 10;
-var QUESTIONS_COMPLETED = 0;
 
 startGame = () => {
     // Set game questions to total number of questions
@@ -63,7 +62,6 @@ getNewQuestion = () => {
     question.innerText = currentQuestion.question;
 
     availableQuestions.splice(questionIndex, 1);
-    //console.log(availableQuestions)
     acceptingAnswers = true;
 };
 
@@ -86,8 +84,6 @@ submitAnswer = () => {
     const correctAnswerStripped = sanitizeAnswer(correctAnswer);
     const lastNameStripped = sanitizeAnswer(lastName);
 
-    console.log(userAnswerStripped);
-
     const classToApply = (userAnswerStripped == correctAnswerStripped || userAnswerStripped == lastNameStripped) ? "correct" : "incorrect";
     if (classToApply === "correct") {
         incrementScore(CORRECT_BONUS);
@@ -95,9 +91,6 @@ submitAnswer = () => {
     } else {
         incrementScore(0);
         textBox.value = correctAnswer;
-        // Re-add wrong answers
-        availableQuestions.push(currentQuestion);
-        MAX_QUESTIONS += 1;
     }
     
     textBox.classList.add(classToApply);
@@ -110,8 +103,8 @@ submitAnswer = () => {
 
 incrementScore = num => {
     score += num;
-    QUESTIONS_COMPLETED += 1;
-    var scoreDecimal = score / QUESTIONS_COMPLETED;
+    var questionsCompleted = questions.length - availableQuestions.length;
+    var scoreDecimal = score / questionsCompleted;
     scorePercentage = Math.round(scoreDecimal * 100);
     scoreText.innerText = scorePercentage + "%";
 };

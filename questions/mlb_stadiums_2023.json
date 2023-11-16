@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Team: Milwaukee Brewers\nCity: Milwaukee, Wisconsin\nYear Opened: 2001",
+    "answer": "American Family Field"
+  },
+  {
+    "question": "Team: Los Angeles Angels\nCity: Anaheim, California\nYear Opened: 1966",
+    "answer": "Angel Stadium"
+  },
+  {
+    "question": "Team: St. Louis Cardinals\nCity: St. Louis, Missouri\nYear Opened: 2006",
+    "answer": "Busch Stadium"
+  },
+  {
+    "question": "Team: Arizona Diamondbacks\nCity: Phoenix, Arizona\nYear Opened: 1998",
+    "answer": "Chase Field"
+  },
+  {
+    "question": "Team: New York Mets\nCity: Queens, New York\nYear Opened: 2009",
+    "answer": "Citi Field"
+  },
+  {
+    "question": "Team: Philadelphia Phillies\nCity: Philadelphia, Pennsylvania\nYear Opened: 2004",
+    "answer": "Citizens Bank Park"
+  },
+  {
+    "question": "Team: Detroit Tigers\nCity: Detroit, Michigan\nYear Opened: 2000",
+    "answer": "Comerica Park"
+  },
+  {
+    "question": "Team: Colorado Rockies\nCity: Denver, Colorado\nYear Opened: 1995",
+    "answer": "Coors Field"
+  },
+  {
+    "question": "Team: Los Angeles Dodgers\nCity: Los Angeles, California\nYear Opened: 1962",
+    "answer": "Dodger Stadium"
+  },
+  {
+    "question": "Team: Boston Red Sox\nCity: Boston, Massachusetts\nYear Opened: 1912",
+    "answer": "Fenway Park"
+  },
+  {
+    "question": "Team: Texas Rangers\nCity: Arlington, Texas\nYear Opened: 2020",
+    "answer": "Globe Life Field"
+  },
+  {
+    "question": "Team: Cincinnati Reds\nCity: Cincinnati, Ohio\nYear Opened: 2003",
+    "answer": "Great American Ball Park"
+  },
+  {
+    "question": "Team: Chicago White Sox\nCity: Chicago, Illinois\nYear Opened: 1991",
+    "answer": "Guaranteed Rate Field"
+  },
+  {
+    "question": "Team: Kansas City Royals\nCity: Kansas City, Missouri\nYear Opened: 1973",
+    "answer": "Kauffman Stadium"
+  },
+  {
+    "question": "Team: Miami Marlins\nCity: Miami, Florida\nYear Opened: 2012",
+    "answer": "LoanDepot Park"
+  },
+  {
+    "question": "Team: Houston Astros\nCity: Houston, Texas\nYear Opened: 2000",
+    "answer": "Minute Maid Park"
+  },
+  {
+    "question": "Team: Washington Nationals\nCity: Washington, D.C.\nYear Opened: 2008",
+    "answer": "Nationals Park"
+  },
+  {
+    "question": "Team: Oakland Athletics\nCity: Oakland, California\nYear Opened: 1966",
+    "answer": "Oakland-Alameda County Coliseum"
+  },
+  {
+    "question": "Team: San Francisco Giants\nCity: San Francisco, California\nYear Opened: 2000",
+    "answer": "Oracle Park"
+  },
+  {
+    "question": "Team: Baltimore Orioles\nCity: Baltimore, Maryland\nYear Opened: 1992",
+    "answer": "Oriole Park at Camden Yards"
+  },
+  {
+    "question": "Team: San Diego Padres\nCity: San Diego, California\nYear Opened: 2004",
+    "answer": "Petco Park"
+  },
+  {
+    "question": "Team: Pittsburgh Pirates\nCity: Pittsburgh, Pennsylvania\nYear Opened: 2001",
+    "answer": "PNC Park"
+  },
+  {
+    "question": "Team: Cleveland Guardians\nCity: Cleveland, Ohio\nYear Opened: 1994",
+    "answer": "Progressive Field"
+  },
+  {
+    "question": "Team: Toronto Blue Jays\nCity: Toronto, Ontario, Canada\nYear Opened: 1989",
+    "answer": "Rogers Centre"
+  },
+  {
+    "question": "Team: Seattle Mariners\nCity: Seattle, Washington\nYear Opened: 1999",
+    "answer": "T-Mobile Park"
+  },
+  {
+    "question": "Team: Minnesota Twins\nCity: Minneapolis, Minnesota\nYear Opened: 2010",
+    "answer": "Target Field"
+  },
+  {
+    "question": "Team: Tampa Bay Rays\nCity: St. Petersburg, Florida\nYear Opened: 1990",
+    "answer": "Tropicana Field"
+  },
+  {
+    "question": "Team: Atlanta Braves\nCity: Cumberland, Georgia\nYear Opened: 2017",
+    "answer": "Truist Park"
+  },
+  {
+    "question": "Team: Chicago Cubs\nCity: Chicago, Illinois\nYear Opened: 1914",
+    "answer": "Wrigley Field"
+  },
+  {
+    "question": "Team: New York Yankees\nCity: Bronx, New York\nYear Opened: 2009",
+    "answer": "Yankee Stadium"
+  }
+]

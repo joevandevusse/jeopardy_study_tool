@@ -16,7 +16,7 @@
         "answer": "Moonlight"
     },
     {
-        "question": "Year: 2015\nDirector: Tom MCarthy\nActor(s): Mark Ruffalo, Michael Keaton, Rachel McAdams\nSynopsis: The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core",
+        "question": "Year: 2015\nDirector: Tom McCarthy\nActor(s): Mark Ruffalo, Michael Keaton, Rachel McAdams\nSynopsis: The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core",
         "answer": "Spotlight"
     },
     {
@@ -140,7 +140,7 @@
         "answer": "Out of Africa"
     },
     {
-        "question": "Year: 1984\nDirector: Milos Forman\nActor(s): F. Murray Abraham, Tom Hulce, Elizabeth Berridge\nSynopsis: The life, success and troubles of Wolfgang Amadeus Mozart, as told by Antonio Salieri, the contemporaneous composer who was insanely jealous of Mozart's talent and claimed to have murdered him",
+        "question": "Year: 1984\nDirector: Milos Forman\nActor(s): F. Murray Abraham, Tom Hulce, Elizabeth Berridge\nSynopsis: The life, success and troubles of Mozart, as told by Antonio Salieri, the contemporaneous composer who was insanely jealous of Mozart's talent and claimed to have murdered him",
         "answer": "Amadeus"
     },
     {
@@ -168,7 +168,7 @@
         "answer": "The Deer Hunter"
     },
     {
-        "question": "Year: 1977\nDirector: Woody Allen\nActor(s): Woody Allen, Diane Keaton\nSynopsis: Neurotic New York comedian Alvy Singer falls in love with the ditzy Annie Hall",
+        "question": "Year: 1977\nDirector: Woody Allen\nActor(s): Woody Allen, Diane Keaton\nSynopsis: Neurotic New York comedian Alvy Singer falls in love with the ditzy titular character",
         "answer": "Annie Hall"
     },
     {
@@ -192,11 +192,11 @@
         "answer": "The Godfather"
     },
     {
-        "question": "Year: 1971\nDirector: William Friedkin\nActor(s): Gene Hackman, Roy Scheider\nSynopsis: A pair of NYC cops in the Narcotics Bureau stumble onto a drug smuggling job with a French connection",
+        "question": "Year: 1971\nDirector: William Friedkin\nActor(s): Gene Hackman, Roy Scheider\nSynopsis: A pair of NYC cops in the Narcotics Bureau stumble onto a drug smuggling job related to the French",
         "answer": "The French Connection"
     },
     {
-        "question": "Year: 1970\nDirector: Franklin J. Schaffner\nActor(s): George C. Scott, Karl Malden, Stephen Young\nSynopsis: The World War II phase of the career of controversial American general George S. Patton",
+        "question": "Year: 1970\nDirector: Franklin J. Schaffner\nActor(s): George C. Scott, Karl Malden, Stephen Young\nSynopsis: The World War II phase of the career of controversial titular American general",
         "answer": "Patton"
     }
 ]

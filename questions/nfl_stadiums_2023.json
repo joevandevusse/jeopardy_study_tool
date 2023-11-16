@@ -84,11 +84,7 @@
     "answer": "Mercedes-Benz Stadium"
   },
   {
-    "question": "Team: New York Giants\nCity: East Rutherford, New Jersey\nYear Opened: 2010",
-    "answer": "MetLife Stadium"
-  },
-  {
-    "question": "Team: New York Jets\nCity: East Rutherford, New Jersey\nYear Opened: 2010",
+    "question": "Team: New York Giants + Jets\nCity: East Rutherford, New Jersey\nYear Opened: 2010",
     "answer": "MetLife Stadium"
   },
   {
