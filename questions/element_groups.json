@@ -1,0 +1,474 @@
+[
+  {
+    "question": "Element Name: Hydrogen\nChemical Symbol: H\nAtomic Number: 1",
+    "answer": "Reactive Nonmetal"
+  },
+  {
+    "question": "Element Name: Carbon\nChemical Symbol: C\nAtomic Number: 6",
+    "answer": "Reactive Nonmetal"
+  },
+  {
+    "question": "Element Name: Nitrogen\nChemical Symbol: N\nAtomic Number: 7",
+    "answer": "Reactive Nonmetal"
+  },
+  {
+    "question": "Element Name: Oxygen\nChemical Symbol: O\nAtomic Number: 8",
+    "answer": "Reactive Nonmetal"
+  },
+  {
+    "question": "Element Name: Fluorine\nChemical Symbol: F\nAtomic Number: 9",
+    "answer": "Reactive Nonmetal"
+  },
+  {
+    "question": "Element Name: Phorphorus\nChemical Symbol: P\nAtomic Number: 15",
+    "answer": "Reactive Nonmetal"
+  },
+  {
+    "question": "Element Name: Sulfur\nChemical Symbol: S\nAtomic Number: 16",
+    "answer": "Reactive Nonmetal"
+  },
+  {
+    "question": "Element Name: Chlorine\nChemical Symbol: Cl\nAtomic Number: 17",
+    "answer": "Reactive Nonmetal"
+  },
+  {
+    "question": "Element Name: Selenium\nChemical Symbol: Se\nAtomic Number: 34",
+    "answer": "Reactive Nonmetal"
+  },
+  {
+    "question": "Element Name: Bromine\nChemical Symbol: Br\nAtomic Number: 35",
+    "answer": "Reactive Nonmetal"
+  },
+  {
+    "question": "Element Name: Iodine\nChemical Symbol: I\nAtomic Number: 53",
+    "answer": "Reactive Nonmetal"
+  },
+  {
+    "question": "Element Name: Helium\nChemical Symbol: He\nAtomic Number: 2",
+    "answer": "Noble Gas"
+  },
+  {
+    "question": "Element Name: Neon\nChemical Symbol: Ne\nAtomic Number: 10",
+    "answer": "Noble Gas"
+  },
+  {
+    "question": "Element Name: Argon\nChemical Symbol: Ar\nAtomic Number: 18",
+    "answer": "Noble Gas"
+  },
+  {
+    "question": "Element Name: Krypton\nChemical Symbol: Kr\nAtomic Number: 36",
+    "answer": "Noble Gas"
+  },
+  {
+    "question": "Element Name: Xenon\nChemical Symbol: Xe\nAtomic Number: 54",
+    "answer": "Noble Gas"
+  },
+  {
+    "question": "Element Name: Radon\nChemical Symbol: Rn\nAtomic Number: 86",
+    "answer": "Noble Gas"
+  },
+  {
+    "question": "Element Name: Lithium\nChemical Symbol: Li\nAtomic Number: 3",
+    "answer": "Alkali Metal"
+  },
+  {
+    "question": "Element Name: Sodium\nChemical Symbol: Na\nAtomic Number: 11",
+    "answer": "Alkali Metal"
+  },
+  {
+    "question": "Element Name: Potassium\nChemical Symbol: K\nAtomic Number: 19",
+    "answer": "Alkali Metal"
+  },
+  {
+    "question": "Element Name: Rubidium\nChemical Symbol: Rb\nAtomic Number: 37",
+    "answer": "Alkali Metal"
+  },
+  {
+    "question": "Element Name: Cesium\nChemical Symbol: Cs\nAtomic Number: 55",
+    "answer": "Alkali Metal"
+  },
+  {
+    "question": "Element Name: Francium\nChemical Symbol: Fr\nAtomic Number: 87",
+    "answer": "Alkali Metal"
+  },
+  {
+    "question": "Element Name: Beryllium\nChemical Symbol: Be\nAtomic Number: 4",
+    "answer": "Alkali Earth Metal"
+  },
+  {
+    "question": "Element Name: Magnesium\nChemical Symbol: Mg\nAtomic Number: 12",
+    "answer": "Alkali Earth Metal"
+  },
+  {
+    "question": "Element Name: Cacium\nChemical Symbol: Ca\nAtomic Number: 20",
+    "answer": "Alkali Earth Metal"
+  },
+  {
+    "question": "Element Name: Strontium\nChemical Symbol: Sr\nAtomic Number: 38",
+    "answer": "Alkali Earth Metal"
+  },
+  {
+    "question": "Element Name: Barium\nChemical Symbol: Ba\nAtomic Number: 56",
+    "answer": "Alkali Earth Metal"
+  },
+  {
+    "question": "Element Name: Radium\nChemical Symbol: Ra\nAtomic Number: 88",
+    "answer": "Alkali Earth Metal"
+  },
+  {
+    "question": "Element Name: Boron\nChemical Symbol: B\nAtomic Number: 5",
+    "answer": "Metalloid"
+  },
+  {
+    "question": "Element Name: Silicon\nChemical Symbol: Si\nAtomic Number: 14",
+    "answer": "Metalloid"
+  },
+  {
+    "question": "Element Name: Germanium\nChemical Symbol: Ge\nAtomic Number: 32",
+    "answer": "Metalloid"
+  },
+  {
+    "question": "Element Name: Arsenic\nChemical Symbol: As\nAtomic Number: 33",
+    "answer": "Metalloid"
+  },
+  {
+    "question": "Element Name: Antimony\nChemical Symbol: Sb\nAtomic Number: 51",
+    "answer": "Metalloid"
+  },
+  {
+    "question": "Element Name: Tellurium\nChemical Symbol: Te\nAtomic Number: 52",
+    "answer": "Metalloid"
+  },
+  {
+    "question": "Element Name: Astatine\nChemical Symbol: At\nAtomic Number: 85",
+    "answer": "Metalloid"
+  },
+  {
+    "question": "Element Name: Aluminum\nChemical Symbol: Al\nAtomic Number: 13",
+    "answer": "Post-Transition Metal"
+  },
+  {
+    "question": "Element Name: Gallium\nChemical Symbol: Ga\nAtomic Number: 31",
+    "answer": "Post-Transition Metal"
+  },
+  {
+    "question": "Element Name: Indium\nChemical Symbol: In\nAtomic Number: 49",
+    "answer": "Post-Transition Metal"
+  },
+  {
+    "question": "Element Name: Tin\nChemical Symbol: Sn\nAtomic Number: 50",
+    "answer": "Post-Transition Metal"
+  },
+  {
+    "question": "Element Name: Thallium\nChemical Symbol: Tl\nAtomic Number: 81",
+    "answer": "Post-Transition Metal"
+  },
+  {
+    "question": "Element Name: Lead\nChemical Symbol: Pb\nAtomic Number: 82",
+    "answer": "Post-Transition Metal"
+  },
+  {
+    "question": "Element Name: Bismuth\nChemical Symbol: Bi\nAtomic Number: 83",
+    "answer": "Post-Transition Metal"
+  },
+  {
+    "question": "Element Name: Polonium\nChemical Symbol: Po\nAtomic Number: 84",
+    "answer": "Post-Transition Metal"
+  },
+  {
+    "question": "Element Name: Scandium\nChemical Symbol: Sc\nAtomic Number: 21",
+    "answer": "Transition Metal"
+  },
+  {
+    "question": "Element Name: Titanium\nChemical Symbol: Ti\nAtomic Number: 22",
+    "answer": "Transition Metal"
+  },
+  {
+    "question": "Element Name: Vanadium\nChemical Symbol: V\nAtomic Number: 23",
+    "answer": "Transition Metal"
+  },
+  {
+    "question": "Element Name: Chromium\nChemical Symbol: Cr\nAtomic Number: 24",
+    "answer": "Transition Metal"
+  },
+  {
+    "question": "Element Name: Manganese\nChemical Symbol: Mn\nAtomic Number: 25",
+    "answer": "Transition Metal"
+  },
+  {
+    "question": "Element Name: Iron\nChemical Symbol: Fe\nAtomic Number: 26",
+    "answer": "Transition Metal"
+  },
+  {
+    "question": "Element Name: Cobalt\nChemical Symbol: Co\nAtomic Number: 27",
+    "answer": "Transition Metal"
+  },
+  {
+    "question": "Element Name: Nickel\nChemical Symbol: Ni\nAtomic Number: 28",
+    "answer": "Transition Metal"
+  },
+  {
+    "question": "Element Name: Copper\nChemical Symbol: Cu\nAtomic Number: 29",
+    "answer": "Transition Metal"
+  },
+  {
+    "question": "Element Name: Zinc\nChemical Symbol: Zn\nAtomic Number: 30",
+    "answer": "Transition Metal"
+  },
+  {
+    "question": "Element Name: Yttrium\nChemical Symbol: Y\nAtomic Number: 39",
+    "answer": "Transition Metal"
+  },
+  {
+    "question": "Element Name: Zirconium\nChemical Symbol: Zr\nAtomic Number: 40",
+    "answer": "Transition Metal"
+  },
+  {
+    "question": "Element Name: Niobium\nChemical Symbol: Nb\nAtomic Number: 41",
+    "answer": "Transition Metal"
+  },
+  {
+    "question": "Element Name: Molybdenum\nChemical Symbol: Mo\nAtomic Number: 42",
+    "answer": "Transition Metal"
+  },
+  {
+    "question": "Element Name: Technetium\nChemical Symbol: Tc\nAtomic Number: 43",
+    "answer": "Transition Metal"
+  },
+  {
+    "question": "Element Name: Ruthenium\nChemical Symbol: Ru\nAtomic Number: 44",
+    "answer": "Transition Metal"
+  },
+  {
+    "question": "Element Name: Rhodium\nChemical Symbol: Rh\nAtomic Number: 45",
+    "answer": "Transition Metal"
+  },
+  {
+    "question": "Element Name: Palladium\nChemical Symbol: Pd\nAtomic Number: 46",
+    "answer": "Transition Metal"
+  },
+  {
+    "question": "Element Name: Silver\nChemical Symbol: Ag\nAtomic Number: 47",
+    "answer": "Transition Metal"
+  },
+  {
+    "question": "Element Name: Cadmium\nChemical Symbol: Cd\nAtomic Number: 48",
+    "answer": "Transition Metal"
+  },
+  {
+    "question": "Element Name: Hafnium\nChemical Symbol: Hf\nAtomic Number: 72",
+    "answer": "Transition Metal"
+  },
+  {
+    "question": "Element Name: Tantalum\nChemical Symbol: Ta\nAtomic Number: 73",
+    "answer": "Transition Metal"
+  },
+  {
+    "question": "Element Name: Tungsten\nChemical Symbol: W\nAtomic Number: 74",
+    "answer": "Transition Metal"
+  },
+  {
+    "question": "Element Name: Rhenium\nChemical Symbol: Re\nAtomic Number: 75",
+    "answer": "Transition Metal"
+  },
+  {
+    "question": "Element Name: Osmium\nChemical Symbol: Os\nAtomic Number: 76",
+    "answer": "Transition Metal"
+  },
+  {
+    "question": "Element Name: Iridium\nChemical Symbol: Ir\nAtomic Number: 77",
+    "answer": "Transition Metal"
+  },
+  {
+    "question": "Element Name: Platinum\nChemical Symbol: Pt\nAtomic Number: 78",
+    "answer": "Transition Metal"
+  },
+  {
+    "question": "Element Name: Gold\nChemical Symbol: Au\nAtomic Number: 79",
+    "answer": "Transition Metal"
+  },
+  {
+    "question": "Element Name: Mercury\nChemical Symbol: Hg\nAtomic Number: 80",
+    "answer": "Transition Metal"
+  },
+  {
+    "question": "Element Name: Rutherfordium\nChemical Symbol: Rf\nAtomic Number: 104",
+    "answer": "Transition Metal"
+  },
+  {
+    "question": "Element Name: Dubnium\nChemical Symbol: Db\nAtomic Number: 105",
+    "answer": "Transition Metal"
+  },
+  {
+    "question": "Element Name: Seaborgium\nChemical Symbol: Sg\nAtomic Number: 106",
+    "answer": "Transition Metal"
+  },
+  {
+    "question": "Element Name: Bohrium\nChemical Symbol: Bh\nAtomic Number: 107",
+    "answer": "Transition Metal"
+  },
+  {
+    "question": "Element Name: Hassium\nChemical Symbol: Hs\nAtomic Number: 108",
+    "answer": "Transition Metal"
+  },
+  {
+    "question": "Element Name: Lanthanum\nChemical Symbol: La\nAtomic Number: 57",
+    "answer": "Lanthanoid"
+  },
+  {
+    "question": "Element Name: Cerium\nChemical Symbol: Ce\nAtomic Number: 58",
+    "answer": "Lanthanoid"
+  },
+  {
+    "question": "Element Name: Praseodymium\nChemical Symbol: Pr\nAtomic Number: 59",
+    "answer": "Lanthanoid"
+  },
+  {
+    "question": "Element Name: Neodymium\nChemical Symbol: Nd\nAtomic Number: 60",
+    "answer": "Lanthanoid"
+  },
+  {
+    "question": "Element Name: Promethium\nChemical Symbol: Pm\nAtomic Number: 61",
+    "answer": "Lanthanoid"
+  },
+  {
+    "question": "Element Name: Samarium\nChemical Symbol: Sm\nAtomic Number: 62",
+    "answer": "Lanthanoid"
+  },
+  {
+    "question": "Element Name: Europium\nChemical Symbol: Eu\nAtomic Number: 63",
+    "answer": "Lanthanoid"
+  },
+  {
+    "question": "Element Name: Gadolinium\nChemical Symbol: Gd\nAtomic Number: 64",
+    "answer": "Lanthanoid"
+  },
+  {
+    "question": "Element Name: Terbium\nChemical Symbol: Tb\nAtomic Number: 65",
+    "answer": "Lanthanoid"
+  },
+  {
+    "question": "Element Name: Dysprosium\nChemical Symbol: Dy\nAtomic Number: 66",
+    "answer": "Lanthanoid"
+  },
+  {
+    "question": "Element Name: Holmium\nChemical Symbol: Ho\nAtomic Number: 67",
+    "answer": "Lanthanoid"
+  },
+  {
+    "question": "Element Name: Erbium\nChemical Symbol: Er\nAtomic Number: 68",
+    "answer": "Lanthanoid"
+  },
+  {
+    "question": "Element Name: Thulium\nChemical Symbol: Tm\nAtomic Number: 69",
+    "answer": "Lanthanoid"
+  },
+  {
+    "question": "Element Name: Ytterbium\nChemical Symbol: Yb\nAtomic Number: 70",
+    "answer": "Lanthanoid"
+  },
+  {
+    "question": "Element Name: Lutetium\nChemical Symbol: Lu\nAtomic Number: 71",
+    "answer": "Lanthanoid"
+  },
+  {
+    "question": "Element Name: Actinium\nChemical Symbol: Ac\nAtomic Number: 89",
+    "answer": "Actinoid"
+  },
+  {
+    "question": "Element Name: Thorium\nChemical Symbol: Th\nAtomic Number: 90",
+    "answer": "Actinoid"
+  },
+  {
+    "question": "Element Name: Protactinium\nChemical Symbol: Pa\nAtomic Number: 91",
+    "answer": "Actinoid"
+  },
+  {
+    "question": "Element Name: Uranium\nChemical Symbol: U\nAtomic Number: 92",
+    "answer": "Actinoid"
+  },
+  {
+    "question": "Element Name: Neptunium\nChemical Symbol: Np\nAtomic Number: 93",
+    "answer": "Actinoid"
+  },
+  {
+    "question": "Element Name: Plutonium\nChemical Symbol: Pu\nAtomic Number: 94",
+    "answer": "Actinoid"
+  },
+  {
+    "question": "Element Name: Americium\nChemical Symbol: Am\nAtomic Number: 95",
+    "answer": "Actinoid"
+  },
+  {
+    "question": "Element Name: Curium\nChemical Symbol: Cm\nAtomic Number: 96",
+    "answer": "Actinoid"
+  },
+  {
+    "question": "Element Name: Berkelium\nChemical Symbol: Bk\nAtomic Number: 97",
+    "answer": "Actinoid"
+  },
+  {
+    "question": "Element Name: Californium\nChemical Symbol: Cf\nAtomic Number: 98",
+    "answer": "Actinoid"
+  },
+  {
+    "question": "Element Name: Einsteinium\nChemical Symbol: Es\nAtomic Number: 99",
+    "answer": "Actinoid"
+  },
+  {
+    "question": "Element Name: Fermium\nChemical Symbol: Fm\nAtomic Number: 100",
+    "answer": "Actinoid"
+  },
+  {
+    "question": "Element Name: Mendelevium\nChemical Symbol: Md\nAtomic Number: 101",
+    "answer": "Actinoid"
+  },
+  {
+    "question": "Element Name: Nobelium\nChemical Symbol: No\nAtomic Number: 102",
+    "answer": "Actinoid"
+  },
+  {
+    "question": "Element Name: Lawrencium\nChemical Symbol: Lr\nAtomic Number: 103",
+    "answer": "Actinoid"
+  },
+  {
+    "question": "Element Name: Meitnerium\nChemical Symbol: Mt\nAtomic Number: 109",
+    "answer": "None"
+  },
+  {
+    "question": "Element Name: Darmstadtium\nChemical Symbol: Ds\nAtomic Number: 110",
+    "answer": "None"
+  },
+  {
+    "question": "Element Name: Roentgenium\nChemical Symbol: Rg\nAtomic Number: 111",
+    "answer": "None"
+  },
+  {
+    "question": "Element Name: Copernicium\nChemical Symbol: Cn\nAtomic Number: 112",
+    "answer": "None"
+  },
+  {
+    "question": "Element Name: Nihonium\nChemical Symbol: Nh\nAtomic Number: 113",
+    "answer": "None"
+  },
+  {
+    "question": "Element Name: Flerovium\nChemical Symbol: Fl\nAtomic Number: 114",
+    "answer": "None"
+  },
+  {
+    "question": "Element Name: Moscovium\nChemical Symbol: Mc\nAtomic Number: 115",
+    "answer": "None"
+  },
+  {
+    "question": "Element Name: Livermorium\nChemical Symbol: Lv\nAtomic Number: 116",
+    "answer": "None"
+  },
+  {
+    "question": "Element Name: Tennessine\nChemical Symbol: Ts\nAtomic Number: 117",
+    "answer": "None"
+  },
+  {
+    "question": "Element Name: Osanesson\nChemical Symbol: Og\nAtomic Number: 118",
+    "answer": "None"
+  }
+]

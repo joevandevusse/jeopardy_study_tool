@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Code: DMM\nLocation: Dammam, Saudi Arabia\nSize (sq mi): 300\nRank: 1",
+    "answer": "King Fahd International Airport"
+  },
+  {
+    "question": "Code: DEN\nLocation: Colorado, USA\nSize (sq mi): 53\nRank: 2",
+    "answer": "Denver International Airport"
+  },
+  {
+    "question": "Code: KUL\nLocation: Malaysia\nSize (sq mi): 39\nRank: 3",
+    "answer": "Kuala Lumpur International Airport"
+  },
+  {
+    "question": "Code: IST\nLocation: Turkey\nSize (sq mi): 29.5\nRank: 4",
+    "answer": "Istanbul Airport"
+  },
+  {
+    "question": "Code: DFW\nLocation: Texas, USA\nSize (sq mi): 26\nRank: 5",
+    "answer": "Dallas/Fort Worth International Airport"
+  },
+  {
+    "question": "Code: RSW\nLocation: Fort Myers, FL, USA\nSize (sq mi): 21.2\nRank: 6",
+    "answer": "Southwest Florida International Airport"
+  },
+  {
+    "question": "Code: MCO\nLocation: Florida, USA\nSize (sq mi): 20.7\nRank: 7",
+    "answer": "Orlando International Airport"
+  },
+  {
+    "question": "Code: IAD\nLocation: Virginia, USA\nSize (sq mi): 18.7\nRank: 8",
+    "answer": "Washington Dulles International Airport"
+  },
+  {
+    "question": "Code: PKX\nLocation: Beijing, China\nSize (sq mi): 18\nRank: 9",
+    "answer": "Beijing Daxing International Airport"
+  },
+  {
+    "question": "Code: IAH\nLocation: Houston, TX, USA\nSize (sq mi): 17.1\nRank: 10",
+    "answer": "George Bush Intercontinental Airport"
+  }
+]

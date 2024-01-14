@@ -1,0 +1,146 @@
+[
+  {
+    "question": "Author: Charles Dickens\nLanguage: English\nYear: 1859\nSales (m): >200\nGenre: Historical Fiction",
+    "answer": "A Tale of Two Cities"
+  },
+  {
+    "question": "Author: Antoine de Saint-Exupery\nLanguage: French\nYear: 1943\nSales (m): 200\nGenre: Fantasy, Children's Fiction",
+    "answer": "The Little Prince"
+  },
+  {
+    "question": "Author: J.R.R. Tolkein\nLanguage: English\nYear: 1955\nSales (m): >150\nGenre: High Fantasy, Adventure",
+    "answer": "The Lord of the Rings"
+  },
+  {
+    "question": "Author: J.K. Rowling\nLanguage: English\nYear: 1997\nSales (m): 120\nGenre: Fantasy, Children's Fiction",
+    "answer": "Harry Potter and the Philosopher's Stone"
+  },
+  {
+    "question": "Author: Agatha Christie\nLanguage: English\nYear: 1939\nSales (m): 100\nGenre: Mystery",
+    "answer": "And Then There Were None"
+  },
+  {
+    "question": "Author: Cao Xuequin\nLanguage: Chinese\nYear: 1791\nSales (m): 100\nGenre: Family Saga",
+    "answer": "Dream of the Red Chamber"
+  },
+  {
+    "question": "Author: J.R.R. Tolkein\nLanguage: English\nYear: 1937\nSales (m): 100\nGenre: Fantasy, Children's Fiction",
+    "answer": "The Hobbit"
+  },
+  {
+    "question": "Author: H. Rider Haggard\nLanguage: English\nYear: 1887\nSales (m): 83\nGenre: Adventure",
+    "answer": "She: A History of Adventure"
+  },
+  {
+    "question": "Author: Ved Prakash Sharma\nLanguage: Hindi\nYear: 1992\nSales (m): >80\nGenre: Detective",
+    "answer": "Vardi Wala Gunda"
+  },
+  {
+    "question": "Author: Dan Brown\nLanguage: English\nYear: 2003\nSales (m): 80\nGenre: Mystery Thriller",
+    "answer": "The Da Vinci Code"
+  },
+  {
+    "question": "Author: J.K. Rowling\nLanguage: English\nYear: 1998\nSales (m): 77\nGenre: Fantasy",
+    "answer": "Harry Potter and the Chamber of Secrets"
+  },
+  {
+    "question": "Author: J.K. Rowling\nLanguage: English\nYear: 1999\nSales (m): 65\nGenre: Fantasy",
+    "answer": "Harry Potter and the Prisoner of Azkaban"
+  },
+  {
+    "question": "Author: J.K. Rowling\nLanguage: English\nYear: 2000\nSales (m): 65\nGenre: Fantasy",
+    "answer": "Harry Potter and the Goblet of Fire"
+  },
+  {
+    "question": "Author: J.K. Rowling\nLanguage: English\nYear: 2003\nSales (m): 65\nGenre: Fantasy",
+    "answer": "Harry Potter and the Order of the Phoenix"
+  },
+  {
+    "question": "Author: J.K. Rowling\nLanguage: English\nYear: 2005\nSales (m): 65\nGenre: Fantasy",
+    "answer": "Harry Potter and the Half-Blood Prince"
+  },
+  {
+    "question": "Author: J.K. Rowling\nLanguage: English\nYear: 2007\nSales (m): 65\nGenre: Fantasy",
+    "answer": "Harry Potter and the Deathly Hallows"
+  },
+  {
+    "question": "Author: Paulo Coelho\nLanguage: Portugese\nYear: 1988\nSales (m): 65\nGenre: Fantasy",
+    "answer": "The Alchemist"
+  },
+  {
+    "question": "Author: J.D. Salinger\nLanguage: English\nYear: 1951\nSales (m): 65\nGenre: Coming-of-Age",
+    "answer": "The Catcher in the Rye"
+  },
+  {
+    "question": "Author: Robert James Waller\nLanguage: English\nYear: 1992\nSales (m): 60\nGenre: Romance",
+    "answer": "The Bridges of Madison County"
+  },
+  {
+    "question": "Author: Gabriel Garcia Marquez\nLanguage: Spanish\nYear: 1967\nSales (m): 50\nGenre: Magic Realism",
+    "answer": "One Hundred Year of Solitude"
+  },
+  {
+    "question": "Author: Vladimir Nabokov\nLanguage: English\nYear: 1955\nSales (m): 50\nGenre: Novel",
+    "answer": "Lolita"
+  },
+  {
+    "question": "Author: Johanna Spyri\nLanguage: German\nYear: 1880\nSales (m): 50\nGenre: Children's Fiction",
+    "answer": "Heidi"
+  },
+  {
+    "question": "Author: Benjamin Spock\nLanguage: English\nYear: 1946\nSales (m): 50\nGenre: Manual",
+    "answer": "The Common Sense Book of Baby and Child Care"
+  },
+  {
+    "question": "Author: Lucy Maud Montgomery\nLanguage: English\nYear: 1908\nSales (m): 50\nGenre: Children's Novel",
+    "answer": "Anne of Green Gables"
+  },
+  {
+    "question": "Author: Anna Sewell\nLanguage: English\nYear: 1877\nSales (m): 50\nGenre: Children's Literature",
+    "answer": "Black Beauty"
+  },
+  {
+    "question": "Author: Umberto Eco\nLanguage: Italian\nYear: 1980\nSales (m): 50\nGenre: Historical Novel, Mystery",
+    "answer": "The Name of the Rose"
+  },
+  {
+    "question": "Author: Jack Higgins\nLanguage: English\nYear: 1975\nSales (m): 50\nGenre: War, Thriller",
+    "answer": "The Eagle Has Landed"
+  },
+  {
+    "question": "Author: Richard Adams\nLanguage: English\nYear: 1972\nSales (m): 50\nGenre: Fantasy",
+    "answer": "Watership Down"
+  },
+  {
+    "question": "Author: Shere Hite\nLanguage: English\nYear: 1976\nSales (m): 50\nGenre: Sexology",
+    "answer": "The Hite Report"
+  },
+  {
+    "question": "Author: E.B. White\nLanguage: English\nYear: 1952\nSales (m): 50\nGenre: Children's Fiction",
+    "answer": "Charlotte's Web"
+  },
+  {
+    "question": "Author: J.P. Donleavy\nLanguage: English\nYear: 1955\nSales (m): 50\nGenre: Novel",
+    "answer": "The Ginger Man"
+  },
+  {
+    "question": "Author: Beatrix Potter\nLanguage: English\nYear: 1902\nSales (m): 45\nGenre: Children's Literature",
+    "answer": "The Taler of Peter Rabbit"
+  },
+  {
+    "question": "Author: Richard Bach\nLanguage: English\nYear: 1970\nSales (m): 44\nGenre: Novella, Self-Help",
+    "answer": "Jonathan Livingston Seagull"
+  },
+  {
+    "question": "Author: Eric Carle\nLanguage: English\nYear: 1969\nSales (m): 43\nGenre: Chidren's Literature, Picture Book",
+    "answer": "The Very Hungry Caterpillar"
+  },
+  {
+    "question": "Author: Elbert Hubbard\nLanguage: English\nYear: 1899\nSales (m): 40\nGenre: Essay, Literature",
+    "answer": "A Message to Garcia"
+  },
+  {
+    "question": "Author: Harper Lee\nLanguage: English\nYear: 1960\nSales (m): 40\nGenre: Southern Gothic, Bildungsroman",
+    "answer": "To Kill a Mockingbird"
+  }
+]

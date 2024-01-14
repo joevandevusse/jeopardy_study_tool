@@ -1,0 +1,202 @@
+[
+  {
+    "question": "Location: Georgia, USA\nCode: ATL\nPassengers (m): 93.7\nRank: 1",
+    "answer": "Hartsfield-Jackson Atlanta International Airport"
+  },
+  {
+    "question": "Location: Texas, USA\nCode: DFW\nPassengers (m): 73.4\nRank: 2",
+    "answer": "Dallas Fort Worth International Airport"
+  },
+  {
+    "question": "Location: Colorado, USA\nCode: DEN\nPassengers (m): 69.3\nRank: 3",
+    "answer": "Denver International Airport"
+  },
+  {
+    "question": "Location: Chicago, IL, USA\nCode: ORD\nPassengers (m): 68.3\nRank: 4",
+    "answer": "O'Hare International, Airport"
+  },
+  {
+    "question": "Location: Garhoud, Dubai, UAE\nCode: DXB\nPassengers (m): 66.1\nRank: 5",
+    "answer": "United Arab Emirates Dubai International Airport"
+  },
+  {
+    "question": "Location: California, USA\nCode: LAX\nPassengers (m): 65.9\nRank: 6",
+    "answer": "Los Angeles International Airport"
+  },
+  {
+    "question": "Location: Arnavutkoy, Turkey\nCode: IST\nPassengers (m): 64.3\nRank: 7",
+    "answer": "Istanbul Airport"
+  },
+  {
+    "question": "Location: Hillingdon, London, UK\nCode: LHR\nPassengers (m): 61.6\nRank: 8",
+    "answer": "Heathrow Airport"
+  },
+  {
+    "question": "Location: Palam, Delhi, India\nCode: DEL\nPassengers (m): 59.5\nRank: 9",
+    "answer": "Indira Gandhi International Airport"
+  },
+  {
+    "question": "Location: Roissy-en-France, Ile-de-France, France\nCode: CDG\nPassengers (m): 57.5\nRank: 10",
+    "answer": "Charles da Gaulle Airport"
+  },
+  {
+    "question": "Location: Queens, NYC, NY, USA\nCode: JFK\nPassengers (m): 55.3\nRank: 11",
+    "answer": "John F. Kennedy International Airport"
+  },
+  {
+    "question": "Location: Las Vegas, NV, USA\nCode: LAS\nPassengers (m): 52.7\nRank: 12",
+    "answer": "Harry Reid International Airport"
+  },
+  {
+    "question": "Location: Haarlemmermeer, North Holland, Netherlands\nCode: AMS\nPassengers (m): 52.5\nRank: 13",
+    "answer": "Amsterdam Airport Schiphol"
+  },
+  {
+    "question": "Location: Florida, USA\nCode: MIA\nPassengers (m): 50.7\nRank: 14",
+    "answer": "Miami International Airport"
+  },
+  {
+    "question": "Location: Madrid, Spain\nCode: MAD\nPassengers (m): 50.6\nRank: 15",
+    "answer": "Adolfo Suarez Madrid-Barajas Airport"
+  },
+  {
+    "question": "Location: Ota, Tokyo, Japan\nCode: HND\nPassengers (m): 50.3\nRank: 16",
+    "answer": "Tokyo Haneda Airport"
+  },
+  {
+    "question": "Location: Florida, USA\nCode: MCO\nPassengers (m): 50.2\nRank: 17",
+    "answer": "Orlando International Airport"
+  },
+  {
+    "question": "Location: Hesse, Germany\nCode: FRA\nPassengers (m): 48.9\nRank: 18",
+    "answer": "Frankfurt Airport"
+  },
+  {
+    "question": "Location: North Carolina, USA\nCode: CLT\nPassengers (m): 47.8\nRank: 19",
+    "answer": "Charlotte Douglas International Airport"
+  },
+  {
+    "question": "Location: Mexico\nCode: MEX\nPassengers (m): 46.3\nRank: 20",
+    "answer": "Mexico City International Airport"
+  },
+  {
+    "question": "Location: Washington, USA\nCode: SEA\nPassengers (m): 46\nRank: 21",
+    "answer": "Seattle-Tacoma International Airport"
+  },
+  {
+    "question": "Location: Arizona, USA\nCode: PHX\nPassengers (m): 44.4\nRank: 22",
+    "answer": "Phoenix Sky Harbor International Airport"
+  },
+  {
+    "question": "Location: New Jersey, USA\nCode: EWR\nPassengers (m): 43.6\nRank: 23",
+    "answer": "Newark Liberty International Airport"
+  },
+  {
+    "question": "Location: San Mateo County, CA, USA\nCode: SFO\nPassengers (m): 42.2\nRank: 24",
+    "answer": "San Francisco International Airport"
+  },
+  {
+    "question": "Location: Barcelona, Spain\nCode: BCN\nPassengers (m): 41.6\nRank: 25",
+    "answer": "Josep Tarradellas Barcelona-El Prat Airport"
+  },
+  {
+    "question": "Location: Houston, TX, USA\nCode: IAH\nPassengers (m): 41\nRank: 26",
+    "answer": "George Bush Intercontinental Airport"
+  },
+  {
+    "question": "Location: Tangerang, Banten, Indonesia\nCode: CGK\nPassengers (m): 38.8\nRank: 27",
+    "answer": "Soekarno-Hatta International Airport"
+  },
+  {
+    "question": "Location: Mumbai, Maharashtra, India\nCode: BOM\nPassengers (m): 38.3\nRank: 28",
+    "answer": "Chhatrapati Shivaji Maharaj International Airport"
+  },
+  {
+    "question": "Location: Mississauga, Ontario, Canada\nCode: YYZ\nPassengers (m): 36.4\nRank: 29",
+    "answer": "Toronto Pearson International Airport"
+  },
+  {
+    "question": "Location: East Boston, MA, USA\nCode: BOS\nPassengers (m): 36.1\nRank: 30",
+    "answer": "Logan International Airport"
+  },
+  {
+    "question": "Location: Doha, Qatar\nCode: DOH\nPassengers (m): 35.7\nRank: 31",
+    "answer": "Hamad International Airport"
+  },
+  {
+    "question": "Location: Bogota, Colombia\nCode: BOG\nPassengers (m): 35.4\nRank: 32",
+    "answer": "Eldorado International Airport"
+  },
+  {
+    "question": "Location: Guarulhos, Brazil\nCode: GRU\nPassengers (m): 34.5\nRank: 33",
+    "answer": "Sao Paulo/Guarhlhos International Airport"
+  },
+  {
+    "question": "Location: Ho Chi Minh City, Vietnam\nCode: SGN\nPassengers (m): 34.3\nRank: 34",
+    "answer": "Tan Son Nhat International Airport"
+  },
+  {
+    "question": "Location: Crawley, West Sussex, UK\nCode: LGW\nPassengers (m): 32.8\nRank: 35",
+    "answer": "London Gatwick Airport"
+  },
+  {
+    "question": "Location: Changi, East Region, Singapore\nCode: SIN\nPassengers (m): 32.2\nRank: 36",
+    "answer": "Singapore Changi Airport"
+  },
+  {
+    "question": "Location: Broward County, FL, USA\nCode: FLL\nPassengers (m): 31.7\nRank: 37",
+    "answer": "Fort Lauderdale-Hollywood International Airport"
+  },
+  {
+    "question": "Location: Jeddah, Saudi Arabia\nCode: JED\nPassengers (m): 31.6\nRank: 38",
+    "answer": "King Abdulaziz International Airport"
+  },
+  {
+    "question": "Location: Freising, Bavaria, Germany\nCode: MUC\nPassengers (m): 31.6\nRank: 39",
+    "answer": "Munich Airport"
+  },
+  {
+    "question": "Location: Turkey\nCode: AYT\nPassengers (m): 31.2\nRank: 40",
+    "answer": "Antalya Airport"
+  },
+  {
+    "question": "Location: Pendik, Istanbul, Turkey\nCode: SAW\nPassengers (m): 30.8\nRank: 41",
+    "answer": "Istanbul Sabiha Gokcen International Airport"
+  },
+  {
+    "question": "Location: St Paul, MN, USA\nCode: MSP\nPassengers (m): 30.6\nRank: 42",
+    "answer": "Minneapolis/St Paul International Airport"
+  },
+  {
+    "question": "Location: Mexico\nCode: CUN\nPassengers (m): 30.5\nRank: 43",
+    "answer": "Cancun International Airport"
+  },
+  {
+    "question": "Location: Pasay/Paranaque Metro Manila, Philippines\nCode: MNL\nPassengers (m): 30.3\nRank: 44",
+    "answer": "Ninoy Aquino International Airport"
+  },
+  {
+    "question": "Location: South Korea\nCode: CJU\nPassengers (m): 29.7\nRank: 45",
+    "answer": "Jeju International Airport"
+  },
+  {
+    "question": "Location: Rome Metro, Italy \"Leonardo da Vinci\" \nCode: FCO\nPassengers (m): 29.3\nRank: 46",
+    "answer": "Rome-Flumicino International Airport"
+  },
+  {
+    "question": "Location: Paris Metro, France\nCode: ORY\nPassengers (m): 29.2\nRank: 47",
+    "answer": "Orly Airport"
+  },
+  {
+    "question": "Location: Mascot, New South Wales, Australia\nCode: SYD\nPassengers (m): 29.1\nRank: 48",
+    "answer": "Sydney Kingsford Smith Airport"
+  },
+  {
+    "question": "Location: Queens, NYC, NY, USA\nCode: LGA\nPassengers (m): 29\nRank: 49",
+    "answer": "LaGuardia Airport"
+  },
+  {
+    "question": "Location: Racha Thewa, Bangkok Metro, Thailand\nCode: BKK\nPassengers (m): 28.8\nRank: 50",
+    "answer": "Suvarnabhumi Airport"
+  }
+]

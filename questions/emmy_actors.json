@@ -1,0 +1,530 @@
+[
+  {
+    "question": "Year: 2022\nCategory: Lead Comedy Actor\nShow: Ted Lasso\nNetwork: Apple TV+",
+    "answer": "Jason Sudeikis"
+  },
+  {
+    "question": "Year: 2022\nCategory: Lead Drama Actor\nShow: Squid Game\nNetwork: Netflix",
+    "answer": "Lee Jung-jae"
+  },
+  {
+    "question": "Year: 2022\nCategory: Lead Comedy Actress\nShow: Hacks\nNetwork: HBO",
+    "answer": "Jean Smart"
+  },
+  {
+    "question": "Year: 2022\nCategory: Lead Drama Actress\nShow: Euphoria\nNetwork: HBO",
+    "answer": "Zendaya"
+  },
+  {
+    "question": "Year: 2021\nCategory: Lead Comedy Actor\nShow: Ted Lasso\nNetwork: Apple TV+",
+    "answer": "Jason Sudeikis"
+  },
+  {
+    "question": "Year: 2021\nCategory: Lead Drama Actor\nShow: The Crown\nNetwork: Netflix",
+    "answer": "Josh O'Connor"
+  },
+  {
+    "question": "Year: 2021\nCategory: Lead Comedy Actress\nShow: Hacks\nNetwork: HBO",
+    "answer": "Jean Smart"
+  },
+  {
+    "question": "Year: 2021\nCategory: Lead Drama Actress\nShow: The Crown\nNetwork: Netflix",
+    "answer": "Olivia Colman"
+  },
+  {
+    "question": "Year: 2020\nCategory: Lead Comedy Actor\nShow: Schitt's Creek\nNetwork: Pop",
+    "answer": "Eugene Levy"
+  },
+  {
+    "question": "Year: 2020\nCategory: Lead Drama Actor\nShow: Succession\nNetwork: HBO",
+    "answer": "Jeremy Strong"
+  },
+  {
+    "question": "Year: 2020\nCategory: Lead Comedy Actress\nShow: Schitt's Creek\nNetwork: Pop",
+    "answer": "Catherine O'Hara"
+  },
+  {
+    "question": "Year: 2020\nCategory: Lead Drama Actress\nShow: Euphoria\nNetwork: HBO",
+    "answer": "Zendaya"
+  },
+  {
+    "question": "Year: 2019\nCategory: Lead Comedy Actor\nShow: Barry\nNetwork: HBO",
+    "answer": "Bill Hader"
+  },
+  {
+    "question": "Year: 2019\nCategory: Lead Drama Actor\nShow: Pose\nNetwork: FX",
+    "answer": "Billy Porter"
+  },
+  {
+    "question": "Year: 2019\nCategory: Lead Comedy Actress\nShow: Fleabag\nNetwork: Amazon",
+    "answer": "Phoebe Waller-Bridge"
+  },
+  {
+    "question": "Year: 2019\nCategory: Lead Drama Actress\nShow: Killing Eve\nNetwork: BBC America",
+    "answer": "Jodie Comer"
+  },
+  {
+    "question": "Year: 2018\nCategory: Lead Comedy Actor\nShow: Barry\nNetwork: HBO",
+    "answer": "Bill Hader"
+  },
+  {
+    "question": "Year: 2018\nCategory: Lead Drama Actor\nShow: The Americans\nNetwork: FX",
+    "answer": "Matthew Rhys"
+  },
+  {
+    "question": "Year: 2018\nCategory: Lead Comedy Actress\nShow: The Marvelous Mrs. Maisel\nNetwork: Amazon",
+    "answer": "Rachel Brosnahan"
+  },
+  {
+    "question": "Year: 2018\nCategory: Lead Drama Actress\nShow: The Crown\nNetwork: Netflix",
+    "answer": "Claire Foy"
+  },
+  {
+    "question": "Year: 2017\nCategory: Lead Comedy Actor\nShow: Atlanta\nNetwork: FX",
+    "answer": "Donald Glover"
+  },
+  {
+    "question": "Year: 2017\nCategory: Lead Drama Actor\nShow: This Is US\nNetwork: NBC",
+    "answer": "Sterling K. Brown"
+  },
+  {
+    "question": "Year: 2017\nCategory: Lead Comedy Actress\nShow: Veep\nNetwork: HBO",
+    "answer": "Julia Louis-Dreyfus"
+  },
+  {
+    "question": "Year: 2017\nCategory: Lead Drama Actress\nShow: The Handmaid's Tale\nNetwork: Hulu",
+    "answer": "Elisabeth Moss"
+  },
+  {
+    "question": "Year: 2016\nCategory: Lead Comedy Actor\nShow: Transparent\nNetwork: Amazon",
+    "answer": "Jeffrey Tambor"
+  },
+  {
+    "question": "Year: 2016\nCategory: Lead Drama Actor\nShow: Mr. Robot\nNetwork: USA",
+    "answer": "Rami Malek"
+  },
+  {
+    "question": "Year: 2016\nCategory: Lead Comedy Actress\nShow: Veep\nNetwork: HBO",
+    "answer": "Julia Louis-Dreyfus"
+  },
+  {
+    "question": "Year: 2016\nCategory: Lead Drama Actress\nShow: Orphan Black\nNetwork: BBC America",
+    "answer": "Tatiana Maslany"
+  },
+  {
+    "question": "Year: 2015\nCategory: Lead Comedy Actor\nShow: Transparent\nNetwork: Amazon",
+    "answer": "Jeffrey Tambor"
+  },
+  {
+    "question": "Year: 2015\nCategory: Lead Drama Actor\nShow: Mad Men\nNetwork: AMC",
+    "answer": "Jon Hamm"
+  },
+  {
+    "question": "Year: 2015\nCategory: Lead Comedy Actress\nShow: Veep\nNetwork: HBO",
+    "answer": "Julia Louis-Dreyfus"
+  },
+  {
+    "question": "Year: 2015\nCategory: Lead Drama Actress\nShow: How to Get Away with Murder\nNetwork: ABC",
+    "answer": "Viola Davis"
+  },
+  {
+    "question": "Year: 2014\nCategory: Lead Comedy Actor\nShow: The Big Bang Theory\nNetwork: CBS",
+    "answer": "Jim Parsons"
+  },
+  {
+    "question": "Year: 2014\nCategory: Lead Drama Actor\nShow: Breaking Bad\nNetwork: AMC",
+    "answer": "Bryan Cranston"
+  },
+  {
+    "question": "Year: 2014\nCategory: Lead Comedy Actress\nShow: Veep\nNetwork: HBO",
+    "answer": "Julia Louis-Dreyfus"
+  },
+  {
+    "question": "Year: 2014\nCategory: Lead Drama Actress\nShow: The Good Wife\nNetwork: CBS",
+    "answer": "Julianna Margulies"
+  },
+  {
+    "question": "Year: 2013\nCategory: Lead Comedy Actor\nShow: The Big Bang Theory\nNetwork: CBS",
+    "answer": "Jim Parsons"
+  },
+  {
+    "question": "Year: 2013\nCategory: Lead Drama Actor\nShow: The Newsroom\nNetwork: HBO",
+    "answer": "Jeff Daniels"
+  },
+  {
+    "question": "Year: 2013\nCategory: Lead Comedy Actress\nShow: Veep\nNetwork: HBO",
+    "answer": "Julia Louis-Dreyfus"
+  },
+  {
+    "question": "Year: 2013\nCategory: Lead Drama Actress\nShow: Homeland\nNetwork: Showtime",
+    "answer": "Claire Danes"
+  },
+  {
+    "question": "Year: 2012\nCategory: Lead Comedy Actor\nShow: Two and a Half Men\nNetwork: CBS",
+    "answer": "Jon Cryer"
+  },
+  {
+    "question": "Year: 2012\nCategory: Lead Drama Actor\nShow: Homeland\nNetwork: Showtime",
+    "answer": "Damian Lewis"
+  },
+  {
+    "question": "Year: 2012\nCategory: Lead Comedy Actress\nShow: Veep\nNetwork: HBO",
+    "answer": "Julia Louis-Dreyfus"
+  },
+  {
+    "question": "Year: 2012\nCategory: Lead Drama Actress\nShow: Homeland\nNetwork: Showtime",
+    "answer": "Claire Danes"
+  },
+  {
+    "question": "Year: 2011\nCategory: Lead Comedy Actor\nShow: The Big Bang Theory\nNetwork: CBS",
+    "answer": "Jim Parsons"
+  },
+  {
+    "question": "Year: 2011\nCategory: Lead Drama Actor\nShow: Friday Night Lights\nNetwork: The 101 Network / NBC",
+    "answer": "Kyle Chandler"
+  },
+  {
+    "question": "Year: 2011\nCategory: Lead Comedy Actress\nShow: Mike & Molly\nNetwork: CBS",
+    "answer": "Melissa McCarthy"
+  },
+  {
+    "question": "Year: 2011\nCategory: Lead Drama Actress\nShow: The Good Wife\nNetwork: CBS",
+    "answer": "Julianna Margulies"
+  },
+  {
+    "question": "Year: 2010\nCategory: Lead Comedy Actor\nShow: The Big Bang Theory\nNetwork: CBS",
+    "answer": "Jim Parsons"
+  },
+  {
+    "question": "Year: 2010\nCategory: Lead Drama Actor\nShow: Breaking Bad\nNetwork: AMC",
+    "answer": "Bryan Cranston"
+  },
+  {
+    "question": "Year: 2010\nCategory: Lead Comedy Actress\nShow: Nurse Jackie\nNetwork: Showtime",
+    "answer": "Edie Falco"
+  },
+  {
+    "question": "Year: 2010\nCategory: Lead Drama Actress\nShow: The Closer\nNetwork: TNT",
+    "answer": "Kyra Sedgwick"
+  },
+  {
+    "question": "Year: 2009\nCategory: Lead Comedy Actor\nShow: 30 Rock\nNetwork: NBC",
+    "answer": "Alec Baldwin"
+  },
+  {
+    "question": "Year: 2009\nCategory: Lead Drama Actor\nShow: Breaking Bad\nNetwork: AMC",
+    "answer": "Bryan Cranston"
+  },
+  {
+    "question": "Year: 2009\nCategory: Lead Comedy Actress\nShow: The United States of Tara\nNetwork: Showtime",
+    "answer": "Toni Collette"
+  },
+  {
+    "question": "Year: 2009\nCategory: Lead Drama Actress\nShow: Damages\nNetwork: FX",
+    "answer": "Glenn Close"
+  },
+  {
+    "question": "Year: 2008\nCategory: Lead Comedy Actor\nShow: 30 Rock\nNetwork: NBC",
+    "answer": "Alec Baldwin"
+  },
+  {
+    "question": "Year: 2008\nCategory: Lead Drama Actor\nShow: Breaking Bad\nNetwork: AMC",
+    "answer": "Bryan Cranston"
+  },
+  {
+    "question": "Year: 2008\nCategory: Lead Comedy Actress\nShow: 30 Rock\nNetwork: NBC",
+    "answer": "TIna Fey"
+  },
+  {
+    "question": "Year: 2008\nCategory: Lead Drama Actress\nShow: Damages\nNetwork: FX",
+    "answer": "Glenn Close"
+  },
+  {
+    "question": "Year: 2007\nCategory: Lead Comedy Actor\nShow: Extras\nNetwork: BBC / HBO",
+    "answer": "Ricky Gervais"
+  },
+  {
+    "question": "Year: 2007\nCategory: Lead Drama Actor\nShow: Boston Legal\nNetwork: ABC",
+    "answer": "James Spader"
+  },
+  {
+    "question": "Year: 2007\nCategory: Lead Comedy Actress\nShow: Ugly Betty\nNetwork: ABC",
+    "answer": "America Ferrera"
+  },
+  {
+    "question": "Year: 2007\nCategory: Lead Drama Actress\nShow: Brothers & Sisters\nNetwork: ABC",
+    "answer": "Sally Field"
+  },
+  {
+    "question": "Year: 2006\nCategory: Lead Comedy Actor\nShow: Monk\nNetwork: USA",
+    "answer": "Tony Shalhoub"
+  },
+  {
+    "question": "Year: 2006\nCategory: Lead Drama Actor\nShow: 24\nNetwork: FOX",
+    "answer": "Kiefer Sutherland"
+  },
+  {
+    "question": "Year: 2006\nCategory: Lead Comedy Actress\nShow: The New Adventures of Old Christine\nNetwork: CBS",
+    "answer": "Julia Louis-Dreyfus"
+  },
+  {
+    "question": "Year: 2006\nCategory: Lead Drama Actress\nShow: Law & Order: Special Victims Unit\nNetwork: NBC",
+    "answer": "Mariska Hargitay"
+  },
+  {
+    "question": "Year: 2005\nCategory: Lead Comedy Actor\nShow: Monk\nNetwork: USA",
+    "answer": "Tony Shalhoub"
+  },
+  {
+    "question": "Year: 2005\nCategory: Lead Drama Actor\nShow: Boston Legal\nNetwork: NBC",
+    "answer": "James Spader"
+  },
+  {
+    "question": "Year: 2005\nCategory: Lead Comedy Actress\nShow: Desperate Housewives\nNetwork: ABC",
+    "answer": "Felicity Huffman"
+  },
+  {
+    "question": "Year: 2005\nCategory: Lead Drama Actress\nShow: Medium\nNetwork: NBC",
+    "answer": "Patricia Arquette"
+  },
+  {
+    "question": "Year: 2004\nCategory: Lead Comedy Actor\nShow: Frasier\nNetwork: NBC",
+    "answer": "Kelsey Grammer"
+  },
+  {
+    "question": "Year: 2004\nCategory: Lead Drama Actor\nShow: The Practice\nNetwork: ABC",
+    "answer": "James Spader"
+  },
+  {
+    "question": "Year: 2004\nCategory: Lead Comedy Actress\nShow: Sex and the City\nNetwork: HBO",
+    "answer": "Sarah Jessica Parker"
+  },
+  {
+    "question": "Year: 2004\nCategory: Lead Drama Actress\nShow: The West Wing\nNetwork: NBC",
+    "answer": "Allison Janney"
+  },
+  {
+    "question": "Year: 2003\nCategory: Lead Comedy Actor\nShow: Monk\nNetwork: USA",
+    "answer": "Tony Shalhoub"
+  },
+  {
+    "question": "Year: 2003\nCategory: Lead Drama Actor\nShow: The Sopranos\nNetwork: HBO",
+    "answer": "James Gandolfini"
+  },
+  {
+    "question": "Year: 2003\nCategory: Lead Comedy Actress\nShow: Will & Grace\nNetwork: NBC",
+    "answer": "Debra Messing"
+  },
+  {
+    "question": "Year: 2003\nCategory: Lead Drama Actress\nShow: The Sopranos\nNetwork: HBO",
+    "answer": "Edie Falco"
+  },
+  {
+    "question": "Year: 2002\nCategory: Lead Comedy Actor\nShow: Everybody Loves Raymond\nNetwork: CBS",
+    "answer": "Ray Romano"
+  },
+  {
+    "question": "Year: 2002\nCategory: Lead Drama Actor\nShow: The Shield\nNetwork: FX",
+    "answer": "Michael Chiklis"
+  },
+  {
+    "question": "Year: 2002\nCategory: Lead Comedy Actress\nShow: Friends\nNetwork: NBC",
+    "answer": "Jennifer Aniston"
+  },
+  {
+    "question": "Year: 2002\nCategory: Lead Drama Actress\nShow: The West Wing\nNetwork: NBC",
+    "answer": "Allison Janney"
+  },
+  {
+    "question": "Year: 2001\nCategory: Lead Comedy Actor\nShow: Will & Grace\nNetwork: NBC",
+    "answer": "Eric McCormack"
+  },
+  {
+    "question": "Year: 2001\nCategory: Lead Drama Actor\nShow: The Sopranos\nNetwork: HBO",
+    "answer": "James Gandolfini"
+  },
+  {
+    "question": "Year: 2001\nCategory: Lead Comedy Actress\nShow: Everybody Loves Raymond\nNetwork: CBS",
+    "answer": "Patricia Heaton"
+  },
+  {
+    "question": "Year: 2001\nCategory: Lead Drama Actress\nShow: The Sopranos\nNetwork: HBO",
+    "answer": "Edie Falco"
+  },
+  {
+    "question": "Year: 2000\nCategory: Lead Comedy Actor\nShow: Spin City\nNetwork: ABC",
+    "answer": "Michael J. Fox"
+  },
+  {
+    "question": "Year: 2000\nCategory: Lead Drama Actor\nShow: The Sopranos\nNetwork: HBO",
+    "answer": "James Gandolfini"
+  },
+  {
+    "question": "Year: 2000\nCategory: Lead Comedy Actress\nShow: Everybody Loves Raymond\nNetwork: CBS",
+    "answer": "Patricia Heaton"
+  },
+  {
+    "question": "Year: 2000\nCategory: Lead Drama Actress\nShow: Once and Again\nNetwork: ABC",
+    "answer": "Sela Ward"
+  },
+  {
+    "question": "Year: 1999\nCategory: Lead Comedy Actor\nShow: 3rd Rock from the Sun\nNetwork: NBC",
+    "answer": "John Lithgow"
+  },
+  {
+    "question": "Year: 1999\nCategory: Lead Drama Actor\nShow: NYPD Blue\nNetwork: ABC",
+    "answer": "Dennis Franz"
+  },
+  {
+    "question": "Year: 1999\nCategory: Lead Comedy Actress\nShow: Mad About You\nNetwork: NBC",
+    "answer": "Helen Hunt"
+  },
+  {
+    "question": "Year: 1999\nCategory: Lead Drama Actress\nShow: The Sopranos\nNetwork: HBO",
+    "answer": "Edie Falco"
+  },
+  {
+    "question": "Year: 1998\nCategory: Lead Comedy Actor\nShow: Frasier\nNetwork: NBC",
+    "answer": "Kelsey Grammer"
+  },
+  {
+    "question": "Year: 1998\nCategory: Lead Drama Actor\nShow: Homicide: Life on the Street\nNetwork: NBC",
+    "answer": "Andre Braugher"
+  },
+  {
+    "question": "Year: 1998\nCategory: Lead Comedy Actress\nShow: Mad About You\nNetwork: NBC",
+    "answer": "Helen Hunt"
+  },
+  {
+    "question": "Year: 1998\nCategory: Lead Drama Actress\nShow: Chicago Hope\nNetwork: CBS",
+    "answer": "Christine Lahti"
+  },
+  {
+    "question": "Year: 1997\nCategory: Lead Comedy Actor\nShow: 3rd Rock from the Sun\nNetwork: NBC",
+    "answer": "John Lithgow"
+  },
+  {
+    "question": "Year: 1997\nCategory: Lead Drama Actor\nShow: NYPD Blue\nNetwork: ABC",
+    "answer": "Dennis Franz"
+  },
+  {
+    "question": "Year: 1997\nCategory: Lead Comedy Actress\nShow: Mad About You\nNetwork: NBC",
+    "answer": "Helen Hunt"
+  },
+  {
+    "question": "Year: 1997\nCategory: Lead Drama Actress\nShow: The X-Files\nNetwork: FOX",
+    "answer": "Gillian Anderson"
+  },
+  {
+    "question": "Year: 1996\nCategory: Lead Comedy Actor\nShow: 3rd Rock from the Sun\nNetwork: NBC",
+    "answer": "John Lithgow"
+  },
+  {
+    "question": "Year: 1996\nCategory: Lead Drama Actor\nShow: NYPD Blue\nNetwork: ABC",
+    "answer": "Dennis Franz"
+  },
+  {
+    "question": "Year: 1996\nCategory: Lead Comedy Actress\nShow: Mad About You\nNetwork: NBC",
+    "answer": "Helen Hunt"
+  },
+  {
+    "question": "Year: 1996\nCategory: Lead Drama Actress\nShow: Picket Fences\nNetwork: CBS",
+    "answer": "Kathy Baker"
+  },
+  {
+    "question": "Year: 1995\nCategory: Lead Comedy Actor\nShow: Frasier\nNetwork: NBC",
+    "answer": "Kelsey Grammer"
+  },
+  {
+    "question": "Year: 1995\nCategory: Lead Drama Actor\nShow: Chicago Hope\nNetwork: CBS",
+    "answer": "Mandy Patinkin"
+  },
+  {
+    "question": "Year: 1995\nCategory: Lead Comedy Actress\nShow: Murphy Brown\nNetwork: CBS",
+    "answer": "Candice Bergen"
+  },
+  {
+    "question": "Year: 1995\nCategory: Lead Drama Actress\nShow: Picket Fences\nNetwork: CBS",
+    "answer": "Kathy Baker"
+  },
+  {
+    "question": "Year: 1994\nCategory: Lead Comedy Actor\nShow: Frasier\nNetwork: NBC",
+    "answer": "Kelsey Grammer"
+  },
+  {
+    "question": "Year: 1994\nCategory: Lead Drama Actor\nShow: NYPD Blue\nNetwork: ABC",
+    "answer": "Dennis Franz"
+  },
+  {
+    "question": "Year: 1994\nCategory: Lead Comedy Actress\nShow: Murphy Brown\nNetwork: CBS",
+    "answer": "Candice Bergen"
+  },
+  {
+    "question": "Year: 1994\nCategory: Lead Drama Actress\nShow: Sisters\nNetwork: NBC",
+    "answer": "Sela Ward"
+  },
+  {
+    "question": "Year: 1993\nCategory: Lead Comedy Actor\nShow: Cheers\nNetwork: NBC",
+    "answer": "Ten Danson"
+  },
+  {
+    "question": "Year: 1993\nCategory: Lead Drama Actor\nShow: Picket Fences\nNetwork: CBS",
+    "answer": "Tom Skerritt"
+  },
+  {
+    "question": "Year: 1993\nCategory: Lead Comedy Actress\nShow: Roseanne\nNetwork: ABC",
+    "answer": "Roseanne Barr"
+  },
+  {
+    "question": "Year: 1993\nCategory: Lead Drama Actress\nShow: Picket Fences\nNetwork: CBS",
+    "answer": "Kathy Baker"
+  },
+  {
+    "question": "Year: 1992\nCategory: Lead Comedy Actor\nShow: Coach\nNetwork: ABC",
+    "answer": "Craig T. Nelson"
+  },
+  {
+    "question": "Year: 1992\nCategory: Lead Drama Actor\nShow: Avonlea\nNetwork: Disney",
+    "answer": "Christopher Lloyd"
+  },
+  {
+    "question": "Year: 1992\nCategory: Lead Comedy Actress\nShow: Murphy Brown\nNetwork: CBS",
+    "answer": "Candice Bergen"
+  },
+  {
+    "question": "Year: 1992\nCategory: Lead Drama Actress\nShow: China Beach\nNetwork: ABC",
+    "answer": "Dana Delaney"
+  },
+  {
+    "question": "Year: 1991\nCategory: Lead Comedy Actor\nShow: Evening Shade\nNetwork: CBS",
+    "answer": "Burt Reynolds"
+  },
+  {
+    "question": "Year: 1991\nCategory: Lead Drama Actor\nShow: Gabriel's Fire\nNetwork: ABC",
+    "answer": "James Earl Jones"
+  },
+  {
+    "question": "Year: 1991\nCategory: Lead Comedy Actress\nShow: Cheers\nNetwork: NBC",
+    "answer": "Kirstie Alley"
+  },
+  {
+    "question": "Year: 1991\nCategory: Lead Drama Actress\nShow: thirtysomething\nNetwork: ABC",
+    "answer": "Patricia Wettig"
+  },
+  {
+    "question": "Year: 1990\nCategory: Lead Comedy Actor\nShow: Cheers\nNetwork: NBC",
+    "answer": "Ted Danson"
+  },
+  {
+    "question": "Year: 1990\nCategory: Lead Drama Actor\nShow: Columbo\nNetwork: ABC",
+    "answer": "Peter Falk"
+  },
+  {
+    "question": "Year: 1990\nCategory: Lead Comedy Actress\nShow: Murphy Brown\nNetwork: CBS",
+    "answer": "Candice Bergen"
+  },
+  {
+    "question": "Year: 1990\nCategory: Lead Drama Actress\nShow: thirtysomething\nNetwork: ABC",
+    "answer": "Patricia Wettig"
+  }
+]

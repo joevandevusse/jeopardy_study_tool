@@ -1,0 +1,174 @@
+[
+  {
+    "question": "Year: 1980\nRole: Loretta Lynn\nMovie: Coal Miner's Daughter",
+    "answer": "Sissy Spacek"
+  },
+  {
+    "question": "Year: 1981\nRole: Ethel Thayer\nMovie: On Golden Pond",
+    "answer": "Katharine Hepburn"
+  },
+  {
+    "question": "Year: 1982\nRole: Sophie Zawistowski\nMovie: Sophie's Choice",
+    "answer": "Meryl Streep"
+  },
+  {
+    "question": "Year: 1983\nRole: Aurora Greenway\nMovie: Terms of Endearment",
+    "answer": "Shirley MacLaine"
+  },
+  {
+    "question": "Year: 1984\nRole: Edna Spalding\nMovie: Places in the Heart",
+    "answer": "Sally Field"
+  },
+  {
+    "question": "Year: 1985\nRole: Carrie Watts\nMovie: The Trip to Bountiful",
+    "answer": "Geraldine Page"
+  },
+  {
+    "question": "Year: 1986\nRole: Sarah Normal\nMovie: Children of a Lesser God",
+    "answer": "Marlee Matlin"
+  },
+  {
+    "question": "Year: 1987\nRole: Loretta Castorini\nMovie: Moonstruck",
+    "answer": "Cher"
+  },
+  {
+    "question": "Year: 1988\nRole: Sarah Tobias\nMovie: The Accused",
+    "answer": "Jodie Foster"
+  },
+  {
+    "question": "Year: 1989\nRole: Daisy Werthan\nMovie: Driving Miss Daisy",
+    "answer": "Jessica Tandy"
+  },
+  {
+    "question": "Year: 1990\nRole: Annie Wilkes\nMovie: Misery",
+    "answer": "Kathy Bates"
+  },
+  {
+    "question": "Year: 1991\nRole: Clarice Starling\nMovie: The Silence of the Lambs",
+    "answer": "Jodie Foster"
+  },
+  {
+    "question": "Year: 1992\nRole: Margaret Schlegel\nMovie: Howards End",
+    "answer": "Emma Thompson"
+  },
+  {
+    "question": "Year: 1993\nRole: Ada McGrath\nMovie: The Piano",
+    "answer": "Holly Hunter"
+  },
+  {
+    "question": "Year: 1994\nRole: Carly Marshall\nMovie: Blue Sky",
+    "answer": "Jessica Lange"
+  },
+  {
+    "question": "Year: 1995\nRole: Helen Prejean\nMovie: Dead Man Walking",
+    "answer": "Susan Saradon"
+  },
+  {
+    "question": "Year: 1996\nRole: Marge Gunderson\nMovie: Fargo",
+    "answer": "Frances McDormand"
+  },
+  {
+    "question": "Year: 1997\nRole: Carol Connelly\nMovie: As Good as It Gets",
+    "answer": "Helen Hunt"
+  },
+  {
+    "question": "Year: 1998\nRole: Viola de Lesseps\nMovie: Shakespeare in Love",
+    "answer": "Gwyneth Paltrow"
+  },
+  {
+    "question": "Year: 1999\nRole: Brandon Teena\nMovie: Boys Don't Cry",
+    "answer": "Hilary Swank"
+  },
+  {
+    "question": "Year: 2000\nRole: Erin Brockovich\nMovie: Erin Brockovich",
+    "answer": "Julia Roberts"
+  },
+  {
+    "question": "Year: 2001\nRole: Leticia Musgrove\nMovie: Monster's Ball",
+    "answer": "Halle Berry"
+  },
+  {
+    "question": "Year: 2002\nRole: Virginia Woolf\nMovie: The Hours",
+    "answer": "Nicole Kidman"
+  },
+  {
+    "question": "Year: 2003\nRole: Aileen Wuornos\nMovie: Monster",
+    "answer": "Charlize Theron"
+  },
+  {
+    "question": "Year: 2004\nRole: Maggie Fitzgerald\nMovie: Million Dollar Baby",
+    "answer": "Hilary Swank"
+  },
+  {
+    "question": "Year: 2005\nRole: June Carter Cash\nMovie: Walk the Line",
+    "answer": "Reese Witherspoon"
+  },
+  {
+    "question": "Year: 2006\nRole: Queen Elizabeth II\nMovie: The Queen",
+    "answer": "Helen Mirren"
+  },
+  {
+    "question": "Year: 2007\nRole: Edith Piaf\nMovie: La Vie en Rose",
+    "answer": "Marion Cotillard"
+  },
+  {
+    "question": "Year: 2008\nRole: Hanna Schmitz\nMovie: The Reader",
+    "answer": "Katie Winslet"
+  },
+  {
+    "question": "Year: 2009\nRole: Leigh Anne Tuohy\nMovie: The Blind Side",
+    "answer": "Sandra Bullock"
+  },
+  {
+    "question": "Year: 2010\nRole: Nina Sayers\nMovie: Black Swan",
+    "answer": "Natalie Portman"
+  },
+  {
+    "question": "Year: 2011\nRole: Margaret Thatcher\nMovie: The Iron Lady",
+    "answer": "Meryl Streep"
+  },
+  {
+    "question": "Year: 2012\nRole: Tiffany Maxwell\nMovie: Silver Linings Playbook",
+    "answer": "Jennifer Lawrence"
+  },
+  {
+    "question": "Year: 2013\nRole: Jeanette \"Jasmine\" Francis\nMovie: Blue Jasmine",
+    "answer": "Cate Blanchett"
+  },
+  {
+    "question": "Year: 2014\nRole: Alice Howland\nMovie: Still Alice",
+    "answer": "Julianne Moore"
+  },
+  {
+    "question": "Year: 2015\nRole: Joy \"Ma\" Newson\nMovie: The Room",
+    "answer": "Brie Larson"
+  },
+  {
+    "question": "Year: 2016\nRole: Mia Dolan\nMovie: La La Land",
+    "answer": "Emma Stone"
+  },
+  {
+    "question": "Year: 2017\nRole: Mildred Hayes\nMovie: Three Billboards Outside Ebbing, Missouri",
+    "answer": "Frances McDormand"
+  },
+  {
+    "question": "Year: 2018\nRole: Queen Anne\nMovie: The Favourite",
+    "answer": "Olivia Colman"
+  },
+  {
+    "question": "Year: 2019\nRole: Judy Garland\nMovie: Judy",
+    "answer": "Renee Zellweger"
+  },
+  {
+    "question": "Year: 2020\nRole: Fern\nMovie: Nomadland",
+    "answer": "Frances McDormand"
+  },
+  {
+    "question": "Year: 2021\nRole: Tammy Faye Bakker\nMovie: The Eyes of Tammy Faye",
+    "answer": "Jessica Chastain"
+  },
+  {
+    "question": "Year: 2022\nRole: Evelyn Quan Wang\nMovie: Everything Everywhere All at Once",
+    "answer": "Michelle Yeoh"
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "question": "Fortune Ranking: 1\nTicker Symbol: WMT\nSector: Retail",
+    "answer": "Walmart"
+  },
+  {
+    "question": "Fortune Ranking: 2\nTicker Symbol: AMZN\nSector: Retail",
+    "answer": "Amazon"
+  },
+  {
+    "question": "Fortune Ranking: 3\nTicker Symbol: AAPL\nSector: Technology",
+    "answer": "Apple"
+  },
+  {
+    "question": "Fortune Ranking: 4\nTicker Symbol: CVS\nSector: Health Care",
+    "answer": "CVS Health"
+  },
+  {
+    "question": "Fortune Ranking: 5\nTicker Symbol: UNH\nSector: Health Care",
+    "answer": "UnitedHealth Group"
+  },
+  {
+    "question": "Fortune Ranking: 6\nTicker Symbol: XOM\nSector: Energy",
+    "answer": "ExxonMobil"
+  },
+  {
+    "question": "Fortune Ranking: 7\nTicker Symbol: BRK.A/B\nSector: Financials",
+    "answer": "Berkshire Hathaway"
+  },
+  {
+    "question": "Fortune Ranking: 8\nTicker Symbol: GOOG(L)\nSector: Technology",
+    "answer": "Alphabet"
+  },
+  {
+    "question": "Fortune Ranking: 9\nTicker Symbol: MCK\nSector: Health Care",
+    "answer": "McKesson"
+  },
+  {
+    "question": "Fortune Ranking: 10\nTicker Symbol: ABC\nSector: Health Care",
+    "answer": "AmerisourceBergen"
+  },
+  {
+    "question": "Fortune Ranking: 11\nTicker Symbol: COST\nSector: Retail",
+    "answer": "Costco Wholesale"
+  },
+  {
+    "question": "Fortune Ranking: 12\nTicker Symbol: CI\nSector: Health Care",
+    "answer": "Cigna"
+  },
+  {
+    "question": "Fortune Ranking: 13\nTicker Symbol: T\nSector: Telecommunication",
+    "answer": "AT&T"
+  },
+  {
+    "question": "Fortune Ranking: 14\nTicker Symbol: MSFT\nSector: Technology",
+    "answer": "Microsoft"
+  },
+  {
+    "question": "Fortune Ranking: 15\nTicker Symbol: CAH\nSector: Health Care",
+    "answer": "Cardinal Health"
+  },
+  {
+    "question": "Fortune Ranking: 16\nTicker Symbol: CVX\nSector: Energy",
+    "answer": "Chevron"
+  },
+  {
+    "question": "Fortune Ranking: 17\nTicker Symbol: DH\nSector: Retail",
+    "answer": "Home Depot"
+  },
+  {
+    "question": "Fortune Ranking: 18\nTicker Symbol: WBA\nSector: Food and Drug Stores",
+    "answer": "Walgreens"
+  },
+  {
+    "question": "Fortune Ranking: 19\nTicker Symbol: MPC\nSector: Energy",
+    "answer": "Marathon Petroleum"
+  },
+  {
+    "question": "Fortune Ranking: 20\nTicker Symbol: ELV\nSector: Health Care",
+    "answer": "Anthem"
+  },
+  {
+    "question": "Fortune Ranking: 21\nTicker Symbol: KR\nSector: Food and Drug Stores",
+    "answer": "Kroger"
+  },
+  {
+    "question": "Fortune Ranking: 22\nTicker Symbol: F\nSector: Motor Vehicles and Parts",
+    "answer": "Ford Motors"
+  },
+  {
+    "question": "Fortune Ranking: 23\nTicker Symbol: VZ\nSector: Telecommunication",
+    "answer": "Verizon Communications"
+  },
+  {
+    "question": "Fortune Ranking: 24\nTicker Symbol: JPM\nSector: Financials",
+    "answer": "JPMorgan Chase"
+  },
+  {
+    "question": "Fortune Ranking: 25\nTicker Symbol: GM\nSector: Motor Vehicles and Parts",
+    "answer": "General Motors"
+  },
+  {
+    "question": "Fortune Ranking: 26\nTicker Symbol: CNC\nSector: Health Care",
+    "answer": "Centene"
+  },
+  {
+    "question": "Fortune Ranking: 27\nTicker Symbol: META\nSector: Technology",
+    "answer": "Meta Platforms"
+  },
+  {
+    "question": "Fortune Ranking: 28\nTicker Symbol: CMSCA\nSector: Telecommunication",
+    "answer": "Comcast"
+  },
+  {
+    "question": "Fortune Ranking: 29\nTicker Symbol: PSX\nSector: Energy",
+    "answer": "Phillips 66"
+  },
+  {
+    "question": "Fortune Ranking: 30\nTicker Symbol: VLO\nSector: Energy",
+    "answer": "Valero Energy"
+  },
+  {
+    "question": "Fortune Ranking: 31\nTicker Symbol: DELL\nSector: Technology",
+    "answer": "Dell Technologies"
+  },
+  {
+    "question": "Fortune Ranking: 32\nTicker Symbol: TGT\nSector: Retail",
+    "answer": "Target"
+  },
+  {
+    "question": "Fortune Ranking: 33\nTicker Symbol: Private (FM)\nSector: Financials",
+    "answer": "Fannie Mae"
+  },
+  {
+    "question": "Fortune Ranking: 34\nTicker Symbol: UPS\nSector: Transportation",
+    "answer": "United Parcel Service"
+  },
+  {
+    "question": "Fortune Ranking: 35\nTicker Symbol: LOW\nSector: Retail",
+    "answer": "Lowe's"
+  },
+  {
+    "question": "Fortune Ranking: 36\nTicker Symbol: BAC\nSector: Financials",
+    "answer": "Bank of America"
+  },
+  {
+    "question": "Fortune Ranking: 37\nTicker Symbol: J&J\nSector: Health Care",
+    "answer": "Johnson & Johnson"
+  },
+  {
+    "question": "Fortune Ranking: 38\nTicker Symbol: ADM\nSector: Food, Beverages and Tobacco",
+    "answer": "Archer Daniel Midland"
+  },
+  {
+    "question": "Fortune Ranking: 39\nTicker Symbol: FDX\nSector: Transportation",
+    "answer": "FedEx"
+  },
+  {
+    "question": "Fortune Ranking: 40\nTicker Symbol: HUM\nSector: Health Care",
+    "answer": "Humana"
+  },
+  {
+    "question": "Fortune Ranking: 41\nTicker Symbol: WFC\nSector: Financials",
+    "answer": "Wells Fargo"
+  },
+  {
+    "question": "Fortune Ranking: 42\nTicker Symbol: Private (SFI)\nSector: Financials",
+    "answer": "State Farm Insurance"
+  },
+  {
+    "question": "Fortune Ranking: 43\nTicker Symbol: PFE\nSector: Health Care",
+    "answer": "Pfizer"
+  },
+  {
+    "question": "Fortune Ranking: 44\nTicker Symbol: C\nSector: Financials",
+    "answer": "Citigroup"
+  },
+  {
+    "question": "Fortune Ranking: 45\nTicker Symbol: PEP\nSector: Food, Beverages and Tobacco",
+    "answer": "PepsiCo"
+  },
+  {
+    "question": "Fortune Ranking: 46\nTicker Symbol: INTC\nSector: Technology",
+    "answer": "Intel"
+  },
+  {
+    "question": "Fortune Ranking: 47\nTicker Symbol: PG\nSector: Retail",
+    "answer": "Procter & Gamble"
+  },
+  {
+    "question": "Fortune Ranking: 48\nTicker Symbol: GE\nSector: Industrials",
+    "answer": "General Electric"
+  },
+  {
+    "question": "Fortune Ranking: 49\nTicker Symbol: IBM\nSector: Technology",
+    "answer": "International Business Machines"
+  },
+  {
+    "question": "Fortune Ranking: 50\nTicker Symbol: MET\nSector: Financials",
+    "answer": "MetLife"
+  },
+  {
+    "question": "Fortune Ranking: 51\nTicker Symbol: PRU\nSector: Financials",
+    "answer": "Prudential Financials"
+  },
+  {
+    "question": "Fortune Ranking: 52\nTicker Symbol: ABI\nSector: Food and Drug Stores",
+    "answer": "Albertsons"
+  },
+  {
+    "question": "Fortune Ranking: 53\nTicker Symbol: DIS\nSector: Media",
+    "answer": "Walt Disney"
+  },
+  {
+    "question": "Fortune Ranking: 54\nTicker Symbol: ET\nSector: Energy",
+    "answer": "Energy Transfer"
+  },
+  {
+    "question": "Fortune Ranking: 55\nTicker Symbol: LMT\nSector: Aerospace and Defense",
+    "answer": "Lockheed Martin"
+  },
+  {
+    "question": "Fortune Ranking: 56\nTicker Symbol: Private (FM)\nSector: Financials",
+    "answer": "Freddie Mac"
+  },
+  {
+    "question": "Fortune Ranking: 57\nTicker Symbol: GS\nSector: Financials",
+    "answer": "Goldman Sachs Group"
+  },
+  {
+    "question": "Fortune Ranking: 58\nTicker Symbol: RTX\nSector: Aerospace and Defense",
+    "answer": "Raytheon Technologies"
+  },
+  {
+    "question": "Fortune Ranking: 59\nTicker Symbol: HP\nSector: Technology",
+    "answer": "HP"
+  },
+  {
+    "question": "Fortune Ranking: 60\nTicker Symbol: BA\nSector: Aerospace and Defense",
+    "answer": "Boeing"
+  },
+  {
+    "question": "Fortune Ranking: 61\nTicker Symbol: MS\nSector: Financials",
+    "answer": "Morgan Stanley"
+  },
+  {
+    "question": "Fortune Ranking: 62\nTicker Symbol: HCA\nSector: Health Care",
+    "answer": "HCA Healthcare"
+  },
+  {
+    "question": "Fortune Ranking: 63\nTicker Symbol: ABBV\nSector: Health Care",
+    "answer": "AbbVie"
+  },
+  {
+    "question": "Fortune Ranking: 64\nTicker Symbol: DOW\nSector: Chemicals",
+    "answer": "Dow"
+  },
+  {
+    "question": "Fortune Ranking: 65\nTicker Symbol: TSLA\nSector: Automotive",
+    "answer": "Tesla"
+  },
+  {
+    "question": "Fortune Ranking: 66\nTicker Symbol: ALL\nSector: Financials",
+    "answer": "Allstate"
+  },
+  {
+    "question": "Fortune Ranking: 67\nTicker Symbol: AIG\nSector: Insurance",
+    "answer": "AIG"
+  },
+  {
+    "question": "Fortune Ranking: 68\nTicker Symbol: BBY\nSector: Retail",
+    "answer": "Best Buy"
+  },
+  {
+    "question": "Fortune Ranking: 69\nTicker Symbol: CHTR\nSector: Telecommunication",
+    "answer": "Charter Communications"
+  },
+  {
+    "question": "Fortune Ranking: 70\nTicker Symbol: SYY\nSector: Wholesalers",
+    "answer": "Sysco"
+  },
+  {
+    "question": "Fortune Ranking: 71\nTicker Symbol: MRK\nSector: Health Care",
+    "answer": "Merck"
+  },
+  {
+    "question": "Fortune Ranking: 72\nTicker Symbol: Private (NYLI)\nSector: Financials",
+    "answer": "New York Life Insurance"
+  },
+  {
+    "question": "Fortune Ranking: 73\nTicker Symbol: CAT\nSector: Industrials",
+    "answer": "Caterpillar"
+  },
+  {
+    "question": "Fortune Ranking: 74\nTicker Symbol: CSCO\nSector: Technology",
+    "answer": "Cisco Systems"
+  },
+  {
+    "question": "Fortune Ranking: 75\nTicker Symbol: TJX\nSector: Retail",
+    "answer": "TJX"
+  },
+  {
+    "question": "Fortune Ranking: 76\nTicker Symbol: Private (PSM)\nSector: Food and Drug Stores",
+    "answer": "Publix Super Markets"
+  },
+  {
+    "question": "Fortune Ranking: 77\nTicker Symbol: COP\nSector: Energy",
+    "answer": "ConocoPhillips"
+  },
+  {
+    "question": "Fortune Ranking: 78\nTicker Symbol: Private (LMIG)\nSector: Insurance",
+    "answer": "Liberty Mutual Insurance Group"
+  },
+  {
+    "question": "Fortune Ranking: 79\nTicker Symbol: PGR\nSector: Financials",
+    "answer": "Progressive"
+  },
+  {
+    "question": "Fortune Ranking: 80\nTicker Symbol: Private (NW)\nSector: Financials",
+    "answer": "Nationwide"
+  },
+  {
+    "question": "Fortune Ranking: 81\nTicker Symbol: TSN\nSector: Food, Beverages and Tobacco",
+    "answer": "Tyson Foods"
+  },
+  {
+    "question": "Fortune Ranking: 82\nTicker Symbol: BMY\nSector: Health Care",
+    "answer": "Bristol Myers Squibb"
+  },
+  {
+    "question": "Fortune Ranking: 83\nTicker Symbol: NKE\nSector: Apparel",
+    "answer": "Nike"
+  },
+  {
+    "question": "Fortune Ranking: 84\nTicker Symbol: DE\nSector: Industrials",
+    "answer": "John Deere"
+  },
+  {
+    "question": "Fortune Ranking: 85\nTicker Symbol: AXP\nSector: Financials",
+    "answer": "American Express"
+  },
+  {
+    "question": "Fortune Ranking: 86\nTicker Symbol: ABT\nSector: Health Care",
+    "answer": "Abbott Laboratories"
+  },
+  {
+    "question": "Fortune Ranking: 87\nTicker Symbol: SNEX\nSector: Financials",
+    "answer": "StoneX Group"
+  },
+  {
+    "question": "Fortune Ranking: 88\nTicker Symbol: PAGP\nSector: Energy",
+    "answer": "Plains GP Holdings"
+  },
+  {
+    "question": "Fortune Ranking: 89\nTicker Symbol: EPD\nSector: Energy",
+    "answer": "Enterprise Products Partners"
+  },
+  {
+    "question": "Fortune Ranking: 90\nTicker Symbol: Private (CREF)\nSector: Financials",
+    "answer": "TIAA"
+  },
+  {
+    "question": "Fortune Ranking: 91\nTicker Symbol: ORCL\nSector: Technology",
+    "answer": "Oracle"
+  },
+  {
+    "question": "Fortune Ranking: 92\nTicker Symbol: TMO\nSector: Technology",
+    "answer": "Thermo Fisher Scientific"
+  },
+  {
+    "question": "Fortune Ranking: 93\nTicker Symbol: KO\nSector: Food, Beverages and Tobacco",
+    "answer": "Coca-Cola"
+  },
+  {
+    "question": "Fortune Ranking: 94\nTicker Symbol: GD\nSector: Aerospace and Defense",
+    "answer": "General Dynamics"
+  },
+  {
+    "question": "Fortune Ranking: 95\nTicker Symbol: CHS\nSector: Retail",
+    "answer": "CHS"
+  },
+  {
+    "question": "Fortune Ranking: 96\nTicker Symbol: Private (USAA)\nSector: Financials",
+    "answer": "USAA"
+  },
+  {
+    "question": "Fortune Ranking: 97\nTicker Symbol: Private (NM)\nSector: Financials",
+    "answer": "Northwestern Mutual"
+  },
+  {
+    "question": "Fortune Ranking: 98\nTicker Symbol: NUE\nSector: Basic Materials",
+    "answer": "Nucor"
+  },
+  {
+    "question": "Fortune Ranking: 99\nTicker Symbol: EXC\nSector: Energy",
+    "answer": "Exelon"
+  },
+  {
+    "question": "Fortune Ranking: 100\nTicker Symbol: Private (MMLI)\nSector: Financials",
+    "answer": "Massachusetts Mutual Life Insurance"
+  }
+]

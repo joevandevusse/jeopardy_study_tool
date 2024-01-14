@@ -1,0 +1,158 @@
+[
+  {
+    "question": "Year: 1985\nOccupation: Movie Actor\nNotes: Mad Max",
+    "answer": "Mel Gibson"
+  },
+  {
+    "question": "Year: 1986\nOccupation: TV Actor\nNotes: St. Elsewhere, Moonlighting",
+    "answer": "Mark Harmon"
+  },
+  {
+    "question": "Year: 1987\nOccupation: TV Actor\nNotes: L.A. Law",
+    "answer": "Harry Hamlin"
+  },
+  {
+    "question": "Year: 1988\nOccupation: Law Student/Politician\nNotes: Died in a plane crash",
+    "answer": "John F. Kennedy, Jr."
+  },
+  {
+    "question": "Year: 1989\nOccupation: Movie Actor\nNotes: James Bond",
+    "answer": "Sean Connery"
+  },
+  {
+    "question": "Year: 1990\nOccupation: Movie Actor\nNotes: Top Gun, Risky Business",
+    "answer": "Tom Cruise"
+  },
+  {
+    "question": "Year: 1991\nOccupation: Movie Actor\nNotes: Dirty Dancing, Ghost",
+    "answer": "Patrick Swayze"
+  },
+  {
+    "question": "Year: 1992\nOccupation: Movie Actor\nNotes: Lorenzo's Oil, The Prince of Tides",
+    "answer": "Nick Nolte"
+  },
+  {
+    "question": "Year: 1993\nOccupation: Movie Actor\nNotes: Named as part of a couple",
+    "answer": "Richard Gere"
+  },
+  {
+    "question": "Year: 1993\nOccupation: Supermodel\nNotes: Woman",
+    "answer": "Cindy Crawford"
+  },
+  {
+    "question": "Year: 1995\nOccupation: Movie Actor\nNotes: Legends of the Fall, Interview with the Vampire",
+    "answer": "Brad Pitt"
+  },
+  {
+    "question": "Year: 1996\nOccupation: Movie Actor\nNotes: Courage Under Fire",
+    "answer": "Denzel Washington"
+  },
+  {
+    "question": "Year: 1997\nOccupation: TV/Movie Actor\nNotes: ER",
+    "answer": "George Clooney"
+  },
+  {
+    "question": "Year: 1998\nOccupation: Movie Actor\nNotes: Star Wars",
+    "answer": "Harrison Ford"
+  },
+  {
+    "question": "Year: 1999\nOccupation: Movie Actor\nNotes: First time named solo",
+    "answer": "Richard Gere"
+  },
+  {
+    "question": "Year: 2000\nOccupation: Movie Actor\nNotes: Dated Jennifer Aniston, second time named",
+    "answer": "Brad Pitt"
+  },
+  {
+    "question": "Year: 2001\nOccupation: Movie Actor\nNotes: James Bond, Irish",
+    "answer": "Pierce Brosnan"
+  },
+  {
+    "question": "Year: 2002\nOccupation: Movie Actor\nNotes: Dated Jennifer Lopez",
+    "answer": "Ben Affleck"
+  },
+  {
+    "question": "Year: 2003\nOccupation: Movie Actor\nNotes: Pirates of the Caribbean",
+    "answer": "Johnny Depp"
+  },
+  {
+    "question": "Year: 2004\nOccupation: Movie Actor\nNotes: <Insert>",
+    "answer": "Jude Law"
+  },
+  {
+    "question": "Year: 2005\nOccupation: TV/Movie Actor\nNotes: True Detective",
+    "answer": "Matthew McConaughey"
+  },
+  {
+    "question": "Year: 2006\nOccupation: TV/Movie Actor\nNotes: ER, second time named",
+    "answer": "George Clooney"
+  },
+  {
+    "question": "Year: 2007\nOccupation: Movie Actor\nNotes: The Bourne Ultimatum",
+    "answer": "Matt Damon"
+  },
+  {
+    "question": "Year: 2008\nOccupation: TV Actor\nNotes: Grey's Anatomy",
+    "answer": "Hugh Jackman"
+  },
+  {
+    "question": "Year: 2009\nOccupation: Movie Actor\nNotes: Pirates of the Caribbean, second time named",
+    "answer": "Johnny Depp"
+  },
+  {
+    "question": "Year: 2010\nOccupation: Movie Actor\nNotes: Canadian",
+    "answer": "Ryan Reynolds"
+  },
+  {
+    "question": "Year: 2011\nOccupation: Movie Actor\nNotes: The Hangover",
+    "answer": "Bradley Cooper"
+  },
+  {
+    "question": "Year: 2012\nOccupation: Movie Actor\nNotes: Magic Mike, 21 Jump Street",
+    "answer": "Channing Tatum"
+  },
+  {
+    "question": "Year: 2013\nOccupation: Musician\nNotes: Maroon 5",
+    "answer": "Adam Levine"
+  },
+  {
+    "question": "Year: 2014\nOccupation: Movie Actor\nNotes: Thor",
+    "answer": "Chris Hemsworth"
+  },
+  {
+    "question": "Year: 2015\nOccupation: Athlete\nNotes: LA Galaxy",
+    "answer": "David Beckham"
+  },
+  {
+    "question": "Year: 2016\nOccupation: Movie Actor\nNotes: Fast and Furious",
+    "answer": "Dwayne Johnson"
+  },
+  {
+    "question": "Year: 2017\nOccupation: Musician \nNotes: Country Music, The Voice",
+    "answer": "Blake Shelton"
+  },
+  {
+    "question": "Year: 2018\nOccupation: TV/Movie Actor\nNotes: The Office",
+    "answer": "Idris Elba"
+  },
+  {
+    "question": "Year: 2019\nOccupation: Musician\nNotes: Pianist, Ordinary People",
+    "answer": "John Legend"
+  },
+  {
+    "question": "Year: 2020\nOccupation: Movie Actor\nNotes: Creed",
+    "answer": "Michael B. Jordan"
+  },
+  {
+    "question": "Year: 2021\nOccupation: TV/Movie Actor\nNotes: Friends, Role Models",
+    "answer": "Paul Rudd"
+  },
+  {
+    "question": "Year: 2022\nOccupation: Movie Actor\nNotes: Captain America",
+    "answer": "Chris Evans"
+  },
+  {
+    "question": "Year: 2023\nOccupation: TV Actor\nNotes: Grey's Anatomy",
+    "answer": "Patrick Dempsey"
+  }
+]

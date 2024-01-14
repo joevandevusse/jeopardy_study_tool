@@ -1,0 +1,386 @@
+[
+  {
+    "question": "Year: 2022\nMovie: Everything Everywhere All at Once",
+    "answer": "Daniel Kwan & Daniel Scheinert"
+  },
+  {
+    "question": "Year: 2021\nMovie: The Power of the Dog",
+    "answer": "Jane Campion"
+  },
+  {
+    "question": "Year: 2020\nMovie: Nomadland",
+    "answer": "Chloe Zhao"
+  },
+  {
+    "question": "Year: 2019\nMovie: Parasite",
+    "answer": "Bong Joon-ho"
+  },
+  {
+    "question": "Year: 2018\nMovie: Roma",
+    "answer": "Alfonso Cuaron"
+  },
+  {
+    "question": "Year: 2017\nMovie: The Shape of Water",
+    "answer": "Guillermo del Toro"
+  },
+  {
+    "question": "Year: 2016\nMovie: La La Land",
+    "answer": "Damien Chazelle"
+  },
+  {
+    "question": "Year: 2015\nMovie: The Revenant",
+    "answer": "Alejandro Gonzalez Innaritu"
+  },
+  {
+    "question": "Year: 2014\nMovie: Birdman",
+    "answer": "Alejandro Gonzalez Innaritu"
+  },
+  {
+    "question": "Year: 2013\nMovie: Gravity",
+    "answer": "Alfonso Cuaron"
+  },
+  {
+    "question": "Year: 2012\nMovie: Life of Pi",
+    "answer": "Ang Lee"
+  },
+  {
+    "question": "Year: 2011\nMovie: The Artist",
+    "answer": "Michel Hazanavicius"
+  },
+  {
+    "question": "Year: 2010\nMovie: The King's Speech",
+    "answer": "Tom Hooper"
+  },
+  {
+    "question": "Year: 2009\nMovie: The Hurt Locker",
+    "answer": "Kathryn Bigelow"
+  },
+  {
+    "question": "Year: 2008\nMovie: Slumdog Millionaire",
+    "answer": "Danny Boyle"
+  },
+  {
+    "question": "Year: 2007\nMovie: No Country for Old Men",
+    "answer": "Joel Coen and Ethan Coen"
+  },
+  {
+    "question": "Year: 2006\nMovie: The Departed",
+    "answer": "Martin Scorsese"
+  },
+  {
+    "question": "Year: 2005\nMovie: Brokeback Mountain",
+    "answer": "Ang Lee"
+  },
+  {
+    "question": "Year: 2004\nMovie: Million Dollar Baby",
+    "answer": "Clint Eastwood"
+  },
+  {
+    "question": "Year: 2003\nMovie: The Lord of the Rings: The Return of the King",
+    "answer": "Peter Jackson"
+  },
+  {
+    "question": "Year: 2002\nMovie: The Pianist",
+    "answer": "Roman Polanski"
+  },
+  {
+    "question": "Year: 2001\nMovie: A Beautiful Mind",
+    "answer": "Ron Howard"
+  },
+  {
+    "question": "Year: 2000\nMovie: Traffic",
+    "answer": "Steven Soderbergh"
+  },
+  {
+    "question": "Year: 1999\nMovie: American Beauty",
+    "answer": "Sam Mendes"
+  },
+  {
+    "question": "Year: 1998\nMovie: Saving Private Ryan",
+    "answer": "Steven Spielberg"
+  },
+  {
+    "question": "Year: 1997\nMovie: Titanic",
+    "answer": "James Cameron"
+  },
+  {
+    "question": "Year: 1996\nMovie: The English Patient",
+    "answer": "Anthony Minghella"
+  },
+  {
+    "question": "Year: 1995\nMovie: Braveheart",
+    "answer": "Mel Gibson"
+  },
+  {
+    "question": "Year: 1994\nMovie: Forrest Gump",
+    "answer": "Robert Zemeckis"
+  },
+  {
+    "question": "Year: 1993\nMovie: Schindler's List",
+    "answer": "Steven Spielberg"
+  },
+  {
+    "question": "Year: 1992\nMovie: Unforgiven",
+    "answer": "Clint Eastwood"
+  },
+  {
+    "question": "Year: 1991\nMovie: The Silence of the Lambs",
+    "answer": "Jonathan Demme"
+  },
+  {
+    "question": "Year: 1990\nMovie: Dances with Wolves",
+    "answer": "Kevin Costner"
+  },
+  {
+    "question": "Year: 1989\nMovie: Born on the Fourth of July",
+    "answer": "Oliver Stone"
+  },
+  {
+    "question": "Year: 1988\nMovie: Rain Man",
+    "answer": "Barry Levinson"
+  },
+  {
+    "question": "Year: 1987\nMovie: The Last Emperor",
+    "answer": "Bernardo Bertolucci"
+  },
+  {
+    "question": "Year: 1986\nMovie: Platoon",
+    "answer": "Oliver Stone"
+  },
+  {
+    "question": "Year: 1985\nMovie: Out of Africa",
+    "answer": "Sydney Pollack"
+  },
+  {
+    "question": "Year: 1984\nMovie: Amadeus",
+    "answer": "Milos Forman"
+  },
+  {
+    "question": "Year: 1983\nMovie: Terms of Endearment",
+    "answer": "James L. Brooks"
+  },
+  {
+    "question": "Year: 1982\nMovie: Gandhi",
+    "answer": "Richard Attenborough"
+  },
+  {
+    "question": "Year: 1981\nMovie: Reds",
+    "answer": "Warren Beatty"
+  },
+  {
+    "question": "Year: 1980\nMovie: Ordinary People",
+    "answer": "Robert Redford"
+  },
+  {
+    "question": "Year: 1979\nMovie: Kramer vs. Kramer",
+    "answer": "Robert Benton"
+  },
+  {
+    "question": "Year: 1978\nMovie: The Deer Hunter",
+    "answer": "Michael Cimino"
+  },
+  {
+    "question": "Year: 1977\nMovie: Annie Hall",
+    "answer": "Woody Allen"
+  },
+  {
+    "question": "Year: 1976\nMovie: Rocky",
+    "answer": "John G. Avildsen"
+  },
+  {
+    "question": "Year: 1975\nMovie: One Flew Over the Cuckoo's Nest",
+    "answer": "Milos Forman"
+  },
+  {
+    "question": "Year: 1974\nMovie: The Godfather Part II",
+    "answer": "Francis Ford Coppola"
+  },
+  {
+    "question": "Year: 1973\nMovie: The Sting",
+    "answer": "George Roy Hill"
+  },
+  {
+    "question": "Year: 1972\nMovie: Cabaret",
+    "answer": "Bob Fosse"
+  },
+  {
+    "question": "Year: 1971\nMovie: The French Connection",
+    "answer": "William Friedkin"
+  },
+  {
+    "question": "Year: 1970\nMovie: Patton",
+    "answer": "Franklin J. Schaffner"
+  },
+  {
+    "question": "Year: 1969\nMovie: Midnight Cowboy",
+    "answer": "John Schlesigner"
+  },
+  {
+    "question": "Year: 1968\nMovie: Oliver!",
+    "answer": "Carol Reed"
+  },
+  {
+    "question": "Year: 1967\nMovie: The Graduate",
+    "answer": "Mike Nichols"
+  },
+  {
+    "question": "Year: 1966\nMovie: A Man for All Seasons",
+    "answer": "Fred Zinnemann"
+  },
+  {
+    "question": "Year: 1965\nMovie: The Sound of Music",
+    "answer": "Robert Wise"
+  },
+  {
+    "question": "Year: 1964\nMovie: My Fair Lady",
+    "answer": "George Cukor"
+  },
+  {
+    "question": "Year: 1963\nMovie: Tom Jones",
+    "answer": "Tony Richardson"
+  },
+  {
+    "question": "Year: 1962\nMovie: Lawrence of Arabia",
+    "answer": "David Lean"
+  },
+  {
+    "question": "Year: 1961\nMovie: West Side Story",
+    "answer": "Jerome Robbins & Robert Wise"
+  },
+  {
+    "question": "Year: 1960\nMovie: The Apartment",
+    "answer": "Billy Wilder"
+  },
+  {
+    "question": "Year: 1959\nMovie: Ben-Hur",
+    "answer": "William Wyler"
+  },
+  {
+    "question": "Year: 1958\nMovie: Gigi",
+    "answer": "Vincente Minnelli"
+  },
+  {
+    "question": "Year: 1957\nMovie: The Bridge on the River Kwai",
+    "answer": "David Lean"
+  },
+  {
+    "question": "Year: 1956\nMovie: Giant",
+    "answer": "George Stevens"
+  },
+  {
+    "question": "Year: 1955\nMovie: Marty",
+    "answer": "Delbert Mann"
+  },
+  {
+    "question": "Year: 1954\nMovie: On the Waterfront",
+    "answer": "Elia Kazan"
+  },
+  {
+    "question": "Year: 1953\nMovie: From Here to Eternity",
+    "answer": "Fred Zinnemann"
+  },
+  {
+    "question": "Year: 1952\nMovie: The Quiet Man",
+    "answer": "John Ford"
+  },
+  {
+    "question": "Year: 1951\nMovie: A Place in the Sun",
+    "answer": "George Stevens"
+  },
+  {
+    "question": "Year: 1950\nMovie: All About Eve",
+    "answer": "Joseph L. Mankiewicz"
+  },
+  {
+    "question": "Year: 1949\nMovie: A Letter to Three Wives",
+    "answer": "Joseph L. Mankiewicz"
+  },
+  {
+    "question": "Year: 1948\nMovie: The Treasure of the Sierra Madre",
+    "answer": "John Huston"
+  },
+  {
+    "question": "Year: 1947\nMovie: Gentleman's Agreement",
+    "answer": "Elia Kazan"
+  },
+  {
+    "question": "Year: 1946\nMovie: The Best Years of Our Lives",
+    "answer": "William Wyler"
+  },
+  {
+    "question": "Year: 1945\nMovie: The Lost Weekend",
+    "answer": "Billy Wilder"
+  },
+  {
+    "question": "Year: 1944\nMovie: Going My Way",
+    "answer": "Leo McCarey"
+  },
+  {
+    "question": "Year: 1943\nMovie: Casablanca",
+    "answer": "Michael Curtiz"
+  },
+  {
+    "question": "Year: 1942\nMovie: Mrs. Miniver",
+    "answer": "William Wyler"
+  },
+  {
+    "question": "Year: 1941\nMovie: How Green Was My Valley",
+    "answer": "John Ford"
+  },
+  {
+    "question": "Year: 1940\nMovie: The Grapes of Wrath",
+    "answer": "John Ford"
+  },
+  {
+    "question": "Year: 1939\nMovie: Gone with the Wind",
+    "answer": "Victor Fleming"
+  },
+  {
+    "question": "Year: 1938\nMovie: You Can't Take It with You",
+    "answer": "Frank Capra"
+  },
+  {
+    "question": "Year: 1937\nMovie: The Awful Truth",
+    "answer": "Leo McCarey"
+  },
+  {
+    "question": "Year: 1936\nMovie: Mr. Deeds Goes to Town",
+    "answer": "Frank Capra"
+  },
+  {
+    "question": "Year: 1935\nMovie: The Informer",
+    "answer": "John Ford"
+  },
+  {
+    "question": "Year: 1934\nMovie: It Happened One Night",
+    "answer": "Frank Capra"
+  },
+  {
+    "question": "Year: 1933\nMovie: Cavalcade",
+    "answer": "Frank Lloyd"
+  },
+  {
+    "question": "Year: 1932\nMovie: Bad Girl",
+    "answer": "Frank Borzage"
+  },
+  {
+    "question": "Year: 1931\nMovie: Skippy",
+    "answer": "Norman Taurog"
+  },
+  {
+    "question": "Year: 1930\nMovie: All Quiet on the Western Front",
+    "answer": "Lewis Milestone"
+  },
+  {
+    "question": "Year: 1929\nMovie: The Divine Lady",
+    "answer": "Frank Lloyd"
+  },
+  {
+    "question": "Year: 1928\nMovie: Two Arabian Knights (Comedy Picture)",
+    "answer": "Lewis Milestone"
+  },
+  {
+    "question": "Year: 1928\nMovie: 7th Heaven (Dramatic Picture)",
+    "answer": "Frank Borzage"
+  }
+]

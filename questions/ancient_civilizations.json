@@ -1,10 +1,82 @@
 [
-    {
-        "question": "",
-        "answer": ""
-    },
-    {
-        "question": "",
-        "answer": ""
-    }
+  {
+    "question": "Period: 1438-1532 CE\nOriginal Location: Ancient Peru\nCurrent Location: Peru, Ecuador, Chile\nMajor Highlights: Machu Picchu, engineering, Atahualpha emperor\nNotes: South America's largest pre-Columbian empire, mail, Spanish conquistador disease",
+    "answer": "Incan"
+  },
+  {
+    "question": "Period: 1325-1521 CE\nOriginal Location: South-Central Mexico\nCurrent Location: Mexico\nMajor Highlights: Advanced/complex society, Montezuma emperor\nNotes: Tenochtitlan city, Nahuatl language, Cortes - disease and massacre",
+    "answer": "Aztec"
+  },
+  {
+    "question": "Period: 753 BCE - 476 CE\nOriginal Location: Tiber River (Italy)\nCurrent Location: <Name>\nMajor Highlights: Colosseum, Pantheon\nNotes: Defeatd by Germanic Odovacar, Julius Caesar",
+    "answer": "Roman"
+  },
+  {
+    "question": "Period: 550-331 BCE\nOriginal Location: Egypt, Turkey, Mesopotamia, Indus River\nCurrent Location: Iran\nMajor Highlights: Royal Road\nNotes: Cyrus II, Zoroastrianism religion, Darius I, Xerxes I, mail, defeated by Alexander the Great",
+    "answer": "Persian"
+  },
+  {
+    "question": "Period: 2700-479 BCE\nOriginal Location: Italy, Sicily, North Africa, France\nCurrent Location: <Name>\nMajor Highlights: Democracy, Senate, Olympics\nNotes: Art, science, technology, literature, Homer, Athens, Sparta",
+    "answer": "Greek"
+  },
+  {
+    "question": "Period: 1600-1046 BCE\nOriginal Location: Yellow River to Yangtze Region\nCurrent Location: <Name>\nMajor Highlights: Inventions - Paper, Silk\nNotes: Dynasties, gunpowder, porcelain, ",
+    "answer": "Chinese"
+  },
+  {
+    "question": "Period: 2600 BCE - 900 CE\nOriginal Location: Yucatan\nCurrent Location: Eastern Mexico, Guatemala, Belize, El Salvador, Honduras\nMajor Highlights: Astronomy\nNotes: Pyramids, human sacrifice, Spanish conquest/disease 16th c.",
+    "answer": "Mayan"
+  },
+  {
+    "question": "Period: 3150-30 BCE\nOriginal Location: Banks of the Nile\nCurrent Location: <Name>\nMajor Highlights: Pyramids, mummification, pharaohs\nNotes: Ramses II, Cleopatra, Assyrians/Greeks/Romans weakened, Arabs conquered 640 CE",
+    "answer": "Egyptian"
+  },
+  {
+    "question": "Period: 6500-539 BCE\nOriginal Location: Zagros Mountains, Arabian Plateua\nCurrent Location: Iraq, Syria, Turkey\nMajor Highlights: First civilization, Tigris/Euphrates, cuneiform writing\nNotes: Wheel invention, Sumerians, Akkadians, Babylonians, Hittites, Persians conquered",
+    "answer": "Mesopotamian"
+  },
+  {
+    "question": "Period: 2600-1900 BCE\nOriginal Location: Namesake River Basin\nCurrent Location: Afghanistan, Pakistan, NW India\nMajor Highlights: Vast, peaceful, drains, sewage\nNotes: Resource rich, undone by Central Asian invaders and climate change",
+    "answer": "Indus Valley"
+  },
+  {
+    "question": "Period: 1800-1180 BCE\nOriginal Location: North-Central Anatolia\nCurrent Location: Turkey, Syria\nMajor Highlights: Battle of Kadesh, chariots\nNotes: Defeated by Ramses II, Cilician Gates",
+    "answer": "Hittite"
+  },
+  {
+    "question": "Period: 1200-539 BCE\nOriginal Location: Mediterranean\nCurrent Location: Fertile Crescent, Lebanon\nMajor Highlights: Maritime trade, Namesake alphabet\nNotes: Galley (sailing), purple dye, trade with Greece/Rome",
+    "answer": "Phoenician"
+  },
+  {
+    "question": "Period: 814-146 BCE\nOriginal Location: North Africa\nCurrent Location: Tunisia, Algeria, Morocco\nMajor Highlights: Hannibal, Punic Wars\nNotes: Riches, war elephants, Phoenician founding, Greek/Berber rivals, conquered by Rome",
+    "answer": "Carthaginian"
+  },
+  {
+    "question": "Period: 321-185 BCE\nOriginal Location: India\nCurrent Location: India, Central Asia, Thailand, Myanmar, Egypt, Syria China\nMajor Highlights: Ashoka the Great, Buddhism\nNotes: Kumara (prince) and Mahatmyas (council), civil service, war elephants, espionage",
+    "answer": "Mauryan"
+  },
+  {
+    "question": "Period: 319-467 CE\nOriginal Location: India\nCurrent Location: India, Pakistan, Nepal, Bangladesh, Afghanistan\nMajor Highlights: Chandragupta I/II, Vatsyayana (scholar)\nNotes: Kalidasa (Sanskrit poet), Mahabharata/Ramayana (epics), Brahmins (religious rulers)",
+    "answer": "Gupta"
+  },
+  {
+    "question": "Period: 1600-400 BCE\nOriginal Location: Mesoamerica\nCurrent Location: Veracruz/Tabasco, Mexico\nMajor Highlights: First Mesoamerican civilization, Soconusco\nNotes: San Lorenzo Tenochtitlan site, ritual bloodletting, Mesoamerican ballgame, \"colossal heads\" artwork",
+    "answer": "Olmec"
+  },
+  {
+    "question": "Period: 950-1150 CE\nOriginal Location: Mesoamerica\nCurrent Location: Tula, Hidalgo, Mexico\nMajor Highlights: Nahuatl language, Aztec predecessors\nNotes: Tula archeological site (similar to Mayan site Chichen Itza)",
+    "answer": "Toltec"
+  },
+  {
+    "question": "Period: 370-469 CE\nOriginal Location: Steppe\nCurrent Location: Central Asia, Caucasus, Eastern Europe\nMajor Highlights: King Attilla, raids on Roman Empire\nNotes: Volga, battled (Visi)Goths/Germans/Gaul, Battle of the Catalaunian Fields, nomadic pastoralism",
+    "answer": "Hun"
+  },
+  {
+    "question": "Period: 1206-1368 CE\nOriginal Location: East/Central Asia\nCurrent Location: Mongolia, China, Russia\nMajor Highlights: Genghis Khan (Temujin), Kublai Khan, Temur\nNotes: Largest land empire ever, Pax Mongolica, Yuan Dynasty, Golden Horde Khanate",
+    "answer": "Mongol"
+  },
+  {
+    "question": "Period: 312 BCE - 63 CE\nOriginal Location: Western Asia\nCurrent Location: Middle East\nMajor Highlights: Seleucus I Nicator, Hellenistic\nNotes: Preceded by Macedonian (Alexander the Great), annexed by Pompey in 63",
+    "answer": "Seleucid"
+  }
 ]

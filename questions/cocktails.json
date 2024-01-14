@@ -1,0 +1,142 @@
+[
+  {
+    "question": "Main Liquor: Bourbon\nIngredients: Sugar, water, bitters",
+    "answer": "Old Fashioned"
+  },
+  {
+    "question": "Main Liquor: Gin\nIngredients: Vermouth, Campari",
+    "answer": "Negroni"
+  },
+  {
+    "question": "Main Liquor: Rum\nIngredients: Sugar, lime, fruit",
+    "answer": "Daiquiri"
+  },
+  {
+    "question": "Main Liquor: Gin\nIngredients: Dry vermouth, orange bitters, lemon twist",
+    "answer": "Dry Martini"
+  },
+  {
+    "question": "Main Liquor: Tequila\nIngredients: Orange-flavored liqueur (triple sec, Cointreau, Gran Marnier), lime juice",
+    "answer": "Margarita"
+  },
+  {
+    "question": "Main Liquor: Vodka\nIngredients: Espresso, coffee-flavored liqueur",
+    "answer": "Espresso Martini"
+  },
+  {
+    "question": "Main Liquor: Whiskey\nIngredients: Sugar, lemon, egg white (optional)",
+    "answer": "Whiskey Sour"
+  },
+  {
+    "question": "Main Liquor: Whiskey\nIngredients: Sweet vermouth, bitters",
+    "answer": "Manhattan"
+  },
+  {
+    "question": "Main Liquor: Aperol\nIngredients: Bubbly wine, sparkling water",
+    "answer": "Aperol Spritz"
+  },
+  {
+    "question": "Main Liquor: Rum\nIngredients: Lime, mint, sugar",
+    "answer": "Mojito"
+  },
+  {
+    "question": "Main Liquor: Vodka\nIngredients: Tomato juice, Worcestershire sauce, black pepper, celery salt, Tabasco, lemon juice",
+    "answer": "Bloody Mary"
+  },
+  {
+    "question": "Main Liquor: Gin\nIngredients: Lime juice, sugar",
+    "answer": "Gimlet"
+  },
+  {
+    "question": "Main Liquor: Vodka\nIngredients: Vodka, ginger beer, lime juice, copper mug",
+    "answer": "Moscow Mule"
+  },
+  {
+    "question": "Main Liquor: Scotch\nIngredients: Lemon juice, honey-ginger syrup, candied ginger",
+    "answer": "Penicillin"
+  },
+  {
+    "question": "Main Liquor: Rum\nIngredients: Ginger beer",
+    "answer": "Dark 'n Stormy"
+  },
+  {
+    "question": "Main Liquor: Absinthe\nIngredients: Gin, Lillet blanc, orange liqueur",
+    "answer": "Corpse Reviver"
+  },
+  {
+    "question": "Main Liquor: Gin\nIngredients: Raspberry, egg white",
+    "answer": "Clover Club"
+  },
+  {
+    "question": "Main Liquor: Whiskey\nIngredients: Vermouth, Campari",
+    "answer": "Boulevardier"
+  },
+  {
+    "question": "Main Liquor: Rum\nIngredients: Orange curacao, orgeat (almond syrup), lime juice",
+    "answer": "Mai"
+  },
+  {
+    "question": "Main Liquor: Rye\nIngredients: Sugar, bitters",
+    "answer": "Sazerac"
+  },
+  {
+    "question": "Main Liquor: Gin\nIngredients: Lemon juice, sugar, Champagne",
+    "answer": "French 75"
+  },
+  {
+    "question": "Main Liquor: Tequila\nIngredients: Lime juice, grapefruit juice (also Squirt, Tang, Fresca)",
+    "answer": "Paloma"
+  },
+  {
+    "question": "Main Liquor: Pisco\nIngredients: Lime juice, egg white, bitters",
+    "answer": "Pisco Sour"
+  },
+  {
+    "question": "Main Liquor: Amaretto\nIngredients: Lemon juice, sugar (or sweet and sour mix), egg white (optional)",
+    "answer": "Amaretto Sour"
+  },
+  {
+    "question": "Main Liquor: Gin\nIngredients: Lemon juice, sugar, club soda, egg white",
+    "answer": "Gin Fizz"
+  },
+  {
+    "question": "Main Liquor: Prosecco\nIngredients: White peach puree",
+    "answer": "Bellini"
+  },
+  {
+    "question": "Main Liquor: Rum\nIngredients: Coconut, pineapple, lime juice",
+    "answer": "Pina Colada"
+  },
+  {
+    "question": "Main Liquor: Cognac\nIngredients: Orange liqueur, lemon juice, sugared rim",
+    "answer": "Sidecar"
+  },
+  {
+    "question": "Main Liquor: Gin\nIngredients: Creme de violette, maraschino liqueur, lemon juice",
+    "answer": "Aviation"
+  },
+  {
+    "question": "Main Liquor: Irish Whiskey\nIngredients: Irish Creme, coffee",
+    "answer": "Irish Coffee"
+  },
+  {
+    "question": "Main Liquor: Gin\nIngredients: Lemon juice, sugar, club soda ",
+    "answer": "Tom Collins"
+  },
+  {
+    "question": "Main Liquor: Cachaca\nIngredients: Lime juice, sugar",
+    "answer": "Caipirinha"
+  },
+  {
+    "question": "Main Liquor: Vodka\nIngredients: Cointreau, lime juice, cranberry juice",
+    "answer": "Cosmpolitan"
+  },
+  {
+    "question": "Main Liquor: Vodka\nIngredients: Rum, gin, tequila, triple sec, lemon juice, cola",
+    "answer": "Long Island Iced Tea"
+  },
+  {
+    "question": "Main Liquor: \nIngredients: ",
+    "answer": "Sex on the Beach"
+  }
+]

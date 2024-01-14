@@ -1,0 +1,174 @@
+[
+  {
+    "question": "Year: 1980\nRole: Jake LaMotta\nMovie: Raging Bull",
+    "answer": "Robert DeNiro"
+  },
+  {
+    "question": "Year: 1981\nRole: Norman Thayer Jr.\nMovie: On Golden Pond",
+    "answer": "Henry Fonda"
+  },
+  {
+    "question": "Year: 1982\nRole: Mahatma Gandhi\nMovie: Gandhi",
+    "answer": "Ben Kingsley"
+  },
+  {
+    "question": "Year: 1983\nRole: Mac Sledge\nMovie: Tender Mercies",
+    "answer": "Robert Duvall"
+  },
+  {
+    "question": "Year: 1984\nRole: Antonio Salieri\nMovie: Amadeus",
+    "answer": "F. Murray Abraham"
+  },
+  {
+    "question": "Year: 1985\nRole: Luis Molina\nMovie: Kiss of the Spider Woman",
+    "answer": "William Hurt"
+  },
+  {
+    "question": "Year: 1986\nRole: \"Fast\" Eddie Felson\nMovie: The Color of Money",
+    "answer": "Paul Newman"
+  },
+  {
+    "question": "Year: 1987\nRole: Gordon Gekko\nMovie: Wall Street",
+    "answer": "Michael Douglas"
+  },
+  {
+    "question": "Year: 1988\nRole: Raymond Babbitt\nMovie: Rain Man",
+    "answer": "Dustin Hoffman"
+  },
+  {
+    "question": "Year: 1989\nRole: Christy Brown\nMovie: My Left Foot",
+    "answer": "Daniel Day-Lewis"
+  },
+  {
+    "question": "Year: 1990\nRole: Claus von Bulow\nMovie: Reversal of Fortune",
+    "answer": "Jeremy Irons"
+  },
+  {
+    "question": "Year: 1991\nRole: Dr. Hannibal Lecter\nMovie: The Silence of the Lambs",
+    "answer": "Anthony Hopkins"
+  },
+  {
+    "question": "Year: 1992\nRole: Lt. Col. Frank Slade\nMovie: Scent of a Woman",
+    "answer": "Al Pacino"
+  },
+  {
+    "question": "Year: 1993\nRole: Andrew Beckett\nMovie: Philadelphia",
+    "answer": "Tom Hanks"
+  },
+  {
+    "question": "Year: 1994\nRole: Forrest Gump\nMovie: Forrest Gump",
+    "answer": "Tom Hanks"
+  },
+  {
+    "question": "Year: 1995\nRole: Ben Sanderson\nMovie: Leaving Las Vegas",
+    "answer": "Nicholas Cage"
+  },
+  {
+    "question": "Year: 1996\nRole: David Helfgott\nMovie: Shine",
+    "answer": "Geoffrey Rush"
+  },
+  {
+    "question": "Year: 1997\nRole: Melvin Udall\nMovie: As Good as It Gets",
+    "answer": "Jack Nicholson"
+  },
+  {
+    "question": "Year: 1998\nRole: Guido Orefice\nMovie: Life is Beautiful",
+    "answer": "Roberto Benigni"
+  },
+  {
+    "question": "Year: 1999\nRole: Lester Burnham\nMovie: American Beauty",
+    "answer": "Kevin Spacey"
+  },
+  {
+    "question": "Year: 2000\nRole: Maximus Decimus Meridius\nMovie: Gladiator",
+    "answer": "Russell Crowe"
+  },
+  {
+    "question": "Year: 2001\nRole: Alonzo Harris\nMovie: Training Day",
+    "answer": "Denzel Washington"
+  },
+  {
+    "question": "Year: 2002\nRole: Wladyslaw Szpilman\nMovie: The Pianist",
+    "answer": "Adrian Brody"
+  },
+  {
+    "question": "Year: 2003\nRole: Jimmy Markum\nMovie: Mystic River",
+    "answer": "Sean Penn"
+  },
+  {
+    "question": "Year: 2004\nRole: Ray Charles\nMovie: Ray",
+    "answer": "Jamie Foxx"
+  },
+  {
+    "question": "Year: 2005\nRole: Truman Capote\nMovie: Capote",
+    "answer": "Philip Seymour Hoffman"
+  },
+  {
+    "question": "Year: 2006\nRole: Idi Amin\nMovie: The Last King of Scotland",
+    "answer": "Forest Whitaker"
+  },
+  {
+    "question": "Year: 2007\nRole: Daniel Plainview\nMovie: There Will Be Blood",
+    "answer": "Daniel Day-Lewis"
+  },
+  {
+    "question": "Year: 2008\nRole: Harvey Milk\nMovie: Milk",
+    "answer": "Sean Penn"
+  },
+  {
+    "question": "Year: 2009\nRole: Otis \"Bad\" Blake\nMovie: Crazy Heart",
+    "answer": "Jeff Bridges"
+  },
+  {
+    "question": "Year: 2010\nRole: King George VI\nMovie: The King's Speech",
+    "answer": "Colin Firth"
+  },
+  {
+    "question": "Year: 2011\nRole: George Valentin\nMovie: The Artist",
+    "answer": "Jean Dujardin"
+  },
+  {
+    "question": "Year: 2012\nRole: Abraham Lincoln\nMovie: Lincoln",
+    "answer": "Daniel Day-Lewis"
+  },
+  {
+    "question": "Year: 2013\nRole: Ron Woodroof\nMovie: Dallas Buyers Club",
+    "answer": "Matthew McConaughey"
+  },
+  {
+    "question": "Year: 2014\nRole: Stephen Hawking\nMovie: The Theory of Everything",
+    "answer": "Eddie Redmayne"
+  },
+  {
+    "question": "Year: 2015\nRole: Hugh Glass\nMovie: The Revenant",
+    "answer": "Leonardo DiCaprio"
+  },
+  {
+    "question": "Year: 2016\nRole: Lee Chandler\nMovie: Manchester by the Sea",
+    "answer": "Casey Affleck"
+  },
+  {
+    "question": "Year: 2017\nRole: Winston Churchill\nMovie: Darkest Hour",
+    "answer": "Gary Oldman"
+  },
+  {
+    "question": "Year: 2018\nRole: Freddie Mercury\nMovie: Bohemian Rhapsody",
+    "answer": "Rami Malek"
+  },
+  {
+    "question": "Year: 2019\nRole: Arthur Fleck / Joker\nMovie: Joker",
+    "answer": "Joaquin Phoenix"
+  },
+  {
+    "question": "Year: 2020\nRole: Anthony\nMovie: The Father",
+    "answer": "Anthony Hopkins"
+  },
+  {
+    "question": "Year: 2021\nRole: Richard Williams\nMovie: King Richard",
+    "answer": "Will Smith"
+  },
+  {
+    "question": "Year: 2022\nRole: Charlie\nMovie: The Whale",
+    "answer": "Brendan Fraser"
+  }
+]
